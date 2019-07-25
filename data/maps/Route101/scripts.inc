@@ -226,17 +226,10 @@ Route101_EventScript_14EA7F:: @ 814EA7F
 	waitmovement 0
 	special ScrSpecial_ChooseStarter
 	waitstate
-	applymovement 2, Route101_Movement_14EAD7
-	waitmovement 0
-	msgbox Route101_Text_16D191, 4
-	special ScrSpecial_HealPlayerParty
-	setflag FLAG_HIDE_BIRCH_BATTLE_POOCHYENA
-	clearflag FLAG_HIDE_BIRCH_IN_LAB
-	setflag FLAG_HIDE_BIRCH_STARTERS_BAG
-	setvar VAR_BIRCH_LAB_STATE, 2
-	setvar VAR_ROUTE101_STATE, 3
-	clearflag FLAG_SPECIAL_FLAG_0
-	warp MAP_LITTLEROOT_TOWN_PROFESSOR_BIRCHS_LAB, 255, 6, 5
+	
+	@ Warp the player (and set up stuff depending on where)
+	call WarpMenu
+    
 	waitstate
 	release
 	end

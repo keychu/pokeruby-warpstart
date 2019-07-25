@@ -13,10 +13,14 @@ RustboroCity_Gym_EventScript_1578FE:: @ 81578FE
 	waitmessage
 	call RustboroCity_Gym_EventScript_1A02C5
 	msgbox RustboroCity_Gym_Text_1840D5, 4
-	setflag FLAG_DEFEATED_RUSTBORO_GYM
+	
+    @ Only increment Petalburg Gym state if the player didn't already
+    @ have this badge.
+    call_if_unset FLAG_BADGE01_GET, Check_Increment_Petalburg_Gym_State
+    
+    setflag FLAG_DEFEATED_RUSTBORO_GYM
 	setflag FLAG_BADGE01_GET
-	setvar VAR_RUSTBORO_STATE, 1
-	addvar VAR_PETALBURG_GYM_STATE, 1
+	setvar VAR_RUSTBORO_STATE, 1    
 	setvar VAR_SPECIAL_8, 1
 	call RustboroCity_Gym_EventScript_1A01C0
 	compare VAR_PETALBURG_GYM_STATE, 6

@@ -873,7 +873,8 @@ static void CB2_GiveStarter(void)
     starterPoke = GetStarterPokemon(gSpecialVar_Result);
     ScriptGiveMon(starterPoke, 5, 0, 0, 0, 0);
     ResetTasks();
-    sub_80408BC();
+    sub_80408BC(); //may want to get rid of (see pokemon_3.c for function definition)
+    
     SetMainCallback2(CB2_StartFirstBattle);
     BattleTransition_Start(0);
 }

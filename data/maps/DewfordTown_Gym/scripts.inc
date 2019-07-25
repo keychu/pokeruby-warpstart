@@ -107,9 +107,13 @@ DewfordTown_Gym_EventScript_153177:: @ 8153177
 	waitmessage
 	call DewfordTown_Gym_EventScript_1A02C5
 	msgbox DewfordTown_Gym_Text_1752E6, 4
-	setflag FLAG_DEFEATED_DEWFORD_GYM
+	
+    @ Only increment Petalburg Gym state if the player didn't already
+    @ have this badge.
+    call_if_unset FLAG_BADGE02_GET, Check_Increment_Petalburg_Gym_State
+    
+    setflag FLAG_DEFEATED_DEWFORD_GYM
 	setflag FLAG_BADGE02_GET
-	addvar VAR_PETALBURG_GYM_STATE, 1
 	compare VAR_PETALBURG_GYM_STATE, 6
 	call_if_eq DewfordTown_Gym_EventScript_1A00FB
 	setvar VAR_SPECIAL_8, 2

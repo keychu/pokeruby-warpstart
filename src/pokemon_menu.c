@@ -117,6 +117,8 @@ EWRAM_DATA static u8 sPokeMenuCursorPos = 0;
 EWRAM_DATA static u8 sPokeMenuOptionsNo = 0;
 EWRAM_DATA static u8 sPokeMenuOptionsOrder[8] = {0}; // 4 possible field moves and 4 default options
 
+extern EWRAM_DATA bool8 gWarp_PokemonSummaryScreenActive;   //ADDED
+
 // iwram common
 u8 gLastFieldPokeMenuOpened;
 void (*gPostMenuFieldCallback)(void);
@@ -1181,6 +1183,8 @@ void sub_808B508(u8 taskID)
     sub_808B224(taskID);
 }
 
+//NOTE: Opens the menu, needs to for levelup because it saves some of
+//  the data it needs to menu settings.
 static void sub_808B518(void)
 {
     while (1)
@@ -1197,6 +1201,7 @@ static void sub_808B518(void)
     }
 }
 
+//NOTE: THIS IS THE CALLBACK. VERY IMPORTANT
 void sub_808B564(void)
 {
     gPaletteFade.bufferTransferDisabled = 1;

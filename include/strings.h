@@ -16,6 +16,17 @@ extern const u8 gExpandedPlaceholder_Groudon[];
 extern const u8 gExpandedPlaceholder_Brendan[];
 extern const u8 gExpandedPlaceholder_May[];
 
+//WarpStart added!
+extern const u8 WarpStartText_Rustboro[];
+extern const u8 WarpStartText_Slateport[];
+extern const u8 WarpStartText_Mauville[];
+extern const u8 WarpStartText_Fallarbor[];
+extern const u8 WarpStartText_Lavaridge[];
+extern const u8 WarpStartText_Fortree[];
+extern const u8 WarpStartText_Lilycove[];
+extern const u8 WarpStartText_Mossdeep[];
+extern const u8 WarpStartText_NoWarp[];
+
 // system text
 extern const u8 gSystemText_Egg[];
 extern const u8 gSystemText_Pokemon2[];

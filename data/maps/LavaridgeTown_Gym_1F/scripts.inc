@@ -70,9 +70,13 @@ LavaridgeTown_Gym_1F_EventScript_153766:: @ 8153766
 	waitmessage
 	call LavaridgeTown_Gym_1F_EventScript_1A02C5
 	msgbox LavaridgeTown_Gym_1F_Text_176A8C, 4
-	setflag FLAG_DEFEATED_LAVARIDGE_GYM
-	setflag FLAG_BADGE04_GET
-	addvar VAR_PETALBURG_GYM_STATE, 1
+	
+    @ Only increment Petalburg Gym state if the player didn't already
+    @ have this badge.
+    call_if_unset FLAG_BADGE04_GET, Check_Increment_Petalburg_Gym_State
+    
+    setflag FLAG_DEFEATED_LAVARIDGE_GYM
+	setflag FLAG_BADGE04_GET    
 	compare VAR_PETALBURG_GYM_STATE, 6
 	call_if_eq LavaridgeTown_Gym_1F_EventScript_1A00FB
 	setvar VAR_SPECIAL_8, 4

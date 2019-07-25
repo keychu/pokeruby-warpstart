@@ -18,6 +18,17 @@ const u8 gExpandedPlaceholder_Groudon[] = _("GROUDON");
 const u8 gExpandedPlaceholder_Brendan[] = _("BRENDAN");
 const u8 gExpandedPlaceholder_May[] = _("MAY");
 
+//WarpStart added!
+const u8 WarpStartText_Rustboro[] = _("RUSTBORO");
+const u8 WarpStartText_Slateport[] = _("SLATEPORT");
+const u8 WarpStartText_Mauville[] = _("MAUVILLE");
+const u8 WarpStartText_Fallarbor[] = _("FALLARBOR");
+const u8 WarpStartText_Lavaridge[] = _("LAVARIDGE");
+const u8 WarpStartText_Fortree[] = _("FORTREE");
+const u8 WarpStartText_Lilycove[] = _("LILYCOVE");
+const u8 WarpStartText_Mossdeep[] = _("MOSSDEEP");
+const u8 WarpStartText_NoWarp[] = _("No Warp");
+
 // system text
 const u8 gSystemText_Egg[] = _("EGG");
 const u8 gSystemText_Pokemon2[] = _("POKéMON");

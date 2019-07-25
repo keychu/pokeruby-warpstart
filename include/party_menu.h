@@ -228,4 +228,7 @@ void TaughtMove(u8 taskId);
 void StopTryingToTeachMove_806F588(u8 taskId);
 bool8 IsHMMove(u16 move);
 
+void WarpStartRareCandy();
+void Task_WarpStartRareCandy(u8 taskId);
+
 #endif // GUARD_PARTY_MENU_H

@@ -94,6 +94,9 @@ EWRAM_DATA static u16 sAmbientCrySpecies = 0;
 EWRAM_DATA static bool8 sIsAmbientCryWaterMon = FALSE;
 EWRAM_DATA struct LinkPlayerEventObject gLinkPlayerEventObjects[4] = {0};
 
+extern EWRAM_DATA bool8 gWarp_PokemonSummaryScreenActive; //ADDED
+extern EWRAM_DATA bool8 gWarp_LevelUpActive; //ADDED
+
 static u8 gUnknown_03000580[4];
 static u16 (*gUnknown_03000584)(u32);
 static u8 gUnknown_03000588;
@@ -1224,7 +1227,17 @@ static void CB1_Overworld(void)
 
 static void OverworldBasic(void)
 {
-    ScriptContext2_RunScript();
+    //ADDED. Unsure of all the possible effects of this; seems to work for Auto Rare Candy.
+    if(!gWarp_PokemonSummaryScreenActive){
+        ScriptContext2_RunScript();
+    }
+    else{
+        gWarp_PokemonSummaryScreenActive = FALSE;
+        gWarp_LevelUpActive = FALSE;
+        ScriptContext2_Enable();
+    }
+
+    //ScriptContext2_RunScript();
     RunTasks();
     AnimateSprites();
     CameraUpdate();
@@ -1234,7 +1247,6 @@ static void OverworldBasic(void)
     sub_8072EDC();
 }
 
-// This CB2 is used when starting
 void CB2_OverworldBasic(void)
 {
     OverworldBasic();
@@ -1279,7 +1291,7 @@ void CB2_NewGame(void)
     PlayTimeCounter_Start();
     ScriptContext1_Init();
     ScriptContext2_Disable();
-    gFieldCallback = ExecuteTruckSequence;
+    //gFieldCallback = ExecuteTruckSequence;
     do_load_map_stuff_loop(&gMain.state);
     SetFieldVBlankCallback();
     SetMainCallback1(CB1_Overworld);

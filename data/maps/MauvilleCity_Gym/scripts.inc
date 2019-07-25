@@ -79,9 +79,13 @@ MauvilleCity_Gym_EventScript_1565DB:: @ 81565DB
 	waitmessage
 	call MauvilleCity_Gym_EventScript_1A02C5
 	msgbox MauvilleCity_Gym_Text_180DDA, 4
-	setflag FLAG_DEFEATED_MAUVILLE_GYM
+	
+    @ Only increment Petalburg Gym state if the player didn't already
+    @ have this badge.
+    call_if_unset FLAG_BADGE03_GET, Check_Increment_Petalburg_Gym_State
+    
+    setflag FLAG_DEFEATED_MAUVILLE_GYM
 	setflag FLAG_BADGE03_GET
-	addvar VAR_PETALBURG_GYM_STATE, 1
 	compare VAR_PETALBURG_GYM_STATE, 6
 	call_if_eq MauvilleCity_Gym_EventScript_1A00FB
 	setvar VAR_SPECIAL_8, 3

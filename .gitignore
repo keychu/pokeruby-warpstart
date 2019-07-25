@@ -42,4 +42,7 @@ build/
 *.pl
 .vs/
 .projects/ARM/
+
+.directory
 *.diff
+*.sav

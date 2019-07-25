@@ -467,6 +467,19 @@ const struct MenuAction MultichoiceList_72[] =
     {gOtherText_CancelNoTerminator, NULL},
 };
 
+const struct MenuAction MultichoiceList_73[] =
+{
+    {WarpStartText_Rustboro, NULL},
+    {WarpStartText_Slateport, NULL},
+    {WarpStartText_Mauville, NULL},
+    {WarpStartText_Fallarbor, NULL},
+    {WarpStartText_Lavaridge, NULL},
+    {WarpStartText_Fortree, NULL},
+    {WarpStartText_Lilycove, NULL},
+    {WarpStartText_Mossdeep, NULL},
+    {WarpStartText_NoWarp, NULL}
+};
+
 const struct MenuAction MultichoiceList_01[] =
 {
     {gOtherText_CancelNoTerminator, NULL},
@@ -553,6 +566,7 @@ const struct MultichoiceListStruct gMultichoiceLists[] =
     {MultichoiceList_70, ARRAY_COUNT(MultichoiceList_70)},
     {MultichoiceList_71, ARRAY_COUNT(MultichoiceList_71)},
     {MultichoiceList_72, ARRAY_COUNT(MultichoiceList_72)},
+    {MultichoiceList_73, ARRAY_COUNT(MultichoiceList_73)},
 };
 
 const u8 *const gUnknown_083CE048[] =

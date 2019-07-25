@@ -12,26 +12,31 @@ struct Task gTasks[ACTIVE_SENTINEL];
 static void InsertTask(u8 newTaskId);
 static u8 FindFirstActiveTask();
 
+extern EWRAM_DATA bool8 gWarp_PokemonSummaryScreenActive;   //ADDED
+
 const u8 gError_NoTasksLeft[] = _(
     "TASK OVER\n"
     "タスクがオーバーしました");
 
 void ResetTasks()
 {
-    u8 taskId;
+    //ADDED. STOP ALL THESE FUNCTIONS FROM CLEARING THE TASKS DURING AUTO RARE CANDY
+    if(!gWarp_PokemonSummaryScreenActive){
+        u8 taskId;
 
-    for (taskId = 0; taskId < ACTIVE_SENTINEL; taskId++)
-    {
-        gTasks[taskId].isActive = FALSE;
-        gTasks[taskId].func = TaskDummy;
-        gTasks[taskId].prev = taskId;
-        gTasks[taskId].next = taskId + 1;
-        gTasks[taskId].priority = -1;
-        memset(gTasks[taskId].data, 0, sizeof(gTasks[taskId].data));
+        for (taskId = 0; taskId < ACTIVE_SENTINEL; taskId++)
+        {
+            gTasks[taskId].isActive = FALSE;
+            gTasks[taskId].func = TaskDummy;
+            gTasks[taskId].prev = taskId;
+            gTasks[taskId].next = taskId + 1;
+            gTasks[taskId].priority = -1;
+            memset(gTasks[taskId].data, 0, sizeof(gTasks[taskId].data));
+        }
+
+        gTasks[0].prev = HEAD_SENTINEL;
+        gTasks[ACTIVE_SENTINEL - 1].next = TAIL_SENTINEL;
     }
-
-    gTasks[0].prev = HEAD_SENTINEL;
-    gTasks[ACTIVE_SENTINEL - 1].next = TAIL_SENTINEL;
 }
 
 u8 CreateTask(TaskFunc func, u8 priority)

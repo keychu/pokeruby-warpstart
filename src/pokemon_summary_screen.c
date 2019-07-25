@@ -578,6 +578,7 @@ void sub_809D85C(void)
     TransferPlttBuffer();
 }
 
+//NOTE
 void ShowPokemonSummaryScreen(struct Pokemon *party, u8 monIndex, u8 maxMonIndex, MainCallback callback, u8 mode)
 {
     gPaletteFade.bufferTransferDisabled = 1;
@@ -618,7 +619,7 @@ void ShowPokemonSummaryScreen(struct Pokemon *party, u8 monIndex, u8 maxMonIndex
         pssData.headerActionTextId = 7;
         pssData.disableMoveOrderEditing = TRUE;
         break;
-    case PSS_MODE_SELECT_MOVE:
+    case PSS_MODE_SELECT_MOVE: //here
         pssData.firstPage = PSS_PAGE_BATTLE_MOVES;
         pssData.lastPage = PSS_PAGE_CONTEST_MOVES;
         pssData.unk77 = 1;
@@ -640,6 +641,7 @@ void ShowPokemonSummaryScreen(struct Pokemon *party, u8 monIndex, u8 maxMonIndex
     SetMainCallback2(sub_809DE44);
 }
 
+//NOTE
 void ShowSelectMovePokemonSummaryScreen(struct Pokemon *party, u8 monIndex, u8 maxMonIndex, MainCallback callback, u16 move)
 {
     ShowPokemonSummaryScreen(party, monIndex, maxMonIndex, callback, PSS_MODE_SELECT_MOVE);
@@ -668,6 +670,7 @@ void sub_809DA1C(void)
     }
 }
 
+//NOTE: Menu for choosing a move to overwrite
 bool8 sub_809DA84(void)
 {
     switch (gMain.state)
@@ -706,7 +709,7 @@ bool8 sub_809DA84(void)
             gMain.state++;
         break;
     case 8:
-        sub_809DA1C();
+        sub_809DA1C(); //IMPORTANT. create task to handle menu input - which CALLS THE CALLBACK
         gMain.state++;
         break;
     case 9:
@@ -811,6 +814,7 @@ bool8 sub_809DA84(void)
     return FALSE;
 }
 
+//NOTE
 static void sub_809DE44(void)
 {
     while (sub_809DA84() != TRUE && sub_80F9344() != TRUE)

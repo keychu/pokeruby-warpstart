@@ -38,6 +38,12 @@
 #include "script_pokemon_80F9.h"
 #include "ewram.h"
 
+#include "script.h"
+#include "overworld.h"
+#include "event_obj_lock.h"
+#include "event_object_movement.h"
+#include "field_control_avatar.h"
+
 struct Coords8
 {
     u8 x;
@@ -109,6 +115,9 @@ EWRAM_DATA u8 gUnknown_0202E8F5 = 0;
 EWRAM_DATA u8 gUnknown_0202E8F6 = 0;
 EWRAM_DATA u16 gUnknown_0202E8F8 = 0;
 EWRAM_DATA u8 gPartyMenuType = 0;
+
+EWRAM_DATA bool8 gWarp_PokemonSummaryScreenActive = FALSE; //ADDED
+EWRAM_DATA bool8 gWarp_LevelUpActive = FALSE; //ADDED
 
 const u16 TMHMMoves[] =
 {
@@ -535,6 +544,7 @@ void VBlankCB_PartyMenu(void)
     ReDrawPartyMonBackgrounds();
 }
 
+//NOTE
 void SetPartyMenuSettings(u8 menuType, u8 battleTypeFlags, TaskFunc menuHandlerFunc, u8 textId)
 {
     if (battleTypeFlags != 0xFF)
@@ -3915,10 +3925,12 @@ void Task_TeamMonTMMove4(u8 taskId)
             SetHeldItemIconVisibility(ewram1C000.unk4, ewram1C000.primarySelectedMonIndex);
             if (ewram1B000.unk282 == 1)
             {
+                //back to teaching more moves if needed.
                 TeachMonMoveInPartyMenu(taskId);
             }
             else
             {
+                //never seen the code reach here
                 gTasks[ewram1C000.unk4].func = ewram1C000.unk10;
                 DestroyTask(taskId);
             }
@@ -3972,10 +3984,14 @@ void sub_806F390(u8 taskId)
     }
 }
 
+//NOTE
 void sub_806F3FC(u8 taskId)
 {
     if (!gPaletteFade.active)
     {
+        if(gWarp_LevelUpActive){ //ADDED. don't do this if not during Auto Rare Candy.
+            gWarp_PokemonSummaryScreenActive = TRUE;
+        }     
         ShowSelectMovePokemonSummaryScreen(gPlayerParty, ewram1C000.primarySelectedMonIndex, gPlayerPartyCount - 1, sub_808B564, ewram1C000.unk8);
         DestroyTask(taskId);
     }
@@ -4050,6 +4066,7 @@ void StopTryingToTeachMove_806F67C(u8 taskId)
     }
 }
 
+//NOTE: split
 void StopTryingToTeachMove_806F6B4(u8 taskId)
 {
     s8 selection = Menu_ProcessInputNoWrap_();
@@ -4624,6 +4641,115 @@ const u8 gUnknown_Debug_839B6D8[] = _(
 
 #endif
 
+//ADDED
+void WarpStartRareCandy(){
+    u8 taskId;
+    int rareCandyCount = 0;
+    while(CheckBagHasItem(ITEM_RARE_CANDY, rareCandyCount + 1)){
+        rareCandyCount++;
+    }
+    
+    /* StringExpandPlaceholders(rareCandyString, WarpRareCandytext);
+    Menu_DisplayDialogueFrame();
+    MenuPrintMessageDefaultCoords(rareCandyString);*/
+
+    taskId = CreateTask(Task_WarpStartRareCandy, 8);
+    gTasks[taskId].data[0] = rareCandyCount;
+    gTasks[taskId].data[1] = 1; //have not done the level up
+}
+
+//ADDED
+void Task_WarpStartRareCandy(u8 taskId){
+
+    u8 i;
+    bool8 noEffect;
+
+    u16 item = ITEM_RARE_CANDY;
+
+    //ewram1C000.unk10 = c;
+    ewram1C000.unk10 = Task_WarpStartRareCandy; //sub_8070D90 used to attempt to write 'c' to the .func field for this task much later on. let's redirect it back here instead.
+    ewram1C000.unk4 = taskId;
+    ewram1C000.secondarySelectedIndex = item;
+    ewram1C000.pokemon = &gPlayerParty[0];
+
+    ScriptContext2_Enable();
+    //FreezeEventObjects();
+    //ClearPlayerFieldInput();
+    gPlayerAvatar.preventStep = TRUE;
+
+    //If we haven't locked this part out (data[1]) AND there are Rare Candies to use...
+    if(gTasks[taskId].data[1] == 1 && gTasks[taskId].data[0] > 0){
+        //ScriptFreezeEventObjects(); //TEST
+        //struct EventObject *playerEventObj = &gEventObjects[gPlayerAvatar.eventObjectId];
+        //FreezeEventObject(playerEventObj);
+        //FreezeEventObjects();
+
+        //DEBUG - Flash the screen for each level up call
+        //BeginNormalPaletteFade(0xFFFFFFFF, 0, 16, 0, RGB(0, 0, 0)); //DEBUG
+
+        gTasks[taskId].data[1] = 0; //run it once, then wait
+        gTasks[taskId].data[0] -= 1; //reduce count for how many rare candies are left
+
+        if (GetMonData(ewram1C000.pokemon, MON_DATA_LEVEL) != 100)
+        {
+            for (i = 0; i < NUM_STATS; i++)
+                ewram1B000.statGrowths[i] = GetMonData(ewram1C000.pokemon, StatDataTypes[i]);
+            noEffect = ExecuteTableBasedItemEffect__(ewram1C000.primarySelectedMonIndex, item, 0);
+        }
+        else
+            noEffect = TRUE;
+
+        if (noEffect)
+        {
+            gUnknown_0202E8F4 = 0;
+            PlaySE(SE_SELECT);
+            sub_806E834(gOtherText_WontHaveAnyEffect, 1);
+            gTasks[taskId].data[10] = CreateTask(sub_806FB0C, 5);
+            ////gTasks[taskId].func = sub_806FB0C;
+        }
+        else //Where the magic happens
+        {
+            u8 level;
+
+            gUnknown_0202E8F4 = 1;
+            PlayFanfareByFanfareNum(0);
+            RedrawPokemonInfoInMenu(ewram1C000.primarySelectedMonIndex, ewram1C000.pokemon);
+            RemoveBagItem(item, 1);
+            GetMonNickname(ewram1C000.pokemon, gStringVar1);
+            level = GetMonData(ewram1C000.pokemon, MON_DATA_LEVEL);
+            ConvertIntToDecimalStringN(gStringVar2, level, 0, 3);
+            StringExpandPlaceholders(gStringVar4, gOtherText_ElevatedTo);
+            sub_806E834(gStringVar4, 1);
+            gWarp_LevelUpActive = TRUE;
+            gTasks[taskId].data[10] = CreateTask(Task_RareCandy1, 5);
+            ////gTasks[taskId].func = Task_RareCandy1;
+        }
+    }
+
+    //If a level up isn't already running...
+    if(!gWarp_LevelUpActive && !gWarp_PokemonSummaryScreenActive)
+    {
+        //If we're all out of level ups, get out of here.
+        if (gTasks[taskId].data[0] <= 0){
+            //Reset any global variables used
+            gWarp_PokemonSummaryScreenActive = FALSE;
+            gWarp_LevelUpActive = FALSE;
+            gPlayerAvatar.preventStep = FALSE;
+
+            EnableBothScriptContexts();
+            
+            //gTasks[taskId].data[1] = 0;
+            gTasks[taskId].func = TaskDummy;
+
+            DestroyTask(taskId);
+        }
+        else{
+            //Unlock main section
+            gTasks[taskId].data[1] = 1;
+        }
+    }
+}
+
 void DoRareCandyItemEffect(u8 taskId, u16 item, TaskFunc c)
 {
     u8 i;
@@ -4804,6 +4930,7 @@ void Task_RareCandy3(u8 taskId)
                 if (evolutionSpecies != 0)
                 {
                     gCB2_AfterEvolution = sub_80A53F8;
+                    gWarp_PokemonSummaryScreenActive = TRUE; //ADDED.
                     BeginEvolutionScene(ewram1C000.pokemon, evolutionSpecies, TRUE, ewram1C000.primarySelectedMonIndex);
                     DestroyTask(taskId);
                 }
@@ -4856,6 +4983,7 @@ void TeachMonMoveInPartyMenu(u8 taskId)
         if (evolutionSpecies != 0)
         {
             gCB2_AfterEvolution = sub_80A53F8;
+            gWarp_PokemonSummaryScreenActive = TRUE; //ADDED
             BeginEvolutionScene(ewram1C000.pokemon, evolutionSpecies, TRUE, ewram1C000.primarySelectedMonIndex);
             DestroyTask(taskId);
         }
@@ -4895,6 +5023,14 @@ void TeachMonMoveInPartyMenu(u8 taskId)
 static void sub_8070D90(u8 taskId)
 {
     gTasks[ewram1C000.unk4].func = ewram1C000.unk10;
+    if(gWarp_PokemonSummaryScreenActive == TRUE){ //ADDED
+        //Note: This should not be called until last action for this level has been completed (level, evolution, etc.)
+        SetMainCallback2(CB2_ReturnToField);
+    }
+    else{
+        gWarp_LevelUpActive = FALSE;
+    }
+    
     DestroyTask(taskId);
 }
 

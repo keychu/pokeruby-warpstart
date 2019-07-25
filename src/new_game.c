@@ -136,7 +136,17 @@ void debug_sub_8052E04()
 
 void WarpToTruck(void)
 {
-    Overworld_SetWarpDestination(MAP_GROUP(INSIDE_OF_TRUCK), MAP_NUM(INSIDE_OF_TRUCK), -1, -1, -1);
+    Overworld_SetWarpDestination(MAP_GROUP(LITTLEROOT_TOWN), MAP_NUM(LITTLEROOT_TOWN), -1, -1, -1); //EDITED
+    FlagSet(FLAG_SET_WALL_CLOCK); //NEW
+	FlagSet(FLAG_HIDE_MACHOKE_MOVER_1); //NEW
+	FlagSet(FLAG_HIDE_MACHOKE_MOVER_2); //NEW
+    FlagSet(FLAG_HIDE_MOVING_TRUCK_MAY); //NEW
+    FlagSet(FLAG_HIDE_MOVING_TRUCK_BRENDAN); //NEW
+    FlagSet(FLAG_RECEIVED_RUNNING_SHOES); //NEW
+    VarSet(VAR_LITTLEROOT_INTRO_STATE, 7); //NEW - doesn't do anything useful though
+    VarSet(VAR_LITTLEROOT_RIVAL_STATE, 3);
+    VarSet(VAR_LITTLEROOT_STATE, 1);
+    
     WarpIntoMap();
 }
 

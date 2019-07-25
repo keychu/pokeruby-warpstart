@@ -55,6 +55,8 @@ extern void sub_804E990(u8);
 extern void sub_802E424(u8);
 extern void ScriptUnfreezeEventObjects(void);
 
+extern EWRAM_DATA bool8 gWarp_PokemonSummaryScreenActive; //ADDED
+
 struct UnknownStruct2
 {
     u8 unk0;
@@ -1779,12 +1781,18 @@ static bool8 sub_80A5350(u8 taskId)
     return FALSE;
 }
 
+//NOTE: After evolution, goes here
 static void sub_80A53CC(void)
 {
     if (sub_80A34B4() == TRUE)
     {
         sub_80A3770();
-        gUnknown_02038563 = CreateTask(sub_80A50C8, 0);
+        if(gWarp_PokemonSummaryScreenActive){ //ADDED
+            SetMainCallback2(CB2_ReturnToField);
+        }
+        else{
+            gUnknown_02038563 = CreateTask(sub_80A50C8, 0); //WAS ORIGINALLY USED
+        }
     }
 }
 
