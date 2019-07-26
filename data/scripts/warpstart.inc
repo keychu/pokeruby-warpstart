@@ -97,6 +97,7 @@ IntroWarpNone::
 
 IntroWarpHandleRareCandies::
     @ Print a message saying we're giving the starter this number of Rare Candies
+    bufferleadmonspeciesname 0
     buffernumberstring 1, VAR_SPECIAL_9
     msgbox WarpRareCandyText, 4
 
