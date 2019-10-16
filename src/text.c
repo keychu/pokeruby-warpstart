@@ -433,7 +433,7 @@ static const struct Font sFonts[] =
     { 3, (u8 *)sBrailleGlyphs,  8,   0 },
 };
 
-static const u8 sTextSpeedDelays[] = { 6, 3, 1 }; // slow, mid, fast
+static const u8 sTextSpeedDelays[] = { 6, 3, 0 }; // slow, mid, fast
 
 static const u8 sExtCtrlCodeLengths[] =
 {
@@ -2402,7 +2402,7 @@ static u8 UpdateWindowText(struct Window *win)
     case WIN_STATE_WAIT_BUTTON:
         if (PlayerCanInterruptDelay(win))
         {
-            if (gMain.newKeys & (A_BUTTON | B_BUTTON))
+            if (gMain.heldKeys & (A_BUTTON | B_BUTTON))
             {
                 PlaySE(SE_SELECT);
             }
@@ -3240,7 +3240,7 @@ static u8 WaitWithDownArrow(struct Window *win)
     }
     else
     {
-        if (gMain.newKeys & (A_BUTTON | B_BUTTON))
+        if (gMain.heldKeys & (A_BUTTON | B_BUTTON))
         {
             PlaySE(SE_SELECT);
             TryEraseDownArrow(win);
