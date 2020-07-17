@@ -1,4 +1,5 @@
 # Pokémon Ruby WarpStart
+## (newPokemon branch - WIP branch adding new Pokemon from gen 4-7)
 
 This is a modification of Pokemon Ruby that enables the player to start from different points in the game. 
 
@@ -36,6 +37,8 @@ Here's the list of locations you can choose from, and the number of Rare Candies
 --- 
 
 This project was made by modifiying the Pokeruby disassembly project, which you can find here: https://github.com/pret/pokeruby. *Huge* thanks to the amazing work that's gone into the project, making mods like this possible!
+
+Implementation of instant text - as well as a general blueprint for how to add lots of new Pokemon into Ruby - from [LOuroboros' pokeruby493 project](https://github.com/LOuroboros/pokeruby493).
 
 **KNOWN ISSUES:**
 - Obtaining Strength by smashing a rock in Rusturf Cave before completing the Peeko mission will play the cutscene with Wanda and her boyfriend, but they will be invisible. Everything else occurs as normal.
