@@ -29,6 +29,8 @@
 #include "trainer.h"
 #include "util.h"
 #include "ewram.h"
+#include "field_weather.h"
+#include "constants/weather.h"
 
 extern u8 gPlayerPartyCount;
 extern u8 gEnemyPartyCount;
@@ -63,6 +65,8 @@ extern u8 BattleText_UnknownString3[];
 extern u8 BattleText_MistShroud[];
 extern u8 BattleText_GetPumped[];
 extern u8 *gUnknown_08400F58[];
+
+extern u16 gSpecialVar_ItemId; //Added for EVO_RARE_CANDY
 
 bool8 HealStatusConditions(struct Pokemon *mon, u32 unused, u32 healMask, u8 battleId)
 {
@@ -389,6 +393,41 @@ u16 GetEvolutionTargetSpecies(struct Pokemon *mon, u8 type, u16 evolutionItem)
                     u16 checkSpecies = GetMonData(&gPlayerParty[j], MON_DATA_SPECIES, NULL);
                     if (checkSpecies == gEvolutionTable[species][i].param)
                         targetSpecies = gEvolutionTable[species][i].targetSpecies;
+                }
+                break;
+            case EVO_LEVEL_PARTY_TYPE:
+                if (gEvolutionTable[species][i].param <= level)
+                {
+                    for (j = 0; j < PARTY_SIZE; j++)
+                    {
+                        u16 species = GetMonData(&gPlayerParty[j], MON_DATA_SPECIES, NULL);
+                        if (gBaseStats[species].type1 == TYPE_DARK
+                            || gBaseStats[species].type2 == TYPE_DARK)
+                        {
+                            targetSpecies = gEvolutionTable[species][i].targetSpecies;
+                            break;
+                        }
+                    }
+                }
+                break;
+            case EVO_LEVEL_RAIN:
+                j = GetCurrentWeather();
+                if (j == WEATHER_RAIN_PERMANENT) //changed: I think this is how this should be for Ruby
+                    targetSpecies = gEvolutionTable[species][i].targetSpecies;
+                break;
+            case EVO_MOVE_TYPE:
+                for (j = 0; j < 4; j++)
+                {
+                    if (gBattleMoves[GetMonData(mon, MON_DATA_MOVE1 + j, NULL)].type == gEvolutionTable[species][i].param)
+                    {
+                        targetSpecies = gEvolutionTable[species][i].targetSpecies;
+                        break;
+                    }
+                }
+                break;
+            case EVO_RARE_CANDY: //Trying to use EVO_ITEM for this seems like it would be a mess
+                if(gSpecialVar_ItemId == ITEM_RARE_CANDY){
+                    targetSpecies = gEvolutionTable[species][i].targetSpecies;
                 }
                 break;
             }

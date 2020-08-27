@@ -78,10 +78,14 @@
 	.set EVO_BEAUTY,           0x000f @ Pokémon levels up with beauty ≥ specified value
 	.set EVO_LEVEL_MALE,       0x0010 @ Pokémon of the specified gender levels up
 	.set EVO_LEVEL_FEMALE,     0x0011 @ Pokémon of the specified gender levels up
-	.set EVO_MOVE,             0x0013 @ Pokémon levels up while knowing the specified move
-	.set EVO_MAP,              0x0014 @ Pokémon levels up in a specific map
-	.set EVO_HELD_ITEM_DAY,    0x0015 @ Pokémon levels up during the day while holding the specified item
-	.set EVO_HELD_ITEM_NIGHT,  0x0016 @ Pokémon levels up during the night while holding the specified item
-	.set EVO_PARTY_SPECIES,          0x0017 @ Pokémon levels up while the specified pokémon is in the party
-	.set EVO_ITEM_MALE,        0x0018 @ Specified item is used on the Pokémon of specified gender
-	.set EVO_ITEM_FEMALE,      0x0019 @ Specified item is used on the Pokémon of specified gender
+	.set EVO_MOVE,             0x0012 @ Pokémon levels up while knowing the specified move
+	.set EVO_MAP,              0x0013 @ Pokémon levels up in a specific map
+	.set EVO_HELD_ITEM_DAY,    0x0014 @ Pokémon levels up during the day while holding the specified item
+	.set EVO_HELD_ITEM_NIGHT,  0x0015 @ Pokémon levels up during the night while holding the specified item
+	.set EVO_PARTY_SPECIES,    0x0016 @ Pokémon levels up while the specified pokémon is in the party
+	.set EVO_ITEM_MALE,        0x0017 @ Specified item is used on the Pokémon of specified gender
+	.set EVO_ITEM_FEMALE,      0x0018 @ Specified item is used on the Pokémon of specified gender
+	.set EVO_LEVEL_PARTY_TYPE, 0x0019 @ Pokémon reaches the specified level with a Dark Type Pokémon in party
+	.set EVO_LEVEL_RAIN,       0x001A @ Pokémon reaches the specified level while it's raining
+	.set EVO_MOVE_TYPE,        0x001B @ Pokémon levels up, knows move with specified type
+	.set EVO_RARE_CANDY,	   0x001C @ Pokémon levels up via a Rare Candy
