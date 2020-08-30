@@ -32,7 +32,7 @@ extern bool8 gUnknown_03005CE8;
 
 struct PokedexEntry
 {
-    /*0x00*/ u8 categoryName[12];
+    /*0x00*/ u8 categoryName[14]; //noooot sure on the consequnces of changing this to a larger size. original is 12
     /*0x0C*/ u16 height; //in decimeters
     /*0x0E*/ u16 weight; //in hectograms
     /*0x10*/ const u8 *descriptionPage1;

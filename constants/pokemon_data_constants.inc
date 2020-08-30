@@ -89,3 +89,5 @@
 	.set EVO_LEVEL_RAIN,       0x001A @ Pokémon reaches the specified level while it's raining
 	.set EVO_MOVE_TYPE,        0x001B @ Pokémon levels up, knows move with specified type
 	.set EVO_RARE_CANDY,	   0x001C @ Pokémon levels up via a Rare Candy
+	.set EVO_LEVEL_DAY,        0x001D
+	.set EVO_LEVEL_NIGHT,      0x001E

@@ -5389,6 +5389,2564 @@ static const u8 DexDescription_Deoxys_2[] = _(
   "chest appears to be its brain.");
 #endif
 
+
+static const u8 DexDescription_Abomasnow_1[] = _(
+  "It blankets wide areas in snow by\n"
+  "whipping up blizzards. It is also\n"
+  "known as 'The Ice Monster.'");
+
+static const u8 DexDescription_Accelgor_1[] = _(
+  "Having removed its heavy shell, it\n"
+  "becomes very light and can fight with\n"
+  "ninja-like movements.");
+
+static const u8 DexDescription_Aegislash_1[] = _(
+  "Generations of kings were attended by\n"
+  "these Pokémon, which used their\n"
+  "spectral power to manipulate and");
+static const u8 DexDescription_Aegislash_2[] = _(
+  "control people and Pokémon.");
+
+static const u8 DexDescription_Alomomola_1[] = _(
+  "Fishermen take them along on long\n"
+  "voyages, because if you have an\n"
+  "Alomomola with you, there'll be no");
+static const u8 DexDescription_Alomomola_2[] = _(
+  "need for a doctor or medicine.");
+
+static const u8 DexDescription_Amaura_1[] = _(
+  "It lived in cold areas in ancient\n"
+  "times. It's said that when Amaura\n"
+  "whinnies, auroras appear in the night");
+static const u8 DexDescription_Amaura_2[] = _(
+  "sky.");
+
+static const u8 DexDescription_Ambipom_1[] = _(
+  "In their search for comfortable trees,\n"
+  "they get into territorial disputes\n"
+  "with groups of Passimian. They win");
+static const u8 DexDescription_Ambipom_2[] = _(
+  "about half the time.");
+
+static const u8 DexDescription_Amoonguss_1[] = _(
+  "They show off their Poké Ball caps to\n"
+  "lure prey, but very few Pokémon are\n"
+  "fooled by this.");
+
+static const u8 DexDescription_Araquanid_1[] = _(
+  "It usually passes its time in the\n"
+  "water. When its belly is full, it\n"
+  "stores its subdued prey in the water");
+static const u8 DexDescription_Araquanid_2[] = _(
+  "bubble on its head.");
+
+static const u8 DexDescription_Arceus_1[] = _(
+  "According to the legends of Sinnoh,\n"
+  "this Pokémon emerged from an egg and\n"
+  "shaped all there is in this world.");
+
+static const u8 DexDescription_Archen_1[] = _(
+  "Once thought to be the ancestor of all\n"
+  "bird Pokémon, some of the latest\n"
+  "research suggests that may not be the");
+static const u8 DexDescription_Archen_2[] = _(
+  "case.");
+
+static const u8 DexDescription_Archeops_1[] = _(
+  "This ancient Pokémon's plumage is\n"
+  "delicate, so if anyone other than an\n"
+  "experienced professional tries to");
+static const u8 DexDescription_Archeops_2[] = _(
+  "restore it, they will fail.");
+
+static const u8 DexDescription_Aromatisse_1[] = _(
+  "It devises various scents, pleasant\n"
+  "and unpleasant, and emits scents that\n"
+  "its enemies dislike in order to gain");
+static const u8 DexDescription_Aromatisse_2[] = _(
+  "an edge in battle.");
+
+static const u8 DexDescription_Audino_1[] = _(
+  "Using the feelers on its ears, it can\n"
+  "tell how someone is feeling or when an\n"
+  "egg might hatch.");
+
+static const u8 DexDescription_Aurorus_1[] = _(
+  "An Aurorus was found frozen solid\n"
+  "within a glacier, just as it appeared\n"
+  "long ago, which became quite a big");
+static const u8 DexDescription_Aurorus_2[] = _(
+  "event in the news.");
+
+static const u8 DexDescription_Avalugg_1[] = _(
+  "Its ice-covered body is as hard as\n"
+  "steel. Its cumbersome frame crushes\n"
+  "anything that stands in its way.");
+
+static const u8 DexDescription_Axew_1[] = _(
+  "They use their tusks to crush the\n"
+  "berries they eat. Repeated regrowth\n"
+  "makes their tusks strong and sharp.");
+
+static const u8 DexDescription_Azelf_1[] = _(
+  "Known as 'The Being of Willpower."" It\n"
+  "sleeps at the bottom of a lake to keep\n"
+  "the world in balance.");
+
+static const u8 DexDescription_Barbaracle_1[] = _(
+  "When they evolve, two Binacle multiply\n"
+  "into seven. They fight with the power\n"
+  "of seven Binacle.");
+
+static const u8 DexDescription_Basculin_1[] = _(
+  "Savage, violent Pokémon, red and blue\n"
+  "Basculin are always fighting each\n"
+  "other over territory.");
+
+static const u8 DexDescription_Bastiodon_1[] = _(
+  "The bones of its face are huge and\n"
+  "hard, so they were mistaken for its\n"
+  "spine until after this Pokémon was");
+static const u8 DexDescription_Bastiodon_2[] = _(
+  "successfully restored.");
+
+static const u8 DexDescription_Beartic_1[] = _(
+  "They love the cold seas of the north.\n"
+  "They create pathways across the ocean\n"
+  "waters by freezing their own breath.");
+
+static const u8 DexDescription_Beheeyem_1[] = _(
+  "With its psychic powers, it rewrites\n"
+  "its opponents' memories. You, too, may\n"
+  "have already had your memories");
+static const u8 DexDescription_Beheeyem_2[] = _(
+  "rewritten.");
+
+static const u8 DexDescription_Bergmite_1[] = _(
+  "It blocks opponents' attacks with the\n"
+  "ice that shields its body. It uses\n"
+  "cold air to repair any cracks with new");
+static const u8 DexDescription_Bergmite_2[] = _(
+  "ice.");
+
+static const u8 DexDescription_Bewear_1[] = _(
+  "It waves its hands wildly in\n"
+  "intimidation and warning. Life is over\n"
+  "for anyone who doesn't run away as");
+static const u8 DexDescription_Bewear_2[] = _(
+  "fast as possible.");
+
+static const u8 DexDescription_Bibarel_1[] = _(
+  "It busily makes its nest with stacks\n"
+  "of branches and roots it has cut up\n"
+  "with its sharp incisors.");
+
+static const u8 DexDescription_Bidoof_1[] = _(
+  "With nerves of steel, nothing can\n"
+  "perturb it. It is more agile and\n"
+  "active than it appears.");
+
+static const u8 DexDescription_Binacle_1[] = _(
+  "Two Binacle live together on one rock.\n"
+  "When they fight, one of them will move\n"
+  "to a different rock.");
+
+static const u8 DexDescription_Bisharp_1[] = _(
+  "No matter how strong the Bisharp, it's\n"
+  "said that if the blade on its head is\n"
+  "chipped, it will retire from its");
+static const u8 DexDescription_Bisharp_2[] = _(
+  "position as the boss.");
+
+static const u8 DexDescription_Blacephalon_1[] = _(
+  "It slithers toward people. Then,\n"
+  "without warning, it triggers the\n"
+  "explosion of its own head. It's");
+static const u8 DexDescription_Blacephalon_2[] = _(
+  "apparently one kind of Ultra Beast.");
+
+static const u8 DexDescription_Blitzle_1[] = _(
+  "When thunderclouds cover the sky, it\n"
+  "will appear. It can catch lightning\n"
+  "with its mane and store the");
+static const u8 DexDescription_Blitzle_2[] = _(
+  "electricity.");
+
+static const u8 DexDescription_Boldore_1[] = _(
+  "The energy overflowing from its body\n"
+  "has turned into orange crystals that\n"
+  "are hard enough to smash diamonds.");
+
+static const u8 DexDescription_Bonsly_1[] = _(
+  "It discharges moisture from its eyes,\n"
+  "making it look like it's\n"
+  "cryingéapparently an effective way of");
+static const u8 DexDescription_Bonsly_2[] = _(
+  "getting enemies to let down their\n"
+  "guard.");
+
+static const u8 DexDescription_Bouffalant_1[] = _(
+  "They charge wildly and headbutt\n"
+  "everything. Their headbutts have\n"
+  "enough destructive force to derail a");
+static const u8 DexDescription_Bouffalant_2[] = _(
+  "train.");
+
+static const u8 DexDescription_Bounsweet_1[] = _(
+  "Because of its sweet, delicious aroma,\n"
+  "bird Pokémon are always after it, but\n"
+  "it's not intelligent enough to care.");
+
+static const u8 DexDescription_Braixen_1[] = _(
+  "It has a twig stuck in its tail. With\n"
+  "friction from its tail fur, it sets\n"
+  "the twig on fire and launches into");
+static const u8 DexDescription_Braixen_2[] = _(
+  "battle.");
+
+static const u8 DexDescription_Braviary_1[] = _(
+  "The more scars it has on its front,\n"
+  "the more heroic it's considered to be.\n"
+  "Those with many scars on their back");
+static const u8 DexDescription_Braviary_2[] = _(
+  "are mocked by the flock.");
+
+static const u8 DexDescription_Brionne_1[] = _(
+  "It gets excited when it sees a dance\n"
+  "it doesn't know. This hard worker\n"
+  "practices diligently until it can");
+static const u8 DexDescription_Brionne_2[] = _(
+  "learn that dance.");
+
+static const u8 DexDescription_Bronzong_1[] = _(
+  "In ages past, this Pokémon was revered\n"
+  "as a bringer of rain. It was found\n"
+  "buried in the ground.");
+
+static const u8 DexDescription_Bronzor_1[] = _(
+  "Ancient people believed that the\n"
+  "pattern on Bronzor's back contained a\n"
+  "mysterious power.");
+
+static const u8 DexDescription_Bruxish_1[] = _(
+  "It burrows beneath the sand, radiating\n"
+  "psychic power from the protuberance on\n"
+  "its head. It waits for prey as it");
+static const u8 DexDescription_Bruxish_2[] = _(
+  "surveys the area.");
+
+static const u8 DexDescription_Budew_1[] = _(
+  "When it feels the sun's warm touch, it\n"
+  "opens its bud to release pollen. It\n"
+  "lives alongside clear pools.");
+
+static const u8 DexDescription_Buizel_1[] = _(
+  "It swims by rotating its two tails\n"
+  "like a screw. When it dives, its\n"
+  "flotation sac collapses.");
+
+static const u8 DexDescription_Buneary_1[] = _(
+  "Its arms and legs are weak, but when\n"
+  "it rolls its ears up tight and then\n"
+  "unleashes them with its full force, it");
+static const u8 DexDescription_Buneary_2[] = _(
+  "can smash boulders to dust.");
+
+static const u8 DexDescription_Bunnelby_1[] = _(
+  "They use their large ears to dig\n"
+  "burrows. They will dig the whole night\n"
+  "through.");
+
+static const u8 DexDescription_Burmy_1[] = _(
+  "To shelter itself from cold, wintry\n"
+  "winds, it covers itself with a cloak\n"
+  "made of twigs and leaves.");
+
+static const u8 DexDescription_Buzzwole_1[] = _(
+  "Although it's alien to this world and\n"
+  "a danger here, it's apparently a\n"
+  "common organism in the world where it");
+static const u8 DexDescription_Buzzwole_2[] = _(
+  "normally lives.");
+
+static const u8 DexDescription_Carbink_1[] = _(
+  "Some say that deep beneath the surface\n"
+  "of the world, a pack of Carbink live\n"
+  "with their queen in a kingdom of");
+static const u8 DexDescription_Carbink_2[] = _(
+  "jewels.");
+
+static const u8 DexDescription_Carnivine_1[] = _(
+  "It attracts prey with its\n"
+  "sweet-smelling saliva, then chomps\n"
+  "down. It takes a whole day to eat");
+static const u8 DexDescription_Carnivine_2[] = _(
+  "prey.");
+
+static const u8 DexDescription_Carracosta_1[] = _(
+  "Its jaws are terrifyingly powerful. It\n"
+  "could eat Omastar and Omanyte whole\n"
+  "and not be bothered in the slightest");
+static const u8 DexDescription_Carracosta_2[] = _(
+  "by their shells.");
+
+static const u8 DexDescription_Celesteela_1[] = _(
+  "One of the dangerous UBs, high energy\n"
+  "readings can be detected coming from\n"
+  "both of its huge arms.");
+
+static const u8 DexDescription_Chandelure_1[] = _(
+  "Being consumed in Chandelure's flame\n"
+  "burns up the spirit, leaving the body\n"
+  "behind.");
+
+static const u8 DexDescription_Charjabug_1[] = _(
+  "It buries itself in fallen leaves and\n"
+  "barely moves, munching away on humus.\n"
+  "If you accidentally step on one,");
+static const u8 DexDescription_Charjabug_2[] = _(
+  "you'll get a shock!");
+
+static const u8 DexDescription_Chatot_1[] = _(
+  "It mimics the cries of other Pokémon\n"
+  "to trick them into thinking it's one\n"
+  "of them. This way they won't attack");
+static const u8 DexDescription_Chatot_2[] = _(
+  "it.");
+
+static const u8 DexDescription_Cherrim_1[] = _(
+  "During times of strong sunlight, its\n"
+  "bud blooms, its petals open fully, and\n"
+  "it becomes very active.");
+
+static const u8 DexDescription_Cherubi_1[] = _(
+  "Sunlight colors it red. When the small\n"
+  "ball is drained of nutrients, it\n"
+  "shrivels to herald evolution.");
+
+static const u8 DexDescription_Chesnaught_1[] = _(
+  "Its Tackle is forceful enough to flip\n"
+  "a 50-ton tank. It shields its allies\n"
+  "from danger with its own body.");
+
+static const u8 DexDescription_Chespin_1[] = _(
+  "The quills on its head are usually\n"
+  "soft. When it flexes them, the points\n"
+  "become so hard and sharp that they can");
+static const u8 DexDescription_Chespin_2[] = _(
+  "pierce rock.");
+
+static const u8 DexDescription_Chimchar_1[] = _(
+  "Its fiery rear end is fueled by gas\n"
+  "made in its belly. Even rain can't\n"
+  "extinguish the fire.");
+
+static const u8 DexDescription_Chingling_1[] = _(
+  "Each time it hops, it makes a ringing\n"
+  "sound. It deafens foes by emitting\n"
+  "high-frequency cries.");
+
+static const u8 DexDescription_Cinccino_1[] = _(
+  "The white parts of its coat are\n"
+  "covered in an oil secreted from its\n"
+  "body, so this Pokémon can slide right");
+static const u8 DexDescription_Cinccino_2[] = _(
+  "away from its enemies' attacks.");
+
+static const u8 DexDescription_Clauncher_1[] = _(
+  "Its claws occasionally fall off, and\n"
+  "it keeps a low profile until they grow\n"
+  "back. The meat of its claws is so");
+static const u8 DexDescription_Clauncher_2[] = _(
+  "delicious!");
+
+static const u8 DexDescription_Clawitzer_1[] = _(
+  "It compresses the water it has sucked\n"
+  "up and then projects it with enough\n"
+  "power to punch a hole right through a");
+static const u8 DexDescription_Clawitzer_2[] = _(
+  "thick sheet of iron.");
+
+static const u8 DexDescription_Cobalion_1[] = _(
+  "It has a body and heart of steel. Its\n"
+  "glare is sufficient to make even an\n"
+  "unruly Pokémon obey it.");
+
+static const u8 DexDescription_Cofagrigus_1[] = _(
+  "It has been said that they swallow\n"
+  "those who get too close and turn them\n"
+  "into mummies. They like to eat gold");
+static const u8 DexDescription_Cofagrigus_2[] = _(
+  "nuggets.");
+
+static const u8 DexDescription_Combee_1[] = _(
+  "The trio is together from birth. It\n"
+  "constantly gathers honey from flowers\n"
+  "to please Vespiquen.");
+
+static const u8 DexDescription_Comfey_1[] = _(
+  "It stretches sticky vines out from its\n"
+  "head and picks flowers to adorn itself\n"
+  "with. When it doesn't have any");
+static const u8 DexDescription_Comfey_2[] = _(
+  "flowers, it feels uneasy.");
+
+static const u8 DexDescription_Conkeldurr_1[] = _(
+  "It is thought that Conkeldurr taught\n"
+  "humans how to make concrete more than\n"
+  "2,000 years ago.");
+
+static const u8 DexDescription_Cosmoem_1[] = _(
+  "As it absorbs light, Cosmoem continues\n"
+  "to grow. Its golden shell is\n"
+  "surprisingly solid.");
+
+static const u8 DexDescription_Cosmog_1[] = _(
+  "Even though its helpless, gaseous body\n"
+  "can be blown away by the slightest\n"
+  "breeze, it doesn't seem to care.");
+
+static const u8 DexDescription_Cottonee_1[] = _(
+  "To protect itself, it shoots cotton\n"
+  "from its body. When it gets wet in the\n"
+  "rain, its cotton grows moist and");
+static const u8 DexDescription_Cottonee_2[] = _(
+  "heavy, and it can't move as well.");
+
+static const u8 DexDescription_Crabominable_1[] = _(
+  "It stores coldness in its pincers and\n"
+  "pummels its foes. It can even smash\n"
+  "thick walls of ice to bits!");
+
+static const u8 DexDescription_Crabrawler_1[] = _(
+  "Its hard pincers are well suited to\n"
+  "both offense and defense. Fights\n"
+  "between two Crabrawler are like boxing");
+static const u8 DexDescription_Crabrawler_2[] = _(
+  "matches.");
+
+static const u8 DexDescription_Cranidos_1[] = _(
+  "A primeval Pokémon, it possesses a\n"
+  "hard and sturdy skull, lacking any\n"
+  "intelligence within.");
+
+static const u8 DexDescription_Cresselia_1[] = _(
+  "Shiny particles are released from its\n"
+  "wings like a veil. It is said to\n"
+  "represent the crescent moon.");
+
+static const u8 DexDescription_Croagunk_1[] = _(
+  "Its cheeks hold poison sacs. It tries\n"
+  "to catch foes off guard to jab them\n"
+  "with toxic fingers.");
+
+static const u8 DexDescription_Crustle_1[] = _(
+  "It possesses legs of enormous\n"
+  "strength, enabling it to carry heavy\n"
+  "slabs for many days, even when");
+static const u8 DexDescription_Crustle_2[] = _(
+  "crossing arid land.");
+
+static const u8 DexDescription_Cryogonal_1[] = _(
+  "They are born in snow clouds. They use\n"
+  "chains made of ice crystals to capture\n"
+  "prey.");
+
+static const u8 DexDescription_Cubchoo_1[] = _(
+  "Its nose is always running. It sniffs\n"
+  "the snot back up because the mucus\n"
+  "provides the raw material for its");
+static const u8 DexDescription_Cubchoo_2[] = _(
+  "moves.");
+
+static const u8 DexDescription_Cutiefly_1[] = _(
+  "Nectar and pollen are its favorite\n"
+  "fare. In fields of flowers, it gets\n"
+  "into skirmishes with Butterfree over");
+static const u8 DexDescription_Cutiefly_2[] = _(
+  "food.");
+
+static const u8 DexDescription_Darkrai_1[] = _(
+  "It chases people and Pokémon from its\n"
+  "territory by causing them to\n"
+  "experience deep, nightmarish slumbers.");
+
+static const u8 DexDescription_Darmanitan_1[] = _(
+  "When one is injured in a fierce\n"
+  "battle, it hardens into a stone-like\n"
+  "form. Then it meditates and sharpens");
+static const u8 DexDescription_Darmanitan_2[] = _(
+  "its mind.");
+
+static const u8 DexDescription_Dartrix_1[] = _(
+  "This narcissistic Pokémon is a clean\n"
+  "freak. If you don't groom it\n"
+  "diligently, it will stop listening to");
+static const u8 DexDescription_Dartrix_2[] = _(
+  "you.");
+
+static const u8 DexDescription_Darumaka_1[] = _(
+  "Darumaka's droppings are hot, so\n"
+  "people used to put them in their\n"
+  "clothes to keep themselves warm.");
+
+static const u8 DexDescription_Decidueye_1[] = _(
+  "It nocks its arrow quills and shoots\n"
+  "them at opponents. When it simply\n"
+  "can't afford to miss, it tugs the vine");
+static const u8 DexDescription_Decidueye_2[] = _(
+  "on its head to improve its focus.");
+
+static const u8 DexDescription_Dedenne_1[] = _(
+  "It sneaks into people's homes and\n"
+  "steals electricity from their outlets.\n"
+  "When your electric bill seems off,");
+static const u8 DexDescription_Dedenne_2[] = _(
+  "it's the handiwork of this rascal.");
+
+static const u8 DexDescription_Deerling_1[] = _(
+  "Their coloring changes according to\n"
+  "the seasons and can be slightly\n"
+  "affected by the temperature and");
+static const u8 DexDescription_Deerling_2[] = _(
+  "humidity as well.");
+
+static const u8 DexDescription_Deino_1[] = _(
+  "They cannot see, so they tackle and\n"
+  "bite to learn about their\n"
+  "surroundings. Their bodies are covered");
+static const u8 DexDescription_Deino_2[] = _(
+  "in wounds.");
+
+static const u8 DexDescription_Delphox_1[] = _(
+  "It gazes into the flame at the tip of\n"
+  "its branch to achieve a focused state,\n"
+  "which allows it to see into the");
+static const u8 DexDescription_Delphox_2[] = _(
+  "future.");
+
+static const u8 DexDescription_Dewott_1[] = _(
+  "Strict training is how it learns its\n"
+  "flowing double-scalchop technique.");
+
+static const u8 DexDescription_Dewpider_1[] = _(
+  "When two Dewpider meet, they display\n"
+  "their water bubbles to each other.\n"
+  "Then the one with the smaller bubble");
+static const u8 DexDescription_Dewpider_2[] = _(
+  "gets out of the other's way.");
+
+static const u8 DexDescription_Dhelmise_1[] = _(
+  "It wraps its prey in green seaweed and\n"
+  "sucks away their vitality. It only\n"
+  "likes to go after big prey like");
+static const u8 DexDescription_Dhelmise_2[] = _(
+  "Wailord.");
+
+static const u8 DexDescription_Dialga_1[] = _(
+  "A Pokémon spoken of in legend. It is\n"
+  "said that time began moving when\n"
+  "Dialga was born.");
+
+static const u8 DexDescription_Diancie_1[] = _(
+  "A sudden transformation of Carbink,\n"
+  "its pink, glimmering body is said to\n"
+  "be the loveliest sight in the whole");
+static const u8 DexDescription_Diancie_2[] = _(
+  "world.");
+
+static const u8 DexDescription_Diggersby_1[] = _(
+  "With their powerful ears, they can\n"
+  "heft boulders of a ton or more with\n"
+  "ease. They can be a big help at");
+static const u8 DexDescription_Diggersby_2[] = _(
+  "construction sites.");
+
+static const u8 DexDescription_Doublade_1[] = _(
+  "When Honedge evolves, it divides into\n"
+  "two swords, which cooperate via\n"
+  "telepathy to coordinate attacks and");
+static const u8 DexDescription_Doublade_2[] = _(
+  "slash their enemies to ribbons.");
+
+static const u8 DexDescription_Dragalge_1[] = _(
+  "This vicious Pokémon sprays a\n"
+  "poisonous liquid on opponents that\n"
+  "come near. For whatever reason, it");
+static const u8 DexDescription_Dragalge_2[] = _(
+  "gets along really well with Dhelmise.");
+
+static const u8 DexDescription_Drampa_1[] = _(
+  "If a child it has made friends with is\n"
+  "bullied, Drampa will find the bully's\n"
+  "house and burn it to the ground.");
+
+static const u8 DexDescription_Drapion_1[] = _(
+  "It takes great pride in its strength.\n"
+  "Even though it can tear foes apart, it\n"
+  "finishes them off with powerful");
+static const u8 DexDescription_Drapion_2[] = _(
+  "poison.");
+
+static const u8 DexDescription_Drifblim_1[] = _(
+  "There's a rumor that if you catch a\n"
+  "Drifblim floating on the wind at dusk,\n"
+  "you'll be carried away to the");
+static const u8 DexDescription_Drifblim_2[] = _(
+  "afterlife.");
+
+static const u8 DexDescription_Drifloon_1[] = _(
+  "Its round body is stuffed with souls\n"
+  "and expands each time it leads someone\n"
+  "away.");
+
+static const u8 DexDescription_Drilbur_1[] = _(
+  "It makes its way swiftly through the\n"
+  "soil by putting both claws together\n"
+  "and rotating at high speed.");
+
+static const u8 DexDescription_Druddigon_1[] = _(
+  "The red skin on its face is harder\n"
+  "than rock. In narrow caves, it squares\n"
+  "off against its enemies and charges");
+static const u8 DexDescription_Druddigon_2[] = _(
+  "face-first right into them.");
+
+static const u8 DexDescription_Ducklett_1[] = _(
+  "When attacked, it uses its feathers to\n"
+  "splash water, escaping under cover of\n"
+  "the spray.");
+
+static const u8 DexDescription_Duosion_1[] = _(
+  "Since they have two divided brains, at\n"
+  "times they suddenly try to take two\n"
+  "different actions at once.");
+
+static const u8 DexDescription_Durant_1[] = _(
+  "Individuals each play different roles\n"
+  "in driving Heatmor, their natural\n"
+  "predator, away from their colony.");
+
+static const u8 DexDescription_Dusknoir_1[] = _(
+  "It is said to take lost spirits into\n"
+  "its pliant body and guide them home.");
+
+static const u8 DexDescription_Dwebble_1[] = _(
+  "It makes a hole in a suitable rock. If\n"
+  "that rock breaks, the Pokémon remains\n"
+  "agitated until it locates a");
+static const u8 DexDescription_Dwebble_2[] = _(
+  "replacement.");
+
+static const u8 DexDescription_Eelektrik_1[] = _(
+  "It wraps itself around its prey and\n"
+  "paralyzes it with electricity from the\n"
+  "round spots on its sides. Then it");
+static const u8 DexDescription_Eelektrik_2[] = _(
+  "chomps.");
+
+static const u8 DexDescription_Eelektross_1[] = _(
+  "With their sucker mouths, they suck in\n"
+  "prey. Then they use their fangs to\n"
+  "shock the prey with electricity.");
+
+static const u8 DexDescription_Electivire_1[] = _(
+  "It grips its tail, which spews\n"
+  "electricity, and then beats down\n"
+  "opponents with the power of its");
+static const u8 DexDescription_Electivire_2[] = _(
+  "electrified fist.");
+
+static const u8 DexDescription_Elgyem_1[] = _(
+  "It controls tremendous psychic power.\n"
+  "Most reports of alien sightings are\n"
+  "actually just people mistaking Elgyem");
+static const u8 DexDescription_Elgyem_2[] = _(
+  "for an alien.");
+
+static const u8 DexDescription_Emboar_1[] = _(
+  "It can throw a fire punch by setting\n"
+  "its fists on fire with its fiery chin.\n"
+  "It cares deeply about its friends.");
+
+static const u8 DexDescription_Emolga_1[] = _(
+  "They store up electricity to fly\n"
+  "through the air. When thunder cracks\n"
+  "at night, sometimes there are almost");
+static const u8 DexDescription_Emolga_2[] = _(
+  "enough of them to blot out the sky.");
+
+static const u8 DexDescription_Empoleon_1[] = _(
+  "It swims as fast as a jet boat. The\n"
+  "edges of its wings are sharp and can\n"
+  "slice apart drifting ice.");
+
+static const u8 DexDescription_Escavalier_1[] = _(
+  "Wearing the shell covering they stole\n"
+  "from Shelmet, they defend themselves\n"
+  "and attack with two lances.");
+
+static const u8 DexDescription_Espurr_1[] = _(
+  "The organ that emits its intense\n"
+  "psychic power is sheltered by its ears\n"
+  "to keep power from leaking out.");
+
+static const u8 DexDescription_Excadrill_1[] = _(
+  "It can help in tunnel construction.\n"
+  "Its drill has evolved into steel\n"
+  "strong enough to bore through iron");
+static const u8 DexDescription_Excadrill_2[] = _(
+  "plates.");
+
+static const u8 DexDescription_Fennekin_1[] = _(
+  "Eating a twig fills it with energy,\n"
+  "and its roomy ears give vent to air\n"
+  "hotter than 390 degrees Fahrenheit.");
+
+static const u8 DexDescription_Ferroseed_1[] = _(
+  "When threatened, it attacks by\n"
+  "shooting a barrage of spikes, which\n"
+  "gives it a chance to escape by rolling");
+static const u8 DexDescription_Ferroseed_2[] = _(
+  "away.");
+
+static const u8 DexDescription_Ferrothorn_1[] = _(
+  "By swinging around its three spiky\n"
+  "feelers and shooting spikes, it can\n"
+  "obliterate an opponent.");
+
+static const u8 DexDescription_Finneon_1[] = _(
+  "When night falls, their pink patterns\n"
+  "begin to shine. They're popular with\n"
+  "divers, so there are resorts that feed");
+static const u8 DexDescription_Finneon_2[] = _(
+  "them to keep them close.");
+
+static const u8 DexDescription_Flabebe_1[] = _(
+  "It's not safe without the power of a\n"
+  "flower, but it will keep traveling\n"
+  "around until it finds one with the");
+static const u8 DexDescription_Flabebe_2[] = _(
+  "color and shape it wants.");
+
+static const u8 DexDescription_Fletchinder_1[] = _(
+  "It scatters embers in the tall grass.\n"
+  "Then bug Pokémon, frightened by the\n"
+  "flames, come flying out, and");
+static const u8 DexDescription_Fletchinder_2[] = _(
+  "Fletchinder gobbles them up.");
+
+static const u8 DexDescription_Fletchling_1[] = _(
+  "While it's an amiable Pokémon, if you\n"
+  "touch it unexpectedly, it will heat up\n"
+  "its body in an instant, and you'll be");
+static const u8 DexDescription_Fletchling_2[] = _(
+  "burned.");
+
+static const u8 DexDescription_Floatzel_1[] = _(
+  "It floats using its well-developed\n"
+  "flotation sac. It assists in the\n"
+  "rescues of drowning people.");
+
+static const u8 DexDescription_Floette_1[] = _(
+  "It raises flowers and uses them as\n"
+  "weapons. The more gorgeous the\n"
+  "blossom, the more power it contains.");
+
+static const u8 DexDescription_Florges_1[] = _(
+  "It controls the flowers it grows. The\n"
+  "petal blizzards that Florges triggers\n"
+  "are overwhelming in their beauty and");
+static const u8 DexDescription_Florges_2[] = _(
+  "power.");
+
+static const u8 DexDescription_Fomantis_1[] = _(
+  "When the sun rises, Fomantis spreads\n"
+  "its four leaves and bathes in the\n"
+  "sunlight. The tip of its head has a");
+static const u8 DexDescription_Fomantis_2[] = _(
+  "pleasant aroma.");
+
+static const u8 DexDescription_Foongus_1[] = _(
+  "It lures people in with its Poké Ball\n"
+  "pattern, then releases poison spores.\n"
+  "Why it resembles a Poké Ball is");
+static const u8 DexDescription_Foongus_2[] = _(
+  "unknown.");
+
+static const u8 DexDescription_Fraxure_1[] = _(
+  "Their tusks can shatter rocks.\n"
+  "Territory battles between Fraxure can\n"
+  "be intensely violent.");
+
+static const u8 DexDescription_Frillish_1[] = _(
+  "It wraps its veillike arms and legs\n"
+  "around prey swimming by and drags them\n"
+  "down to the depths of the ocean.");
+
+static const u8 DexDescription_Froakie_1[] = _(
+  "It secretes flexible bubbles from its\n"
+  "chest and back. The bubbles reduce the\n"
+  "damage it would otherwise take when");
+static const u8 DexDescription_Froakie_2[] = _(
+  "attacked.");
+
+static const u8 DexDescription_Frogadier_1[] = _(
+  "It can throw bubble-covered pebbles\n"
+  "with precise control, hitting empty\n"
+  "cans up to a hundred feet away.");
+
+static const u8 DexDescription_Froslass_1[] = _(
+  "It freezes hikers who have come to\n"
+  "climb snowy mountains and carries them\n"
+  "back to its home. It only goes after");
+static const u8 DexDescription_Froslass_2[] = _(
+  "men it thinks are handsome.");
+
+static const u8 DexDescription_Furfrou_1[] = _(
+  "There was an era when aristocrats\n"
+  "would compete to see who could trim\n"
+  "their Furfrou's fur into the most");
+static const u8 DexDescription_Furfrou_2[] = _(
+  "exquisite style.");
+
+static const u8 DexDescription_Gabite_1[] = _(
+  "It loves shiny things. When it finds a\n"
+  "Sableye trying to catch a Carbink,\n"
+  "Gabite becomes furiously angry and");
+static const u8 DexDescription_Gabite_2[] = _(
+  "attacks the Sableye.");
+
+static const u8 DexDescription_Gallade_1[] = _(
+  "Because it can sense what its foe is\n"
+  "thinking, its attacks burst out first,\n"
+  "fast, and fierce.");
+
+static const u8 DexDescription_Galvantula_1[] = _(
+  "They employ an electrically charged\n"
+  "web to trap their prey. While it is\n"
+  "immobilized by shock, they leisurely");
+static const u8 DexDescription_Galvantula_2[] = _(
+  "consume it.");
+
+static const u8 DexDescription_Garbodor_1[] = _(
+  "It locks opponents in place with its\n"
+  "left hand, immobilizing them by\n"
+  "entirely dousing their bodies with");
+static const u8 DexDescription_Garbodor_2[] = _(
+  "poisonous liquid.");
+
+static const u8 DexDescription_Garchomp_1[] = _(
+  "It flies at the speed of sound while\n"
+  "searching for prey, and it has midair\n"
+  "battles with Salamence as the two");
+static const u8 DexDescription_Garchomp_2[] = _(
+  "compete for food.");
+
+static const u8 DexDescription_Gastrodon_1[] = _(
+  "When it's attacked, it gushes a purple\n"
+  "liquid that's not poisonous but makes\n"
+  "Gastrodon's meat bitter and inedible.");
+
+static const u8 DexDescription_Genesect_1[] = _(
+  "This ancient bug Pokémon was altered\n"
+  "by Team Plasma. They upgraded the\n"
+  "cannon on its back.");
+
+static const u8 DexDescription_Gible_1[] = _(
+  "It reacts to anything that moveséflies\n"
+  "right at it and bites it. Sometimes it\n"
+  "injures itself, but it doesn't care");
+static const u8 DexDescription_Gible_2[] = _(
+  "too much.");
+
+static const u8 DexDescription_Gigalith_1[] = _(
+  "When it fires off energy with all its\n"
+  "might, the power creates countless\n"
+  "fissures on its body.");
+
+static const u8 DexDescription_Giratina_1[] = _(
+  "This Pokémon is said to live in a\n"
+  "world on the reverse side of ours,\n"
+  "where common knowledge is distorted");
+static const u8 DexDescription_Giratina_2[] = _(
+  "and strange.");
+
+static const u8 DexDescription_Glaceon_1[] = _(
+  "It protects itself by freezing its fur\n"
+  "into sharp needles. It can drop its\n"
+  "body temperature below é75 degrees");
+static const u8 DexDescription_Glaceon_2[] = _(
+  "Fahrenheit.");
+
+static const u8 DexDescription_Glameow_1[] = _(
+  "It claws if displeased and purrs when\n"
+  "affectionate. Its fickleness is very\n"
+  "popular among some.");
+
+static const u8 DexDescription_Gliscor_1[] = _(
+  "It observes prey while hanging\n"
+  "inverted from branches. When the\n"
+  "chance presents itself, it swoops!");
+
+static const u8 DexDescription_Gogoat_1[] = _(
+  "It can tell how its trainer is feeling\n"
+  "by subtle shifts in the grip on its\n"
+  "horns. This empathetic sense lets them");
+static const u8 DexDescription_Gogoat_2[] = _(
+  "run as if one being.");
+
+static const u8 DexDescription_Golett_1[] = _(
+  "Its movements are powered by a\n"
+  "mysterious energy. It has continued to\n"
+  "move since ancient times, so its power");
+static const u8 DexDescription_Golett_2[] = _(
+  "may soon run out.");
+
+static const u8 DexDescription_Golisopod_1[] = _(
+  "The shell covering its body is as hard\n"
+  "as diamond. This Pokémon will do\n"
+  "anything it takes to win.");
+
+static const u8 DexDescription_Golurk_1[] = _(
+  "Some say that ancient people invented\n"
+  "Golurk to serve as a laborer. It\n"
+  "follows its master's orders");
+static const u8 DexDescription_Golurk_2[] = _(
+  "faithfully.");
+
+static const u8 DexDescription_Goodra_1[] = _(
+  "It's very friendly toward people. If\n"
+  "you grow close to it, Goodra will hug\n"
+  "you with its sticky, slime-covered");
+static const u8 DexDescription_Goodra_2[] = _(
+  "body. Don't get mad.");
+
+static const u8 DexDescription_Goomy_1[] = _(
+  "It uses its horns to check out its\n"
+  "surroundings. They're very sensitive,\n"
+  "so if you grab them, it will feel a");
+static const u8 DexDescription_Goomy_2[] = _(
+  "strong shock and be unable to move.");
+
+static const u8 DexDescription_Gothita_1[] = _(
+  "Their ribbonlike feelers increase\n"
+  "their psychic power. They are always\n"
+  "staring at something.");
+
+static const u8 DexDescription_Gothitelle_1[] = _(
+  "Starry skies thousands of light-years\n"
+  "away are visible in the space\n"
+  "distorted by their intense psychic");
+static const u8 DexDescription_Gothitelle_2[] = _(
+  "power.");
+
+static const u8 DexDescription_Gothorita_1[] = _(
+  "Starlight is the source of their\n"
+  "power. At night, they mark star\n"
+  "positions by using psychic power to");
+static const u8 DexDescription_Gothorita_2[] = _(
+  "float stones.");
+
+static const u8 DexDescription_Gourgeist_1[] = _(
+  "Singing in eerie voices, they wander\n"
+  "town streets on the night of the new\n"
+  "moon. Anyone who hears their song is");
+static const u8 DexDescription_Gourgeist_2[] = _(
+  "cursed.");
+
+static const u8 DexDescription_Greninja_1[] = _(
+  "It creates throwing stars out of\n"
+  "compressed water. When it spins them\n"
+  "and throws them at high speed, these");
+static const u8 DexDescription_Greninja_2[] = _(
+  "stars can split metal in two.");
+
+static const u8 DexDescription_Grotle_1[] = _(
+  "It lives along water in forests. In\n"
+  "the daytime, it leaves the forest to\n"
+  "sunbathe its treed shell.");
+
+static const u8 DexDescription_Grubbin_1[] = _(
+  "If you find its nest, you shouldn't\n"
+  "stick your hand inside. You'll get\n"
+  "bitten by an irritated Grubbin.");
+
+static const u8 DexDescription_Gumshoos_1[] = _(
+  "Patient by nature, this Pokémon loses\n"
+  "control of itself and pounces when it\n"
+  "spots its favorite mealéRattata!");
+
+static const u8 DexDescription_Gurdurr_1[] = _(
+  "With strengthened bodies, they\n"
+  "skillfully wield steel beams to take\n"
+  "down buildings.");
+
+static const u8 DexDescription_Guzzlord_1[] = _(
+  "Although it's alien to this world and\n"
+  "a danger here, it's apparently a\n"
+  "common organism in the world where it");
+static const u8 DexDescription_Guzzlord_2[] = _(
+  "normally lives.");
+
+static const u8 DexDescription_HakamoO_1[] = _(
+  "It makes noise by clanging its scales\n"
+  "together. When the rhythm has reached\n"
+  "its peak, Hakamo-o attacks.");
+
+static const u8 DexDescription_Happiny_1[] = _(
+  "Usually it's a well-behaved Pokémon,\n"
+  "but if you take its round rock away,\n"
+  "it will cry and fuss and throw a big");
+static const u8 DexDescription_Happiny_2[] = _(
+  "old tantrum.");
+
+static const u8 DexDescription_Hawlucha_1[] = _(
+  "It overwhelms opponents with quick\n"
+  "moves, but sometimes it showboats for\n"
+  "too long when it's using a special");
+static const u8 DexDescription_Hawlucha_2[] = _(
+  "move and gets itself into a pinch.");
+
+static const u8 DexDescription_Haxorus_1[] = _(
+  "They are kind but can be relentless\n"
+  "when defending territory. They\n"
+  "challenge foes with tusks that can cut");
+static const u8 DexDescription_Haxorus_2[] = _(
+  "steel.");
+
+static const u8 DexDescription_Heatmor_1[] = _(
+  "Using their very hot, flame-covered\n"
+  "tongues, they burn through Durant's\n"
+  "steel bodies and consume their");
+static const u8 DexDescription_Heatmor_2[] = _(
+  "insides.");
+
+static const u8 DexDescription_Heatran_1[] = _(
+  "It dwells in volcanic caves. It digs\n"
+  "in with its cross-shaped feet to crawl\n"
+  "on ceilings and walls.");
+
+static const u8 DexDescription_Heliolisk_1[] = _(
+  "They flare their frills and generate\n"
+  "energy. A single Heliolisk can\n"
+  "generate sufficient electricity to");
+static const u8 DexDescription_Heliolisk_2[] = _(
+  "power a skyscraper.");
+
+static const u8 DexDescription_Helioptile_1[] = _(
+  "They make their home in deserts. They\n"
+  "can generate their energy from basking\n"
+  "in the sun, so eating food is not a");
+static const u8 DexDescription_Helioptile_2[] = _(
+  "requirement.");
+
+static const u8 DexDescription_Herdier_1[] = _(
+  "The longer its black fur grows, the\n"
+  "harder and more impervious it gets.\n"
+  "Claws and fangs can't easily penetrate");
+static const u8 DexDescription_Herdier_2[] = _(
+  "it.");
+
+static const u8 DexDescription_Hippopotas_1[] = _(
+  "It lives in arid places. Instead of\n"
+  "perspiration, it expels grainy sand\n"
+  "from its body.");
+
+static const u8 DexDescription_Hippowdon_1[] = _(
+  "It brandishes its gaping mouth in a\n"
+  "display of fearsome strength. It\n"
+  "raises vast quantities of sand while");
+static const u8 DexDescription_Hippowdon_2[] = _(
+  "attacking.");
+
+static const u8 DexDescription_Honchkrow_1[] = _(
+  "It will absolutely not forgive failure\n"
+  "from or betrayal by its goons. It has\n"
+  "no choice in this if it wants to");
+static const u8 DexDescription_Honchkrow_2[] = _(
+  "maintain the order of the flock.");
+
+static const u8 DexDescription_Honedge_1[] = _(
+  "Apparently this Pokémon is born when a\n"
+  "departed spirit inhabits a sword. It\n"
+  "attaches itself to people and drinks");
+static const u8 DexDescription_Honedge_2[] = _(
+  "their life force.");
+
+static const u8 DexDescription_Hoopa_1[] = _(
+  "In its true form, it possess a huge\n"
+  "amount of power. Legends of its\n"
+  "avarice tell how it once carried off");
+static const u8 DexDescription_Hoopa_2[] = _(
+  "an entire castle to gain the treasure\n"
+  "hidden within.");
+
+static const u8 DexDescription_Hydreigon_1[] = _(
+  "The heads on their arms do not have\n"
+  "brains. They use all three heads to\n"
+  "consume and destroy everything.");
+
+static const u8 DexDescription_Incineroar_1[] = _(
+  "Although it's rough mannered and\n"
+  "egotistical, it finds beating down\n"
+  "unworthy opponents boring. It gets");
+static const u8 DexDescription_Incineroar_2[] = _(
+  "motivated for stronger opponents.");
+
+static const u8 DexDescription_Infernape_1[] = _(
+  "Its crown of fire is indicative of its\n"
+  "fiery nature. It is beaten by none in\n"
+  "terms of quickness.");
+
+static const u8 DexDescription_Inkay_1[] = _(
+  "It draws prey near with its blinking\n"
+  "lights and then wraps them up in its\n"
+  "long tentacles and holds them in");
+static const u8 DexDescription_Inkay_2[] = _(
+  "place.");
+
+static const u8 DexDescription_JangmoO_1[] = _(
+  "It smacks the scales on its head\n"
+  "against rocks or against the ground to\n"
+  "frighten its opponents. It can also");
+static const u8 DexDescription_JangmoO_2[] = _(
+  "contact its friends with these noises.");
+
+static const u8 DexDescription_Jellicent_1[] = _(
+  "Jellicent is always hanging around\n"
+  "fancy cruise ships and tankers, hoping\n"
+  "to drag away its prey.");
+
+static const u8 DexDescription_Joltik_1[] = _(
+  "Since it can't generate its own\n"
+  "electricity, it sticks onto\n"
+  "large-bodied Pokémon and absorbs");
+static const u8 DexDescription_Joltik_2[] = _(
+  "static electricity.");
+
+static const u8 DexDescription_Karrablast_1[] = _(
+  "These mysterious Pokémon evolve when\n"
+  "they receive electrical stimulation\n"
+  "while they are in the same place as");
+static const u8 DexDescription_Karrablast_2[] = _(
+  "Shelmet.");
+
+static const u8 DexDescription_Kartana_1[] = _(
+  "This Ultra Beast's body, which is as\n"
+  "thin as paper, is like a sharpened\n"
+  "sword.");
+
+static const u8 DexDescription_Keldeo_1[] = _(
+  "It crosses the world, running over the\n"
+  "surfaces of oceans and rivers. It\n"
+  "appears at scenic waterfronts.");
+
+static const u8 DexDescription_Klang_1[] = _(
+  "By changing the direction in which it\n"
+  "rotates, it communicates its feelings\n"
+  "to others. When angry, it rotates");
+static const u8 DexDescription_Klang_2[] = _(
+  "faster.");
+
+static const u8 DexDescription_Klefki_1[] = _(
+  "Although it's unclear why it collects\n"
+  "keys, giving it a key makes Klefki\n"
+  "very happy. However, it apparently");
+static const u8 DexDescription_Klefki_2[] = _(
+  "only likes master keys.");
+
+static const u8 DexDescription_Klink_1[] = _(
+  "Interlocking two bodies and spinning\n"
+  "around generates the energy they need\n"
+  "to live.");
+
+static const u8 DexDescription_Klinklang_1[] = _(
+  "The gear with the red core is rotated\n"
+  "at high speed for a rapid energy\n"
+  "charge.");
+
+static const u8 DexDescription_Komala_1[] = _(
+  "It stays asleep from the moment it's\n"
+  "born. When it falls into a deep sleep,\n"
+  "it stops moving altogether.");
+
+static const u8 DexDescription_KommoO_1[] = _(
+  "When it howls after finishing off its\n"
+  "prey, the metallic sounds of its\n"
+  "celebrating comrades can be heard from");
+static const u8 DexDescription_KommoO_2[] = _(
+  "all around.");
+
+static const u8 DexDescription_Kricketot_1[] = _(
+  "It chats with others using the sounds\n"
+  "of its colliding antennae. These\n"
+  "sounds are fall hallmarks.");
+
+static const u8 DexDescription_Kricketune_1[] = _(
+  "It crosses its knifelike arms in front\n"
+  "of its chest when it cries. It can\n"
+  "compose melodies ad lib.");
+
+static const u8 DexDescription_Krokorok_1[] = _(
+  "Krokorok really hates it when its body\n"
+  "gets cold. On nights when the\n"
+  "temperature drops, it digs deep into");
+static const u8 DexDescription_Krokorok_2[] = _(
+  "the desert sands.");
+
+static const u8 DexDescription_Krookodile_1[] = _(
+  "When it spots prey, even at a distance\n"
+  "of over 30 miles, it swims through the\n"
+  "desert as if it were water, then jumps");
+static const u8 DexDescription_Krookodile_2[] = _(
+  "out and chomps them.");
+
+static const u8 DexDescription_Kyurem_1[] = _(
+  "This legendary ice Pokémon waits for a\n"
+  "hero to fill in the missing parts of\n"
+  "its body with truth or ideals.");
+
+static const u8 DexDescription_Lampent_1[] = _(
+  "The spirits it absorbs fuel its\n"
+  "baleful fire. It hangs around\n"
+  "hospitals waiting for people to pass");
+static const u8 DexDescription_Lampent_2[] = _(
+  "on.");
+
+static const u8 DexDescription_Landorus_1[] = _(
+  "Lands visited by Landorus grant such\n"
+  "bountiful crops that it has been\n"
+  "hailed as 'The Guardian of the");
+static const u8 DexDescription_Landorus_2[] = _(
+  "Fields.'");
+
+static const u8 DexDescription_Larvesta_1[] = _(
+  "When battling opponents, it sprays\n"
+  "fire from its five horns. The max\n"
+  "temperature of the flames can reach");
+static const u8 DexDescription_Larvesta_2[] = _(
+  "nearly 5,500 degrees Fahrenheit.");
+
+static const u8 DexDescription_Leafeon_1[] = _(
+  "Although it doesn't like disputes, it\n"
+  "will sharpen the leaf on its tail into\n"
+  "a blade and fight if it has to protect");
+static const u8 DexDescription_Leafeon_2[] = _(
+  "its friends.");
+
+static const u8 DexDescription_Leavanny_1[] = _(
+  "Upon finding a small Pokémon, it\n"
+  "weaves clothing for it from leaves by\n"
+  "using the sticky silk secreted from");
+static const u8 DexDescription_Leavanny_2[] = _(
+  "its mouth.");
+
+static const u8 DexDescription_Lickilicky_1[] = _(
+  "A contest is under way to determine\n"
+  "which one can stick its tongue out the\n"
+  "farthest. The current record is...more");
+static const u8 DexDescription_Lickilicky_2[] = _(
+  "than 82 feet.");
+
+static const u8 DexDescription_Liepard_1[] = _(
+  "Their beautiful form comes from the\n"
+  "muscles they have developed. They run\n"
+  "silently in the night.");
+
+static const u8 DexDescription_Lilligant_1[] = _(
+  "The fragrance of its flower differs\n"
+  "slightly depending on the soil where\n"
+  "it grew up. Sniffing the aroma calms");
+static const u8 DexDescription_Lilligant_2[] = _(
+  "your heart and mind.");
+
+static const u8 DexDescription_Lillipup_1[] = _(
+  "This Pokémon has excellent judgment.\n"
+  "If it decides it can't defeat an\n"
+  "opponent, it immediately turns tail");
+static const u8 DexDescription_Lillipup_2[] = _(
+  "and vamooses.");
+
+static const u8 DexDescription_Litleo_1[] = _(
+  "When they're young, they live with a\n"
+  "pride. Once they're able to hunt prey\n"
+  "on their own, they're kicked out and");
+static const u8 DexDescription_Litleo_2[] = _(
+  "have to make their own way.");
+
+static const u8 DexDescription_Litten_1[] = _(
+  "If you try too hard to get close to\n"
+  "it, it won't open up to you. Even if\n"
+  "you do grow close, giving it too much");
+static const u8 DexDescription_Litten_2[] = _(
+  "affection is still a no-no.");
+
+static const u8 DexDescription_Litwick_1[] = _(
+  "While shining a light and pretending\n"
+  "to be a guide, it leeches off the life\n"
+  "force of any who follow it.");
+
+static const u8 DexDescription_Lopunny_1[] = _(
+  "Lopunny regrows its coat twice a year.\n"
+  "Mufflers and hats made from its fur\n"
+  "are really warm.");
+
+static const u8 DexDescription_Lucario_1[] = _(
+  "It concentrates its mental energy and\n"
+  "fires off mysterious waves called\n"
+  "auras, which can crush boulders of");
+static const u8 DexDescription_Lucario_2[] = _(
+  "large size to dust.");
+
+static const u8 DexDescription_Lumineon_1[] = _(
+  "Deep down at the bottom of the ocean,\n"
+  "prey is scarce. Lumineon get into\n"
+  "fierce disputes with Lanturn over");
+static const u8 DexDescription_Lumineon_2[] = _(
+  "food.");
+
+static const u8 DexDescription_Lunala_1[] = _(
+  "Records of it exist in writings from\n"
+  "long, long ago, where it was known by\n"
+  "the name éthe beast that calls the");
+static const u8 DexDescription_Lunala_2[] = _(
+  "moon.é");
+
+static const u8 DexDescription_Lurantis_1[] = _(
+  "For self-protection, it pretends to be\n"
+  "a bug Pokémon. Both of its arms bear\n"
+  "keen-edged petals.");
+
+static const u8 DexDescription_Luxio_1[] = _(
+  "Its claws loose electricity with\n"
+  "enough amperage to cause fainting.\n"
+  "They live in small groups.");
+
+static const u8 DexDescription_Luxray_1[] = _(
+  "When its eyes gleam gold, it can spot\n"
+  "hiding prey--even those taking shelter\n"
+  "behind a wall.");
+
+static const u8 DexDescription_Lycanroc_1[] = _(
+  "The sharp rocks in its mane can cut\n"
+  "like knives. Lycanroc wears its prey\n"
+  "down by degrees before finishing them");
+static const u8 DexDescription_Lycanroc_2[] = _(
+  "off.");
+
+static const u8 DexDescription_Magearna_1[] = _(
+  "It synchronizes its consciousness with\n"
+  "others to understand their feelings.\n"
+  "This faculty makes it useful for");
+static const u8 DexDescription_Magearna_2[] = _(
+  "taking care of people.");
+
+static const u8 DexDescription_Magmortar_1[] = _(
+  "There are still quite a few factories\n"
+  "that rely on the flames provided by\n"
+  "Magmortar to process metals.");
+
+static const u8 DexDescription_Magnezone_1[] = _(
+  "It uses radar to monitor its\n"
+  "territory. Intruders are quickly\n"
+  "disposed of with a hyper beam.");
+
+static const u8 DexDescription_Malamar_1[] = _(
+  "When it comes to strong hypnosis,\n"
+  "there's an endless number of people\n"
+  "who utilize Malamar for their");
+static const u8 DexDescription_Malamar_2[] = _(
+  "nefarious deeds.");
+
+static const u8 DexDescription_Mamoswine_1[] = _(
+  "A frozen Mamoswine was dug from ice\n"
+  "dating back 10,000 years. This Pokémon\n"
+  "has been around a long, long, long");
+static const u8 DexDescription_Mamoswine_2[] = _(
+  "time.");
+
+static const u8 DexDescription_Manaphy_1[] = _(
+  "It is born with a wondrous power that\n"
+  "lets it bond with any kind of Pokémon.");
+
+static const u8 DexDescription_Mandibuzz_1[] = _(
+  "It skillfully arranges the bones of\n"
+  "its prey to construct its nest. Most\n"
+  "of the bones are Cubone.");
+
+static const u8 DexDescription_Mantyke_1[] = _(
+  "It's highly friendly and easily tamed.\n"
+  "Tours that take people swimming with\n"
+  "Mantyke are a super-popular beach");
+static const u8 DexDescription_Mantyke_2[] = _(
+  "activity.");
+
+static const u8 DexDescription_Maractus_1[] = _(
+  "It uses an up-tempo song and dance to\n"
+  "drive away the bird Pokémon that prey\n"
+  "on its flower seeds.");
+
+static const u8 DexDescription_Mareanie_1[] = _(
+  "They eat Corsola branches, so Mareanie\n"
+  "are hated by craftsmen who work with\n"
+  "Corsola branches that have naturally");
+static const u8 DexDescription_Mareanie_2[] = _(
+  "fallen off.");
+
+static const u8 DexDescription_Marshadow_1[] = _(
+  "It slips into the shadows of others\n"
+  "and mimics their powers and movements.\n"
+  "As it improves, it becomes stronger");
+static const u8 DexDescription_Marshadow_2[] = _(
+  "than those it's imitating.");
+
+static const u8 DexDescription_Melmetal_1[] = _(
+  "Revered long ago for its capacity to\n"
+  "create iron from nothing, for some\n"
+  "reason it has come back to life after");
+static const u8 DexDescription_Melmetal_2[] = _(
+  "3,000 years.");
+
+static const u8 DexDescription_Meloetta_1[] = _(
+  "The melodies sung by Meloetta have the\n"
+  "power to make Pokémon that hear them\n"
+  "happy or sad.");
+
+static const u8 DexDescription_Meltan_1[] = _(
+  "It melts particles of iron and other\n"
+  "metals found in the subsoil, so it can\n"
+  "absorb them into its body of molten");
+static const u8 DexDescription_Meltan_2[] = _(
+  "steel. ");
+
+static const u8 DexDescription_Meowstic_1[] = _(
+  "When in danger, it raises its ears and\n"
+  "releases enough psychic power to grind\n"
+  "a 10-ton truck to dust.");
+
+static const u8 DexDescription_Mesprit_1[] = _(
+  "Known as 'The Being of Emotion."" It\n"
+  "taught humans the nobility of sorrow,\n"
+  "pain, and joy.");
+
+static const u8 DexDescription_Mienfoo_1[] = _(
+  "They can often be seen in packs in the\n"
+  "morning, slowly moving their bodies\n"
+  "through a series of poses.");
+
+static const u8 DexDescription_Mienshao_1[] = _(
+  "It overwhelms its opponents with\n"
+  "continuous attacks and then slowly\n"
+  "stores up power before delivering the");
+static const u8 DexDescription_Mienshao_2[] = _(
+  "finishing blow.");
+
+static const u8 DexDescription_MimeJr_1[] = _(
+  "It does its absolute best to mimic the\n"
+  "movements and expressions of its\n"
+  "opponents, but it's still not very");
+static const u8 DexDescription_MimeJr_2[] = _(
+  "good at it.");
+
+static const u8 DexDescription_Mimikyu_1[] = _(
+  "Although it's a quiet, lonely Pokémon,\n"
+  "if you try to look at what's under its\n"
+  "rag, it will become agitated and");
+static const u8 DexDescription_Mimikyu_2[] = _(
+  "resist violently.");
+
+static const u8 DexDescription_Minccino_1[] = _(
+  "A clean freak that will not allow even\n"
+  "the slightest mess, it uses its tail\n"
+  "like a mop to thoroughly clean any and");
+static const u8 DexDescription_Minccino_2[] = _(
+  "all filth.");
+
+static const u8 DexDescription_Minior_1[] = _(
+  "It lives in the ozone layer, where it\n"
+  "becomes food for stronger Pokémon.\n"
+  "When it tries to run away, it falls to");
+static const u8 DexDescription_Minior_2[] = _(
+  "the ground.");
+
+static const u8 DexDescription_Mismagius_1[] = _(
+  "Feared for its wrath and the curses it\n"
+  "spreads, this Pokémon will also, on a\n"
+  "whim, cast spells that help people.");
+
+static const u8 DexDescription_Monferno_1[] = _(
+  "It skillfully controls the intensity\n"
+  "of the fire on its tail to keep its\n"
+  "foes at an ideal distance.");
+
+static const u8 DexDescription_Morelull_1[] = _(
+  "It scatters its shining spores around\n"
+  "itself. Even though they're dangerous,\n"
+  "nighttime tours of forests where");
+static const u8 DexDescription_Morelull_2[] = _(
+  "Morelull live are popular.");
+
+static const u8 DexDescription_Mothim_1[] = _(
+  "It loves the honey of flowers and\n"
+  "steals honey collected by Combee.");
+
+static const u8 DexDescription_Mudbray_1[] = _(
+  "It loves playing in the mud. If it\n"
+  "isn't showered with mud on a daily\n"
+  "basis, it gets stressed out and stops");
+static const u8 DexDescription_Mudbray_2[] = _(
+  "listening to its Trainer.");
+
+static const u8 DexDescription_Mudsdale_1[] = _(
+  "It remains calm and unmoving no matter\n"
+  "the situation. It mixes dirt with the\n"
+  "saliva in its mouth to make a special");
+static const u8 DexDescription_Mudsdale_2[] = _(
+  "kind of mud.");
+
+static const u8 DexDescription_Munchlax_1[] = _(
+  "It hides food under its long fur, but\n"
+  "it sometimes forgets about it and\n"
+  "causes a stinky disturbance.");
+
+static const u8 DexDescription_Munna_1[] = _(
+  "This Pokémon appears before people and\n"
+  "Pokémon who are having nightmares and\n"
+  "eats those dreams.");
+
+static const u8 DexDescription_Musharna_1[] = _(
+  "The mist emanating from their\n"
+  "foreheads is packed with the dreams of\n"
+  "people and Pokémon.");
+
+static const u8 DexDescription_Naganadel_1[] = _(
+  "It stores hundreds of liters of\n"
+  "poisonous liquid inside its body. It\n"
+  "is one of the organisms known as UBs.");
+
+static const u8 DexDescription_Necrozma_1[] = _(
+  "It looks somehow pained as it rages\n"
+  "around in search of light, which\n"
+  "serves as its energy. It's apparently");
+static const u8 DexDescription_Necrozma_2[] = _(
+  "from another world.");
+
+static const u8 DexDescription_Nihilego_1[] = _(
+  "A life-form from another world, it was\n"
+  "dubbed a UB and is thought to produce\n"
+  "a strong neurotoxin.");
+
+static const u8 DexDescription_Noibat_1[] = _(
+  "Fruits are its favorite foods. This\n"
+  "gourmet carefully picks out just the\n"
+  "ripe ones using its sonar.");
+
+static const u8 DexDescription_Noivern_1[] = _(
+  "Although it has a violent disposition,\n"
+  "if you give it a nice ripe fruit that\n"
+  "it loves, Noivern will suddenly become");
+static const u8 DexDescription_Noivern_2[] = _(
+  "tame.");
+
+static const u8 DexDescription_Oranguru_1[] = _(
+  "It normally spends its time meditating\n"
+  "in the treetops. It throws Poké Balls\n"
+  "and gives other Pokémon orders as it");
+static const u8 DexDescription_Oranguru_2[] = _(
+  "pleases.");
+
+static const u8 DexDescription_Oricorio_1[] = _(
+  "It wins the hearts of its enemies with\n"
+  "its passionate dancing and then uses\n"
+  "the opening it creates to burn them up");
+static const u8 DexDescription_Oricorio_2[] = _(
+  "with blazing flames.");
+
+static const u8 DexDescription_Oshawott_1[] = _(
+  "The scalchop on its stomach isn't just\n"
+  "used for battleéit can be used to\n"
+  "break open hard berries as well.");
+
+static const u8 DexDescription_Pachirisu_1[] = _(
+  "It makes fur balls that crackle with\n"
+  "static electricity. It stores them\n"
+  "with berries in tree holes.");
+
+static const u8 DexDescription_Palkia_1[] = _(
+  "It is said to live in a gap in the\n"
+  "spatial dimension parallel to ours. It\n"
+  "appears in mythology.");
+
+static const u8 DexDescription_Palossand_1[] = _(
+  "Each of its grains of sand has its own\n"
+  "will. Palossand eats small Pokémon and\n"
+  "siphons away their vital essence while");
+static const u8 DexDescription_Palossand_2[] = _(
+  "they're still alive.");
+
+static const u8 DexDescription_Palpitoad_1[] = _(
+  "When they vibrate the bumps on their\n"
+  "heads, they can make waves in water or\n"
+  "earthquake-like vibrations on land.");
+
+static const u8 DexDescription_Pancham_1[] = _(
+  "It follows Pangoro around like a\n"
+  "henchman. When Pancham makes a big\n"
+  "mistake, its leaf gets taken away.");
+
+static const u8 DexDescription_Pangoro_1[] = _(
+  "This rowdy Pokémon boasts great\n"
+  "physical strength. Many Trainers are\n"
+  "also smitten by its lively character.");
+
+static const u8 DexDescription_Panpour_1[] = _(
+  "The water stored inside the tuft on\n"
+  "its head is full of nutrients. It\n"
+  "waters plants with it using its tail.");
+
+static const u8 DexDescription_Pansage_1[] = _(
+  "It shares the leaf on its head with\n"
+  "weary-looking Pokémon. These leaves\n"
+  "are known to relieve stress.");
+
+static const u8 DexDescription_Pansear_1[] = _(
+  "Very intelligent, it roasts berries\n"
+  "before eating them. It likes to help\n"
+  "people.");
+
+static const u8 DexDescription_Passimian_1[] = _(
+  "They use their saliva to stick leaves\n"
+  "to their shoulders. You can tell what\n"
+  "troop they belong to from the position");
+static const u8 DexDescription_Passimian_2[] = _(
+  "of the leaves.");
+
+static const u8 DexDescription_Patrat_1[] = _(
+  "Using food stored in cheek pouches,\n"
+  "they can keep watch for days. They use\n"
+  "their tails to communicate with");
+static const u8 DexDescription_Patrat_2[] = _(
+  "others.");
+
+static const u8 DexDescription_Pawniard_1[] = _(
+  "After shredding its prey, it sharpens\n"
+  "its blades on a stone by the river.\n"
+  "Each Pawniard has its own favorite");
+static const u8 DexDescription_Pawniard_2[] = _(
+  "sharpening stone.");
+
+static const u8 DexDescription_Petilil_1[] = _(
+  "Some say if you dry the leaves on its\n"
+  "head, boil them down, and drink the\n"
+  "infusion, your vigor will return, so");
+static const u8 DexDescription_Petilil_2[] = _(
+  "Petilil is popular with the elderly.");
+
+static const u8 DexDescription_Phantump_1[] = _(
+  "By imitating the voice of a child, it\n"
+  "causes people to get hopelessly lost\n"
+  "deep in the forest. It's trying to");
+static const u8 DexDescription_Phantump_2[] = _(
+  "make friends with them.");
+
+static const u8 DexDescription_Pheromosa_1[] = _(
+  "A life-form that lives in another\n"
+  "world, its body is thin and supple,\n"
+  "but it also possesses great power.");
+
+static const u8 DexDescription_Phione_1[] = _(
+  "When the water warms, they inflate the\n"
+  "flotation sac on their heads and drift\n"
+  "languidly on the sea in packs.");
+
+static const u8 DexDescription_Pidove_1[] = _(
+  "This very forgetful Pokémon will wait\n"
+  "for a new order from its Trainer even\n"
+  "though it already has one.");
+
+static const u8 DexDescription_Pignite_1[] = _(
+  "The more it eats, the more fuel it has\n"
+  "to make the fire in its stomach\n"
+  "stronger. This fills it with even more");
+static const u8 DexDescription_Pignite_2[] = _(
+  "power.");
+
+static const u8 DexDescription_Pikipek_1[] = _(
+  "It pecks at trees with its hard beak.\n"
+  "You can get some idea of its mood or\n"
+  "condition from the rhythm of its");
+static const u8 DexDescription_Pikipek_2[] = _(
+  "pecking.");
+
+static const u8 DexDescription_Piplup_1[] = _(
+  "It doesn't like to be taken care of.\n"
+  "It's difficult to bond with since it\n"
+  "won't listen to its Trainer.");
+
+static const u8 DexDescription_Poipole_1[] = _(
+  "This Ultra Beast is well enough liked\n"
+  "to be chosen as a first partner in its\n"
+  "own world.");
+
+static const u8 DexDescription_Popplio_1[] = _(
+  "The balloons it inflates with its nose\n"
+  "grow larger and larger as it practices\n"
+  "day by day.");
+
+static const u8 DexDescription_PorygonZ_1[] = _(
+  "Its behavior is noticeably unstable,\n"
+  "which is apparently due to the\n"
+  "incompetence of the engineer who");
+static const u8 DexDescription_PorygonZ_2[] = _(
+  "updated its programming.");
+
+static const u8 DexDescription_Primarina_1[] = _(
+  "To Primarina, every battle is a stage.\n"
+  "It takes down its prey with beautiful\n"
+  "singing and dancing.");
+
+static const u8 DexDescription_Prinplup_1[] = _(
+  "It lives alone, away from others.\n"
+  "Apparently, every one of them believes\n"
+  "it is the most important.");
+
+static const u8 DexDescription_Probopass_1[] = _(
+  "Although it can control its units\n"
+  "known as Mini-Noses, they sometimes\n"
+  "get lost and don't come back.");
+
+static const u8 DexDescription_Pumpkaboo_1[] = _(
+  "The pumpkin body is inhabited by a\n"
+  "spirit trapped in this world. As the\n"
+  "sun sets, it becomes restless and");
+static const u8 DexDescription_Pumpkaboo_2[] = _(
+  "active.");
+
+static const u8 DexDescription_Purrloin_1[] = _(
+  "Its cute act is a ruse. When victims\n"
+  "let down their guard, they find their\n"
+  "items taken. It attacks with sharp");
+static const u8 DexDescription_Purrloin_2[] = _(
+  "claws.");
+
+static const u8 DexDescription_Purugly_1[] = _(
+  "It would claim another Pokémon's nest\n"
+  "as its own if it finds a nest\n"
+  "sufficiently comfortable.");
+
+static const u8 DexDescription_Pyroar_1[] = _(
+  "The males are usually lazy, but when\n"
+  "attacked by a strong foe, a male will\n"
+  "protect its friends with no regard for");
+static const u8 DexDescription_Pyroar_2[] = _(
+  "its own safety.");
+
+static const u8 DexDescription_Pyukumuku_1[] = _(
+  "The tradition known as Pyukumuku\n"
+  "chucking started from the custom of\n"
+  "throwing Pyukumuku back into the sea");
+static const u8 DexDescription_Pyukumuku_2[] = _(
+  "after they wash onshore.");
+
+static const u8 DexDescription_Quilladin_1[] = _(
+  "It relies on its sturdy shell to\n"
+  "deflect predators' attacks. It\n"
+  "counterattacks with its sharp quills.");
+
+static const u8 DexDescription_Rampardos_1[] = _(
+  "In ancient times, people would dig up\n"
+  "fossils of this Pokémon and use its\n"
+  "skull, which is harder than steel, to");
+static const u8 DexDescription_Rampardos_2[] = _(
+  "make helmets.");
+
+static const u8 DexDescription_Regigigas_1[] = _(
+  "It is said to have made Pokémon that\n"
+  "look like itself from a special ice\n"
+  "mountain, rocks, and magma.");
+
+static const u8 DexDescription_Reshiram_1[] = _(
+  "This legendary Pokémon can scorch the\n"
+  "world with fire. It helps those who\n"
+  "want to build a world of truth.");
+
+static const u8 DexDescription_Reuniclus_1[] = _(
+  "They use psychic power to control\n"
+  "their arms, which are made of a\n"
+  "special liquid. They can crush");
+static const u8 DexDescription_Reuniclus_2[] = _(
+  "boulders psychically.");
+
+static const u8 DexDescription_Rhyperior_1[] = _(
+  "From holes in its palms, it fires out\n"
+  "Geodude. Its carapace can withstand\n"
+  "volcanic eruptions.");
+
+static const u8 DexDescription_Ribombee_1[] = _(
+  "Rain makes pollen damp, so Ribombee\n"
+  "hates rain. When it sees ominous\n"
+  "clouds, it finds a hollow in a tree,");
+static const u8 DexDescription_Ribombee_2[] = _(
+  "where it waits stock-still.");
+
+static const u8 DexDescription_Riolu_1[] = _(
+  "It knows how people and Pokémon feel\n"
+  "by looking at their auras. It doesn't\n"
+  "approach dangerous opponents.");
+
+static const u8 DexDescription_Rockruff_1[] = _(
+  "As they develop, their disposition\n"
+  "grows more violent and aggressive.\n"
+  "Many Trainers find them too much to");
+static const u8 DexDescription_Rockruff_2[] = _(
+  "handle and abandon them.");
+
+static const u8 DexDescription_Roggenrola_1[] = _(
+  "The hexagonal hole is its ear. Deep in\n"
+  "that ear is an energy core, so if you\n"
+  "stick your hand in there, Roggenrola");
+static const u8 DexDescription_Roggenrola_2[] = _(
+  "will be very angry!");
+
+static const u8 DexDescription_Roserade_1[] = _(
+  "Luring prey with a sweet scent, it\n"
+  "uses poison whips on its arms to\n"
+  "poison, bind, and finish off the prey.");
+
+static const u8 DexDescription_Rotom_1[] = _(
+  "Research continues on this Pokémon,\n"
+  "which could be the power source of a\n"
+  "unique motor.");
+
+static const u8 DexDescription_Rowlet_1[] = _(
+  "It sends its feathers, which are as\n"
+  "sharp as blades, flying in attack. Its\n"
+  "legs are strong, so its kicks are also");
+static const u8 DexDescription_Rowlet_2[] = _(
+  "formidable.");
+
+static const u8 DexDescription_Rufflet_1[] = _(
+  "With its powerful legs and sturdy\n"
+  "claws, it can crack even the hard\n"
+  "shells of Shellder and pluck out their");
+static const u8 DexDescription_Rufflet_2[] = _(
+  "insides.");
+
+static const u8 DexDescription_Salandit_1[] = _(
+  "The males will do whatever the females\n"
+  "tell them. They give the females most\n"
+  "of their food. Due to malnutrition,");
+static const u8 DexDescription_Salandit_2[] = _(
+  "the males can't evolve.");
+
+static const u8 DexDescription_Salazzle_1[] = _(
+  "Salazzle lives deep in caves and\n"
+  "forces the Salandit it has attracted\n"
+  "with its pheromones to serve it.");
+
+static const u8 DexDescription_Samurott_1[] = _(
+  "In the time it takes a foe to blink,\n"
+  "it can draw and sheathe the seamitars\n"
+  "attached to its front legs.");
+
+static const u8 DexDescription_Sandile_1[] = _(
+  "Sandile's still not good at hunting,\n"
+  "so it mostly eats things that have\n"
+  "collapsed in the desert. It's called");
+static const u8 DexDescription_Sandile_2[] = _(
+  "éthe cleaner of the desert.é");
+
+static const u8 DexDescription_Sandygast_1[] = _(
+  "It likes the shovel on its head, so\n"
+  "Sandygast will get serious and fight\n"
+  "any children who come to take it back.");
+
+static const u8 DexDescription_Sawk_1[] = _(
+  "Desiring the strongest karate chop,\n"
+  "they seclude themselves in mountains\n"
+  "and train without sleeping.");
+
+static const u8 DexDescription_Sawsbuck_1[] = _(
+  "They migrate according to the seasons.\n"
+  "People can tell the season by looking\n"
+  "at Sawsbuck's horns.");
+
+static const u8 DexDescription_Scatterbug_1[] = _(
+  "When under attack from bird Pokémon,\n"
+  "it spews a poisonous black powder that\n"
+  "causes paralysis on contact.");
+
+static const u8 DexDescription_Scolipede_1[] = _(
+  "It clasps its prey with the claws on\n"
+  "its neck until it stops moving. Then\n"
+  "it finishes it off with deadly poison.");
+
+static const u8 DexDescription_Scrafty_1[] = _(
+  "This Pokémon may be rude, but it takes\n"
+  "very good care of its family, its\n"
+  "friends, and its turf.");
+
+static const u8 DexDescription_Scraggy_1[] = _(
+  "They move in small groups, walking\n"
+  "around lazily. Anyone who makes eye\n"
+  "contact gets smacked with a headbutt.");
+
+static const u8 DexDescription_Seismitoad_1[] = _(
+  "It increases the power of its punches\n"
+  "by vibrating the bumps on its fists.\n"
+  "It can turn a boulder to rubble with");
+static const u8 DexDescription_Seismitoad_2[] = _(
+  "one punch.");
+
+static const u8 DexDescription_Serperior_1[] = _(
+  "It only gives its all against strong\n"
+  "opponents who are not fazed by the\n"
+  "glare from Serperior's noble eyes.");
+
+static const u8 DexDescription_Servine_1[] = _(
+  "It moves along the ground as if\n"
+  "sliding. Its swift movements befuddle\n"
+  "its foes, and it then attacks with a");
+static const u8 DexDescription_Servine_2[] = _(
+  "vine whip.");
+
+static const u8 DexDescription_Sewaddle_1[] = _(
+  "This Pokémon makes clothes for itself.\n"
+  "It chews up leaves and sews them with\n"
+  "sticky thread extruded from its mouth.");
+
+static const u8 DexDescription_Shaymin_1[] = _(
+  "It can dissolve toxins in the air to\n"
+  "instantly transform ruined land into a\n"
+  "lush field of flowers.");
+
+static const u8 DexDescription_Shellos_1[] = _(
+  "When it senses danger, it gushes a\n"
+  "purple liquid. Some theories suggest\n"
+  "this liquid is a greasy sweat induced");
+static const u8 DexDescription_Shellos_2[] = _(
+  "by stress.");
+
+static const u8 DexDescription_Shelmet_1[] = _(
+  "When it and Karrablast are together,\n"
+  "and both receive electrical\n"
+  "stimulation, they both evolve.");
+
+static const u8 DexDescription_Shieldon_1[] = _(
+  "A mild-mannered, herbivorous Pokémon,\n"
+  "it used its face to dig up tree roots\n"
+  "to eat. The skin on its face was");
+static const u8 DexDescription_Shieldon_2[] = _(
+  "plenty tough.");
+
+static const u8 DexDescription_Shiinotic_1[] = _(
+  "It puts its prey to sleep and siphons\n"
+  "off their vitality through the tip of\n"
+  "its arms. If one of its kind is");
+static const u8 DexDescription_Shiinotic_2[] = _(
+  "weakened, it helps by sending it\n"
+  "vitality.");
+
+static const u8 DexDescription_Shinx_1[] = _(
+  "The extension and contraction of its\n"
+  "muscles generates electricity. It\n"
+  "glows when in trouble.");
+
+static const u8 DexDescription_Sigilyph_1[] = _(
+  "The guardians of an ancient city, they\n"
+  "use their psychic power to attack\n"
+  "enemies that invade their territory.");
+
+static const u8 DexDescription_Silvally_1[] = _(
+  "This is its form once it has awakened\n"
+  "and evolved. Freed from its heavy\n"
+  "mask, its speed is greatly increased.");
+
+static const u8 DexDescription_Simipour_1[] = _(
+  "The high-pressure water expelled from\n"
+  "its tail is so powerful, it can\n"
+  "destroy a concrete wall.");
+
+static const u8 DexDescription_Simisage_1[] = _(
+  "It attacks enemies with strikes of its\n"
+  "thorn-covered tail. This Pokémon is\n"
+  "wild tempered.");
+
+static const u8 DexDescription_Simisear_1[] = _(
+  "A flame burns inside its body. It\n"
+  "scatters embers from its head and tail\n"
+  "to sear its opponents.");
+
+static const u8 DexDescription_Skiddo_1[] = _(
+  "Thought to be one of the first Pokémon\n"
+  "to live in harmony with humans, it has\n"
+  "a placid disposition.");
+
+static const u8 DexDescription_Skorupi_1[] = _(
+  "It grips prey with its tail claws and\n"
+  "injects poison. It tenaciously hangs\n"
+  "on until the poison takes.");
+
+static const u8 DexDescription_Skrelp_1[] = _(
+  "It vanishes into seaweed and remains\n"
+  "perfectly still to avoid attacks from\n"
+  "large Pokémon. Rotten seaweed is its");
+static const u8 DexDescription_Skrelp_2[] = _(
+  "main food source.");
+
+static const u8 DexDescription_Skuntank_1[] = _(
+  "It sprays a vile-smelling fluid from\n"
+  "the tip of its tail to attack. Its\n"
+  "range is over 160 feet.");
+
+static const u8 DexDescription_Sliggoo_1[] = _(
+  "It crawls along sluggishly. The swirly\n"
+  "protrusion on its back is filled with\n"
+  "its brain and other organs.");
+
+static const u8 DexDescription_Slurpuff_1[] = _(
+  "It can distinguish the faintest of\n"
+  "scents. It puts its sensitive sense of\n"
+  "smell to use by helping pastry chefs");
+static const u8 DexDescription_Slurpuff_2[] = _(
+  "in their work.");
+
+static const u8 DexDescription_Snivy_1[] = _(
+  "Being exposed to sunlight makes its\n"
+  "movements swifter. It uses vines more\n"
+  "adeptly than its hands.");
+
+static const u8 DexDescription_Snover_1[] = _(
+  "During cold seasons, it migrates to\n"
+  "the mountain's lower reaches. It\n"
+  "returns to the snow-covered summit in");
+static const u8 DexDescription_Snover_2[] = _(
+  "the spring.");
+
+static const u8 DexDescription_Solgaleo_1[] = _(
+  "Sometimes the result of its opening an\n"
+  "Ultra Wormhole is that energy and\n"
+  "life-forms from other worlds are");
+static const u8 DexDescription_Solgaleo_2[] = _(
+  "called here to this world.");
+
+static const u8 DexDescription_Solosis_1[] = _(
+  "Because their bodies are enveloped in\n"
+  "a special liquid, they are fine in any\n"
+  "environment, no matter how severe.");
+
+static const u8 DexDescription_Spewpa_1[] = _(
+  "It lives hidden within thicket\n"
+  "shadows. When predators attack, it\n"
+  "quickly bristles the fur covering its");
+static const u8 DexDescription_Spewpa_2[] = _(
+  "body in an effort to threaten them.");
+
+static const u8 DexDescription_Spiritomb_1[] = _(
+  "A Pokémon that was formed by 108\n"
+  "spirits. It is bound to a fissure in\n"
+  "an Odd Keystone.");
+
+static const u8 DexDescription_Spritzee_1[] = _(
+  "It emits a scent that enraptures those\n"
+  "who smell it. This fragrance changes\n"
+  "depending on what it has eaten.");
+
+static const u8 DexDescription_Stakataka_1[] = _(
+  "It appeared from an Ultra Wormhole.\n"
+  "Each one appears to be made up of many\n"
+  "life-forms stacked one on top of each");
+static const u8 DexDescription_Stakataka_2[] = _(
+  "other.");
+
+static const u8 DexDescription_Staraptor_1[] = _(
+  "The muscles in its wings and legs are\n"
+  "strong. It can easily fly while\n"
+  "gripping a small Pokémon.");
+
+static const u8 DexDescription_Staravia_1[] = _(
+  "They maintain huge flocks, although\n"
+  "fierce scuffles break out between\n"
+  "various flocks.");
+
+static const u8 DexDescription_Starly_1[] = _(
+  "They flock in great numbers. Though\n"
+  "small, they flap their wings with\n"
+  "great power.");
+
+static const u8 DexDescription_Steenee_1[] = _(
+  "It's protected by its hard sepals, so\n"
+  "it plays with bird Pokémon without\n"
+  "worry. They peck it relentlessly, but");
+static const u8 DexDescription_Steenee_2[] = _(
+  "it doesn't care.");
+
+static const u8 DexDescription_Stoutland_1[] = _(
+  "Its fur is long and thick. A long time\n"
+  "ago in cold regions, every household\n"
+  "kept a Stoutland.");
+
+static const u8 DexDescription_Stufful_1[] = _(
+  "It boasts power enough to split large\n"
+  "trees in half. The organ on its rear\n"
+  "releases an odor that it uses to");
+static const u8 DexDescription_Stufful_2[] = _(
+  "communicate with others of its kind.");
+
+static const u8 DexDescription_Stunfisk_1[] = _(
+  "Its skin is very hard, so it is unhurt\n"
+  "even if stepped on by sumo wrestlers.\n"
+  "It smiles when transmitting");
+static const u8 DexDescription_Stunfisk_2[] = _(
+  "electricity.");
+
+static const u8 DexDescription_Stunky_1[] = _(
+  "It sprays a foul fluid from its rear.\n"
+  "Its stench spreads over a mile radius,\n"
+  "driving Pokémon away.");
+
+static const u8 DexDescription_Swadloon_1[] = _(
+  "Forests where Swadloon live have\n"
+  "superb foliage because the nutrients\n"
+  "they make from fallen leaves nourish");
+static const u8 DexDescription_Swadloon_2[] = _(
+  "the plant life.");
+
+static const u8 DexDescription_Swanna_1[] = _(
+  "Despite their elegant appearance, they\n"
+  "can flap their wings strongly and fly\n"
+  "for thousands of miles.");
+
+static const u8 DexDescription_Swirlix_1[] = _(
+  "To entangle its opponents in battle,\n"
+  "it extrudes white threads as sweet and\n"
+  "sticky as cotton candy.");
+
+static const u8 DexDescription_Swoobat_1[] = _(
+  "It shakes its tail vigorously when it\n"
+  "emits ultrasonic waves strong enough\n"
+  "to reduce concrete to rubble.");
+
+static const u8 DexDescription_Sylveon_1[] = _(
+  "Once a fight breaks out, it will\n"
+  "unflinchingly charge at dragon Pokémon\n"
+  "that are many times larger than");
+static const u8 DexDescription_Sylveon_2[] = _(
+  "itself.");
+
+static const u8 DexDescription_Talonflame_1[] = _(
+  "Its tough wings don't allow fire to\n"
+  "pass through them. A long time ago,\n"
+  "firefighters' outfits were made from");
+static const u8 DexDescription_Talonflame_2[] = _(
+  "Talonflame wings.");
+
+static const u8 DexDescription_Tangrowth_1[] = _(
+  "It ensnares prey by extending arms\n"
+  "made of vines. Losing arms to\n"
+  "predators does not trouble it.");
+
+static const u8 DexDescription_Tapu_Bulu_1[] = _(
+  "Although it's called a guardian deity,\n"
+  "it's violent enough to crush anyone it\n"
+  "sees as an enemy.");
+
+static const u8 DexDescription_Tapu_Fini_1[] = _(
+  "This guardian deity of Poni Island\n"
+  "manipulates water. Because it lives\n"
+  "deep within a thick fog, it came to be");
+static const u8 DexDescription_Tapu_Fini_2[] = _(
+  "both feared and revered.");
+
+static const u8 DexDescription_Tapu_Koko_1[] = _(
+  "Although it's called a guardian deity,\n"
+  "if a person or Pokémon puts it in a\n"
+  "bad mood, it will become a malevolent");
+static const u8 DexDescription_Tapu_Koko_2[] = _(
+  "deity and attack.");
+
+static const u8 DexDescription_Tapu_Lele_1[] = _(
+  "It heals the wounds of people and\n"
+  "Pokémon by sprinkling them with its\n"
+  "sparkling scales. This guardian deity");
+static const u8 DexDescription_Tapu_Lele_2[] = _(
+  "is worshiped on Akala.");
+
+static const u8 DexDescription_Tepig_1[] = _(
+  "It can deftly dodge its foe's attacks\n"
+  "while shooting fireballs from its\n"
+  "nose. It roasts berries before it eats");
+static const u8 DexDescription_Tepig_2[] = _(
+  "them.");
+
+static const u8 DexDescription_Terrakion_1[] = _(
+  "Its charge is strong enough to break\n"
+  "through a giant castle wall in one\n"
+  "blow. This Pokémon is spoken of in");
+static const u8 DexDescription_Terrakion_2[] = _(
+  "legends.");
+
+static const u8 DexDescription_Throh_1[] = _(
+  "When it tightens its belt, it becomes\n"
+  "stronger. Wild Throh use vines to\n"
+  "weave their own belts.");
+
+static const u8 DexDescription_Thundurus_1[] = _(
+  "The spikes on its tail discharge\n"
+  "immense bolts of lightning. It flies\n"
+  "around the Unova region firing off");
+static const u8 DexDescription_Thundurus_2[] = _(
+  "lightning bolts.");
+
+static const u8 DexDescription_Timburr_1[] = _(
+  "These Pokémon appear at building sites\n"
+  "and help out with construction. They\n"
+  "always carry squared logs.");
+
+static const u8 DexDescription_Tirtouga_1[] = _(
+  "It was restored from an ancient\n"
+  "fossil. Tirtouga lived in the sea but\n"
+  "came up onto the land to search for");
+static const u8 DexDescription_Tirtouga_2[] = _(
+  "prey.");
+
+static const u8 DexDescription_Togedemaru_1[] = _(
+  "When it's surprised or agitated, the\n"
+  "14 fur spikes on its back will stand\n"
+  "up involuntarily.");
+
+static const u8 DexDescription_Togekiss_1[] = _(
+  "As everyone knows, it visits peaceful\n"
+  "regions, bringing them gifts of\n"
+  "kindness and sweet blessings.");
+
+static const u8 DexDescription_Tornadus_1[] = _(
+  "The lower half of its body is wrapped\n"
+  "in a cloud of energy. It zooms through\n"
+  "the sky at 200 mph.");
+
+static const u8 DexDescription_Torracat_1[] = _(
+  "It can act spoiled if it grows close\n"
+  "to its Trainer. A powerful Pokémon,\n"
+  "its sharp claws can leave its");
+static const u8 DexDescription_Torracat_2[] = _(
+  "Trainer's whole body covered in\n"
+  "scratches.");
+
+static const u8 DexDescription_Torterra_1[] = _(
+  "Ancient people imagined that beneath\n"
+  "the ground, a gigantic Torterra\n"
+  "dwelled.");
+
+static const u8 DexDescription_Toucannon_1[] = _(
+  "They smack beaks with others of their\n"
+  "kind to communicate. The strength and\n"
+  "number of hits tell each other how");
+static const u8 DexDescription_Toucannon_2[] = _(
+  "they feel.");
+
+static const u8 DexDescription_Toxapex_1[] = _(
+  "To attack, this Pokémon sends toxic\n"
+  "spikes flying at its enemies. Ones\n"
+  "that come close get mown down by the");
+static const u8 DexDescription_Toxapex_2[] = _(
+  "claws on its feet.");
+
+static const u8 DexDescription_Toxicroak_1[] = _(
+  "It has a poison sac at its throat.\n"
+  "When it croaks, the stored poison is\n"
+  "churned for greater potency.");
+
+static const u8 DexDescription_Tranquill_1[] = _(
+  "Many people believe that, deep in the\n"
+  "forest where Tranquill live, there is\n"
+  "a peaceful place where there is no");
+static const u8 DexDescription_Tranquill_2[] = _(
+  "war.");
+
+static const u8 DexDescription_Trevenant_1[] = _(
+  "It's feared as a ghost of the forest.\n"
+  "Lumberjacks bring along Fire types,\n"
+  "which Trevenant hates, when they enter");
+static const u8 DexDescription_Trevenant_2[] = _(
+  "the forest.");
+
+static const u8 DexDescription_Trubbish_1[] = _(
+  "Poisonous gas leaks out of it when it\n"
+  "breathes. Muk that catch a whiff of\n"
+  "that stench will come drooling.");
+
+static const u8 DexDescription_Trumbeak_1[] = _(
+  "It can bend the tip of its beak to\n"
+  "produce over a hundred different cries\n"
+  "at will.");
+
+static const u8 DexDescription_Tsareena_1[] = _(
+  "A master of grand and beautiful kicks,\n"
+  "it can knock out even kickboxing\n"
+  "champions with a single blow.");
+
+static const u8 DexDescription_Turtonator_1[] = _(
+  "It lives in volcanoes and eats sulfur\n"
+  "and other minerals. Materials from the\n"
+  "food it eats form the basis of its");
+static const u8 DexDescription_Turtonator_2[] = _(
+  "explosive shell.");
+
+static const u8 DexDescription_Turtwig_1[] = _(
+  "Photosynthesis occurs across its body\n"
+  "under the sun. The shell on its back\n"
+  "is actually hardened soil.");
+
+static const u8 DexDescription_Tympole_1[] = _(
+  "By vibrating its cheeks, it emits\n"
+  "sound waves imperceptible to humans\n"
+  "and warns others of danger.");
+
+static const u8 DexDescription_Tynamo_1[] = _(
+  "While one alone doesn't have much\n"
+  "power, a chain of many Tynamo can be\n"
+  "as powerful as lightning.");
+
+static const u8 DexDescription_TypeNull_1[] = _(
+  "A Pokémon weapon developed for a\n"
+  "specific mission, it went berserk\n"
+  "during an experiment, so it was");
+static const u8 DexDescription_TypeNull_2[] = _(
+  "cryogenically frozen.");
+
+static const u8 DexDescription_Tyrantrum_1[] = _(
+  "Complete restoration is impossible,\n"
+  "allowing room for theories that its\n"
+  "entire body was once covered in a");
+static const u8 DexDescription_Tyrantrum_2[] = _(
+  "feather-like coat.");
+
+static const u8 DexDescription_Tyrunt_1[] = _(
+  "Its large jaw has incredible\n"
+  "destructive power. Some theories\n"
+  "suggest that its restored form is");
+static const u8 DexDescription_Tyrunt_2[] = _(
+  "different from its form of long ago.");
+
+static const u8 DexDescription_Unfezant_1[] = _(
+  "Males swing their head plumage to\n"
+  "threaten opponents. The females'\n"
+  "flying abilities surpass those of the");
+static const u8 DexDescription_Unfezant_2[] = _(
+  "males.");
+
+static const u8 DexDescription_Uxie_1[] = _(
+  "Known as 'The Being of Knowledge."" It\n"
+  "is said that it can wipe out the\n"
+  "memory of those who see its eyes.");
+
+static const u8 DexDescription_Vanillish_1[] = _(
+  "This hearty Pokémon survived the Ice\n"
+  "Age. It's incredibly popular in very\n"
+  "hot regions.");
+
+static const u8 DexDescription_Vanillite_1[] = _(
+  "It exhales cold air that is at -58\n"
+  "degrees Fahrenheit. When it's in a\n"
+  "warm place, it shrinks little by");
+static const u8 DexDescription_Vanillite_2[] = _(
+  "little.");
+
+static const u8 DexDescription_Vanilluxe_1[] = _(
+  "It blasts blizzards from its two\n"
+  "mouths. It can create snow anywhere,\n"
+  "so it gets a lot of love from skiers");
+static const u8 DexDescription_Vanilluxe_2[] = _(
+  "and snowboarders.");
+
+static const u8 DexDescription_Venipede_1[] = _(
+  "It discovers what is going on around\n"
+  "it by using the feelers on its head\n"
+  "and tail. It is brutally aggressive.");
+
+static const u8 DexDescription_Vespiquen_1[] = _(
+  "It houses its colony in cells in its\n"
+  "body and releases various pheromones\n"
+  "to make those grubs do its bidding.");
+
+static const u8 DexDescription_Victini_1[] = _(
+  "This Pokémon brings victory. It is\n"
+  "said that Trainers with Victini always\n"
+  "win, regardless of the type of");
+static const u8 DexDescription_Victini_2[] = _(
+  "encounter.");
+
+static const u8 DexDescription_Vikavolt_1[] = _(
+  "It has an organ that generates\n"
+  "electricity in its abdomen. It\n"
+  "concentrates energy in its strong jaws");
+static const u8 DexDescription_Vikavolt_2[] = _(
+  "and fires off powerful jolts of\n"
+  "electricity.");
+
+static const u8 DexDescription_Virizion_1[] = _(
+  "Its head sprouts horns as sharp as\n"
+  "blades. Using whirlwind-like\n"
+  "movements, it confounds and swiftly");
+static const u8 DexDescription_Virizion_2[] = _(
+  "cuts opponents.");
+
+static const u8 DexDescription_Vivillon_1[] = _(
+  "Vivillon with many different patterns\n"
+  "are found all over the world. These\n"
+  "patterns are affected by the climate");
+static const u8 DexDescription_Vivillon_2[] = _(
+  "of their habitat.");
+
+static const u8 DexDescription_Volcanion_1[] = _(
+  "It lets out billows of steam and\n"
+  "disappears into the dense fog. It's\n"
+  "said to live in mountains where humans");
+static const u8 DexDescription_Volcanion_2[] = _(
+  "do not tread.");
+
+static const u8 DexDescription_Volcarona_1[] = _(
+  "As it flies, it scatters its flaming\n"
+  "scales. It was feared by ancient\n"
+  "people, who referred to it as 'the");
+static const u8 DexDescription_Volcarona_2[] = _(
+  "rage of the sun.'");
+
+static const u8 DexDescription_Vullaby_1[] = _(
+  "Mandibuzz gives it the bones it wears.\n"
+  "Vullaby's wings are short, so it can't\n"
+  "fly yet, but it jumps around, dreaming");
+static const u8 DexDescription_Vullaby_2[] = _(
+  "of wide open skies.");
+
+static const u8 DexDescription_Watchog_1[] = _(
+  "Using luminescent matter, it makes its\n"
+  "eyes and body glow and stuns attacking\n"
+  "opponents.");
+
+static const u8 DexDescription_Weavile_1[] = _(
+  "One Weavile will trip a Sandshrew and\n"
+  "flip it over, and then another Weavile\n"
+  "will deal the finishing blow with its");
+static const u8 DexDescription_Weavile_2[] = _(
+  "sharp claws.");
+
+static const u8 DexDescription_Whimsicott_1[] = _(
+  "This nuisance sneaks into people's\n"
+  "homes, where it hides important things\n"
+  "and scatters cotton all over the");
+static const u8 DexDescription_Whimsicott_2[] = _(
+  "place.");
+
+static const u8 DexDescription_Whirlipede_1[] = _(
+  "Protected by a hard shell, it spins\n"
+  "its body like a wheel and crashes\n"
+  "furiously into its enemies.");
+
+static const u8 DexDescription_Wimpod_1[] = _(
+  "It will pick up anything it finds on\n"
+  "the ground. Sometimes it finds coins,\n"
+  "so Murkrow and Meowth will go after");
+static const u8 DexDescription_Wimpod_2[] = _(
+  "it.");
+
+static const u8 DexDescription_Wishiwashi_1[] = _(
+  "They're weak, so they move in schools.\n"
+  "However, they can also often be seen\n"
+  "all alone, having strayed from the");
+static const u8 DexDescription_Wishiwashi_2[] = _(
+  "school.");
+
+static const u8 DexDescription_Woobat_1[] = _(
+  "Its habitat is dark forests and caves.\n"
+  "It emits ultrasonic waves from its\n"
+  "nose to learn about its surroundings.");
+
+static const u8 DexDescription_Wormadam_1[] = _(
+  "Its appearance changes depending on\n"
+  "where it evolved. The materials on\n"
+  "hand become a part of its body.");
+
+static const u8 DexDescription_Xerneas_1[] = _(
+  "Legends say it can share eternal life.\n"
+  "It slept for a thousand years in the\n"
+  "form of a tree before its revival.");
+
+static const u8 DexDescription_Xurkitree_1[] = _(
+  "Although it's alien to this world and\n"
+  "a danger here, it's apparently a\n"
+  "common organism in the world where it");
+static const u8 DexDescription_Xurkitree_2[] = _(
+  "normally lives.");
+
+static const u8 DexDescription_Yamask_1[] = _(
+  "These Pokémon arose from the spirits\n"
+  "of people interred in graves. Each\n"
+  "retains memories of its former life.");
+
+static const u8 DexDescription_Yanmega_1[] = _(
+  "It prefers to battle by biting apart\n"
+  "foes' heads instantly while flying by\n"
+  "at high speed.");
+
+static const u8 DexDescription_Yungoos_1[] = _(
+  "Its stomach takes up most of its long\n"
+  "torso. It's a big eater, so the amount\n"
+  "Trainers have to spend on its food is");
+static const u8 DexDescription_Yungoos_2[] = _(
+  "no laughing matter.");
+
+static const u8 DexDescription_Yveltal_1[] = _(
+  "When this legendary Pokémon's wings\n"
+  "and tail feathers spread wide and glow\n"
+  "red, it absorbs the life force of");
+static const u8 DexDescription_Yveltal_2[] = _(
+  "living creatures.");
+
+static const u8 DexDescription_Zebstrika_1[] = _(
+  "When this ill-tempered Pokémon runs\n"
+  "wild, it shoots lightning from its\n"
+  "mane in all directions.");
+
+static const u8 DexDescription_Zekrom_1[] = _(
+  "This legendary Pokémon can scorch the\n"
+  "world with lightning. It assists those\n"
+  "who want to build an ideal world.");
+
+static const u8 DexDescription_Zeraora_1[] = _(
+  "It electrifies its claws and tears its\n"
+  "opponents apart with them. Even if\n"
+  "they dodge its attack, they'll be");
+static const u8 DexDescription_Zeraora_2[] = _(
+  "electrocuted by the flying sparks.");
+
+static const u8 DexDescription_Zoroark_1[] = _(
+  "It doesn't just transform itselféit\n"
+  "also has the power to make hundreds of\n"
+  "people see its illusions.");
+
+static const u8 DexDescription_Zorua_1[] = _(
+  "This Pokémon has a cowardly\n"
+  "disposition, so when it's not around\n"
+  "friends, it basically always stays");
+static const u8 DexDescription_Zorua_2[] = _(
+  "transformed as something else.");
+
+static const u8 DexDescription_Zweilous_1[] = _(
+  "The two heads do not get along.\n"
+  "Whichever head eats more than the\n"
+  "other gets to be the leader.");
+
+static const u8 DexDescription_Zygarde_1[] = _(
+  "This is Zygarde's form when about half\n"
+  "of its pieces have been assembled. It\n"
+  "plays the role of monitoring the");
+static const u8 DexDescription_Zygarde_2[] = _(
+  "ecosystem.");
+  
+
 const struct PokedexEntry gPokedexEntries[] =
 {
     {  //Dummy
@@ -9648,4 +12206,4658 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerScale = 290,
         .trainerOffset = 2,
     },
+    {  //Abomasnow
+        .categoryName = _("FROST TREE"),
+        .height = 22,
+        .weight = 1355,
+        .descriptionPage1 = DexDescription_Abomasnow_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Accelgor
+        .categoryName = _("SHELL OUT"),
+        .height = 8,
+        .weight = 253,
+        .descriptionPage1 = DexDescription_Accelgor_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Aegislash
+        .categoryName = _("ROYAL SWORD"),
+        .height = 17,
+        .weight = 530,
+        .descriptionPage1 = DexDescription_Aegislash_1,
+        .descriptionPage2 = DexDescription_Aegislash_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Alomomola
+        .categoryName = _("CARING"),
+        .height = 12,
+        .weight = 316,
+        .descriptionPage1 = DexDescription_Alomomola_1,
+        .descriptionPage2 = DexDescription_Alomomola_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Amaura
+        .categoryName = _("TUNDRA"),
+        .height = 13,
+        .weight = 252,
+        .descriptionPage1 = DexDescription_Amaura_1,
+        .descriptionPage2 = DexDescription_Amaura_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Ambipom
+        .categoryName = _("LONG TAIL"),
+        .height = 12,
+        .weight = 203,
+        .descriptionPage1 = DexDescription_Ambipom_1,
+        .descriptionPage2 = DexDescription_Ambipom_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Amoonguss
+        .categoryName = _("MUSHROOM"),
+        .height = 6,
+        .weight = 105,
+        .descriptionPage1 = DexDescription_Amoonguss_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Araquanid
+        .categoryName = _("WATER BUBBLE"),
+        .height = 18,
+        .weight = 820,
+        .descriptionPage1 = DexDescription_Araquanid_1,
+        .descriptionPage2 = DexDescription_Araquanid_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Arceus
+        .categoryName = _("ALPHA"),
+        .height = 32,
+        .weight = 3200,
+        .descriptionPage1 = DexDescription_Arceus_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Archen
+        .categoryName = _("FIRST BIRD"),
+        .height = 5,
+        .weight = 95,
+        .descriptionPage1 = DexDescription_Archen_1,
+        .descriptionPage2 = DexDescription_Archen_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Archeops
+        .categoryName = _("FIRST BIRD"),
+        .height = 14,
+        .weight = 320,
+        .descriptionPage1 = DexDescription_Archeops_1,
+        .descriptionPage2 = DexDescription_Archeops_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Aromatisse
+        .categoryName = _("FRAGRANCE"),
+        .height = 8,
+        .weight = 155,
+        .descriptionPage1 = DexDescription_Aromatisse_1,
+        .descriptionPage2 = DexDescription_Aromatisse_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Audino
+        .categoryName = _("HEARING"),
+        .height = 11,
+        .weight = 310,
+        .descriptionPage1 = DexDescription_Audino_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Aurorus
+        .categoryName = _("TUNDRA"),
+        .height = 27,
+        .weight = 2250,
+        .descriptionPage1 = DexDescription_Aurorus_1,
+        .descriptionPage2 = DexDescription_Aurorus_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Avalugg
+        .categoryName = _("ICEBERG"),
+        .height = 20,
+        .weight = 5050,
+        .descriptionPage1 = DexDescription_Avalugg_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Axew
+        .categoryName = _("TUSK"),
+        .height = 6,
+        .weight = 180,
+        .descriptionPage1 = DexDescription_Axew_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Azelf
+        .categoryName = _("WILLPOWER"),
+        .height = 3,
+        .weight = 3,
+        .descriptionPage1 = DexDescription_Azelf_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Barbaracle
+        .categoryName = _("COLLECTIVE"),
+        .height = 13,
+        .weight = 960,
+        .descriptionPage1 = DexDescription_Barbaracle_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Basculin
+        .categoryName = _("HOSTILE"),
+        .height = 10,
+        .weight = 180,
+        .descriptionPage1 = DexDescription_Basculin_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Bastiodon
+        .categoryName = _("SHIELD"),
+        .height = 13,
+        .weight = 1495,
+        .descriptionPage1 = DexDescription_Bastiodon_1,
+        .descriptionPage2 = DexDescription_Bastiodon_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Beartic
+        .categoryName = _("FREEZING"),
+        .height = 26,
+        .weight = 2600,
+        .descriptionPage1 = DexDescription_Beartic_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Beheeyem
+        .categoryName = _("CEREBRAL"),
+        .height = 10,
+        .weight = 345,
+        .descriptionPage1 = DexDescription_Beheeyem_1,
+        .descriptionPage2 = DexDescription_Beheeyem_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Bergmite
+        .categoryName = _("ICE CHUNK"),
+        .height = 10,
+        .weight = 995,
+        .descriptionPage1 = DexDescription_Bergmite_1,
+        .descriptionPage2 = DexDescription_Bergmite_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Bewear
+        .categoryName = _("STRONG ARM"),
+        .height = 21,
+        .weight = 1350,
+        .descriptionPage1 = DexDescription_Bewear_1,
+        .descriptionPage2 = DexDescription_Bewear_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Bibarel
+        .categoryName = _("BEAVER"),
+        .height = 10,
+        .weight = 315,
+        .descriptionPage1 = DexDescription_Bibarel_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Bidoof
+        .categoryName = _("PLUMP MOUSE"),
+        .height = 5,
+        .weight = 200,
+        .descriptionPage1 = DexDescription_Bidoof_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Binacle
+        .categoryName = _("TWO-HANDED"),
+        .height = 5,
+        .weight = 310,
+        .descriptionPage1 = DexDescription_Binacle_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Bisharp
+        .categoryName = _("SWORD BLADE"),
+        .height = 16,
+        .weight = 700,
+        .descriptionPage1 = DexDescription_Bisharp_1,
+        .descriptionPage2 = DexDescription_Bisharp_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Blacephalon
+        .categoryName = _("FIREWORKS"),
+        .height = 18,
+        .weight = 130,
+        .descriptionPage1 = DexDescription_Blacephalon_1,
+        .descriptionPage2 = DexDescription_Blacephalon_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Blitzle
+        .categoryName = _("ELECTRIFIED"),
+        .height = 8,
+        .weight = 298,
+        .descriptionPage1 = DexDescription_Blitzle_1,
+        .descriptionPage2 = DexDescription_Blitzle_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Boldore
+        .categoryName = _("ORE"),
+        .height = 9,
+        .weight = 1020,
+        .descriptionPage1 = DexDescription_Boldore_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Bonsly
+        .categoryName = _("BONSAI"),
+        .height = 5,
+        .weight = 150,
+        .descriptionPage1 = DexDescription_Bonsly_1,
+        .descriptionPage2 = DexDescription_Bonsly_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Bouffalant
+        .categoryName = _("BASH BUFFALO"),
+        .height = 16,
+        .weight = 946,
+        .descriptionPage1 = DexDescription_Bouffalant_1,
+        .descriptionPage2 = DexDescription_Bouffalant_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Bounsweet
+        .categoryName = _("FRUIT"),
+        .height = 3,
+        .weight = 32,
+        .descriptionPage1 = DexDescription_Bounsweet_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Braixen
+        .categoryName = _("FOX"),
+        .height = 10,
+        .weight = 145,
+        .descriptionPage1 = DexDescription_Braixen_1,
+        .descriptionPage2 = DexDescription_Braixen_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Braviary
+        .categoryName = _("VALIANT"),
+        .height = 15,
+        .weight = 410,
+        .descriptionPage1 = DexDescription_Braviary_1,
+        .descriptionPage2 = DexDescription_Braviary_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Brionne
+        .categoryName = _("POP STAR"),
+        .height = 6,
+        .weight = 175,
+        .descriptionPage1 = DexDescription_Brionne_1,
+        .descriptionPage2 = DexDescription_Brionne_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Bronzong
+        .categoryName = _("BRONZE BELL"),
+        .height = 13,
+        .weight = 1870,
+        .descriptionPage1 = DexDescription_Bronzong_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Bronzor
+        .categoryName = _("BRONZE"),
+        .height = 5,
+        .weight = 605,
+        .descriptionPage1 = DexDescription_Bronzor_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Bruxish
+        .categoryName = _("GNASH TEETH"),
+        .height = 9,
+        .weight = 190,
+        .descriptionPage1 = DexDescription_Bruxish_1,
+        .descriptionPage2 = DexDescription_Bruxish_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Budew
+        .categoryName = _("BUD"),
+        .height = 2,
+        .weight = 12,
+        .descriptionPage1 = DexDescription_Budew_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Buizel
+        .categoryName = _("SEA WEASEL"),
+        .height = 7,
+        .weight = 295,
+        .descriptionPage1 = DexDescription_Buizel_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Buneary
+        .categoryName = _("RABBIT"),
+        .height = 4,
+        .weight = 55,
+        .descriptionPage1 = DexDescription_Buneary_1,
+        .descriptionPage2 = DexDescription_Buneary_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Bunnelby
+        .categoryName = _("DIGGING"),
+        .height = 4,
+        .weight = 50,
+        .descriptionPage1 = DexDescription_Bunnelby_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Burmy
+        .categoryName = _("BAGWORM"),
+        .height = 2,
+        .weight = 34,
+        .descriptionPage1 = DexDescription_Burmy_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Buzzwole
+        .categoryName = _("SWOLLEN"),
+        .height = 24,
+        .weight = 3336,
+        .descriptionPage1 = DexDescription_Buzzwole_1,
+        .descriptionPage2 = DexDescription_Buzzwole_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Carbink
+        .categoryName = _("JEWEL"),
+        .height = 3,
+        .weight = 57,
+        .descriptionPage1 = DexDescription_Carbink_1,
+        .descriptionPage2 = DexDescription_Carbink_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Carnivine
+        .categoryName = _("BUG CATCHER"),
+        .height = 14,
+        .weight = 270,
+        .descriptionPage1 = DexDescription_Carnivine_1,
+        .descriptionPage2 = DexDescription_Carnivine_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Carracosta
+        .categoryName = _("PROTOTURTLE"),
+        .height = 12,
+        .weight = 810,
+        .descriptionPage1 = DexDescription_Carracosta_1,
+        .descriptionPage2 = DexDescription_Carracosta_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Celesteela
+        .categoryName = _("LAUNCH"),
+        .height = 92,
+        .weight = 9999,
+        .descriptionPage1 = DexDescription_Celesteela_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Chandelure
+        .categoryName = _("LURING"),
+        .height = 10,
+        .weight = 343,
+        .descriptionPage1 = DexDescription_Chandelure_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Charjabug
+        .categoryName = _("BATTERY"),
+        .height = 5,
+        .weight = 105,
+        .descriptionPage1 = DexDescription_Charjabug_1,
+        .descriptionPage2 = DexDescription_Charjabug_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Chatot
+        .categoryName = _("MUSIC NOTE"),
+        .height = 5,
+        .weight = 19,
+        .descriptionPage1 = DexDescription_Chatot_1,
+        .descriptionPage2 = DexDescription_Chatot_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Cherrim
+        .categoryName = _("BLOSSOM"),
+        .height = 5,
+        .weight = 93,
+        .descriptionPage1 = DexDescription_Cherrim_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Cherubi
+        .categoryName = _("CHERRY"),
+        .height = 4,
+        .weight = 33,
+        .descriptionPage1 = DexDescription_Cherubi_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Chesnaught
+        .categoryName = _("SPINY ARMOR"),
+        .height = 16,
+        .weight = 900,
+        .descriptionPage1 = DexDescription_Chesnaught_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Chespin
+        .categoryName = _("SPINY NUT"),
+        .height = 4,
+        .weight = 90,
+        .descriptionPage1 = DexDescription_Chespin_1,
+        .descriptionPage2 = DexDescription_Chespin_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Chimchar
+        .categoryName = _("CHIMP"),
+        .height = 5,
+        .weight = 62,
+        .descriptionPage1 = DexDescription_Chimchar_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Chingling
+        .categoryName = _("BELL"),
+        .height = 2,
+        .weight = 6,
+        .descriptionPage1 = DexDescription_Chingling_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Cinccino
+        .categoryName = _("SCARF"),
+        .height = 5,
+        .weight = 75,
+        .descriptionPage1 = DexDescription_Cinccino_1,
+        .descriptionPage2 = DexDescription_Cinccino_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Clauncher
+        .categoryName = _("WATER GUN"),
+        .height = 5,
+        .weight = 83,
+        .descriptionPage1 = DexDescription_Clauncher_1,
+        .descriptionPage2 = DexDescription_Clauncher_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Clawitzer
+        .categoryName = _("HOWITZER"),
+        .height = 13,
+        .weight = 353,
+        .descriptionPage1 = DexDescription_Clawitzer_1,
+        .descriptionPage2 = DexDescription_Clawitzer_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Cobalion
+        .categoryName = _("IRON WILL"),
+        .height = 21,
+        .weight = 2500,
+        .descriptionPage1 = DexDescription_Cobalion_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Cofagrigus
+        .categoryName = _("COFFIN"),
+        .height = 17,
+        .weight = 765,
+        .descriptionPage1 = DexDescription_Cofagrigus_1,
+        .descriptionPage2 = DexDescription_Cofagrigus_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Combee
+        .categoryName = _("TINY BEE"),
+        .height = 3,
+        .weight = 55,
+        .descriptionPage1 = DexDescription_Combee_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Comfey
+        .categoryName = _("POSY PICKER"),
+        .height = 1,
+        .weight = 3,
+        .descriptionPage1 = DexDescription_Comfey_1,
+        .descriptionPage2 = DexDescription_Comfey_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Conkeldurr
+        .categoryName = _("MUSCULAR"),
+        .height = 14,
+        .weight = 870,
+        .descriptionPage1 = DexDescription_Conkeldurr_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Cosmoem
+        .categoryName = _("PROTOSTAR"),
+        .height = 1,
+        .weight = 9999,
+        .descriptionPage1 = DexDescription_Cosmoem_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Cosmog
+        .categoryName = _("NEBULA"),
+        .height = 2,
+        .weight = 1,
+        .descriptionPage1 = DexDescription_Cosmog_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Cottonee
+        .categoryName = _("COTTON PUFF"),
+        .height = 3,
+        .weight = 6,
+        .descriptionPage1 = DexDescription_Cottonee_1,
+        .descriptionPage2 = DexDescription_Cottonee_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Crabominable
+        .categoryName = _("WOOLLY CRAB"),
+        .height = 17,
+        .weight = 1800,
+        .descriptionPage1 = DexDescription_Crabominable_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Crabrawler
+        .categoryName = _("BOXING"),
+        .height = 6,
+        .weight = 70,
+        .descriptionPage1 = DexDescription_Crabrawler_1,
+        .descriptionPage2 = DexDescription_Crabrawler_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Cranidos
+        .categoryName = _("HEAD BUTT"),
+        .height = 9,
+        .weight = 315,
+        .descriptionPage1 = DexDescription_Cranidos_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Cresselia
+        .categoryName = _("LUNAR"),
+        .height = 15,
+        .weight = 856,
+        .descriptionPage1 = DexDescription_Cresselia_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Croagunk
+        .categoryName = _("TOXIC MOUTH"),
+        .height = 7,
+        .weight = 230,
+        .descriptionPage1 = DexDescription_Croagunk_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Crustle
+        .categoryName = _("STONE HOME"),
+        .height = 14,
+        .weight = 2000,
+        .descriptionPage1 = DexDescription_Crustle_1,
+        .descriptionPage2 = DexDescription_Crustle_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Cryogonal
+        .categoryName = _("CRYSTALLIZING"),
+        .height = 11,
+        .weight = 1480,
+        .descriptionPage1 = DexDescription_Cryogonal_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Cubchoo
+        .categoryName = _("CHILL"),
+        .height = 5,
+        .weight = 85,
+        .descriptionPage1 = DexDescription_Cubchoo_1,
+        .descriptionPage2 = DexDescription_Cubchoo_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Cutiefly
+        .categoryName = _("BEE FLY"),
+        .height = 1,
+        .weight = 2,
+        .descriptionPage1 = DexDescription_Cutiefly_1,
+        .descriptionPage2 = DexDescription_Cutiefly_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Darkrai
+        .categoryName = _("PITCH-BLACK"),
+        .height = 15,
+        .weight = 505,
+        .descriptionPage1 = DexDescription_Darkrai_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Darmanitan
+        .categoryName = _("BLAZING"),
+        .height = 13,
+        .weight = 929,
+        .descriptionPage1 = DexDescription_Darmanitan_1,
+        .descriptionPage2 = DexDescription_Darmanitan_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Dartrix
+        .categoryName = _("BLADE QUILL"),
+        .height = 7,
+        .weight = 160,
+        .descriptionPage1 = DexDescription_Dartrix_1,
+        .descriptionPage2 = DexDescription_Dartrix_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Darumaka
+        .categoryName = _("ZEN CHARM"),
+        .height = 6,
+        .weight = 375,
+        .descriptionPage1 = DexDescription_Darumaka_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Decidueye
+        .categoryName = _("ARROW QUILL"),
+        .height = 16,
+        .weight = 366,
+        .descriptionPage1 = DexDescription_Decidueye_1,
+        .descriptionPage2 = DexDescription_Decidueye_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Dedenne
+        .categoryName = _("ANTENNA"),
+        .height = 2,
+        .weight = 22,
+        .descriptionPage1 = DexDescription_Dedenne_1,
+        .descriptionPage2 = DexDescription_Dedenne_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Deerling
+        .categoryName = _("SEASON"),
+        .height = 6,
+        .weight = 195,
+        .descriptionPage1 = DexDescription_Deerling_1,
+        .descriptionPage2 = DexDescription_Deerling_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Deino
+        .categoryName = _("IRATE"),
+        .height = 8,
+        .weight = 173,
+        .descriptionPage1 = DexDescription_Deino_1,
+        .descriptionPage2 = DexDescription_Deino_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Delphox
+        .categoryName = _("FOX"),
+        .height = 15,
+        .weight = 390,
+        .descriptionPage1 = DexDescription_Delphox_1,
+        .descriptionPage2 = DexDescription_Delphox_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Dewott
+        .categoryName = _("DISCIPLINE"),
+        .height = 8,
+        .weight = 245,
+        .descriptionPage1 = DexDescription_Dewott_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Dewpider
+        .categoryName = _("WATER BUBBLE"),
+        .height = 3,
+        .weight = 40,
+        .descriptionPage1 = DexDescription_Dewpider_1,
+        .descriptionPage2 = DexDescription_Dewpider_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Dhelmise
+        .categoryName = _("SEA CREEPER"),
+        .height = 39,
+        .weight = 2100,
+        .descriptionPage1 = DexDescription_Dhelmise_1,
+        .descriptionPage2 = DexDescription_Dhelmise_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Dialga
+        .categoryName = _("TEMPORAL"),
+        .height = 54,
+        .weight = 6830,
+        .descriptionPage1 = DexDescription_Dialga_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Diancie
+        .categoryName = _("JEWEL"),
+        .height = 7,
+        .weight = 88,
+        .descriptionPage1 = DexDescription_Diancie_1,
+        .descriptionPage2 = DexDescription_Diancie_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Diggersby
+        .categoryName = _("DIGGING"),
+        .height = 10,
+        .weight = 424,
+        .descriptionPage1 = DexDescription_Diggersby_1,
+        .descriptionPage2 = DexDescription_Diggersby_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Doublade
+        .categoryName = _("SWORD"),
+        .height = 8,
+        .weight = 45,
+        .descriptionPage1 = DexDescription_Doublade_1,
+        .descriptionPage2 = DexDescription_Doublade_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Dragalge
+        .categoryName = _("MOCK KELP"),
+        .height = 18,
+        .weight = 815,
+        .descriptionPage1 = DexDescription_Dragalge_1,
+        .descriptionPage2 = DexDescription_Dragalge_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Drampa
+        .categoryName = _("PLACID"),
+        .height = 30,
+        .weight = 1850,
+        .descriptionPage1 = DexDescription_Drampa_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Drapion
+        .categoryName = _("OGRE SCORPION"),
+        .height = 13,
+        .weight = 615,
+        .descriptionPage1 = DexDescription_Drapion_1,
+        .descriptionPage2 = DexDescription_Drapion_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Drifblim
+        .categoryName = _("BLIMP"),
+        .height = 12,
+        .weight = 150,
+        .descriptionPage1 = DexDescription_Drifblim_1,
+        .descriptionPage2 = DexDescription_Drifblim_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Drifloon
+        .categoryName = _("BALLOON"),
+        .height = 4,
+        .weight = 12,
+        .descriptionPage1 = DexDescription_Drifloon_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Drilbur
+        .categoryName = _("MOLE"),
+        .height = 3,
+        .weight = 85,
+        .descriptionPage1 = DexDescription_Drilbur_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Druddigon
+        .categoryName = _("CAVE"),
+        .height = 16,
+        .weight = 1390,
+        .descriptionPage1 = DexDescription_Druddigon_1,
+        .descriptionPage2 = DexDescription_Druddigon_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Ducklett
+        .categoryName = _("WATER BIRD"),
+        .height = 5,
+        .weight = 55,
+        .descriptionPage1 = DexDescription_Ducklett_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Duosion
+        .categoryName = _("MITOSIS"),
+        .height = 6,
+        .weight = 80,
+        .descriptionPage1 = DexDescription_Duosion_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Durant
+        .categoryName = _("IRON ANT"),
+        .height = 3,
+        .weight = 330,
+        .descriptionPage1 = DexDescription_Durant_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Dusknoir
+        .categoryName = _("GRIPPER"),
+        .height = 22,
+        .weight = 1066,
+        .descriptionPage1 = DexDescription_Dusknoir_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Dwebble
+        .categoryName = _("ROCK INN"),
+        .height = 3,
+        .weight = 145,
+        .descriptionPage1 = DexDescription_Dwebble_1,
+        .descriptionPage2 = DexDescription_Dwebble_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Eelektrik
+        .categoryName = _("ELEFISH"),
+        .height = 12,
+        .weight = 220,
+        .descriptionPage1 = DexDescription_Eelektrik_1,
+        .descriptionPage2 = DexDescription_Eelektrik_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Eelektross
+        .categoryName = _("ELEFISH"),
+        .height = 21,
+        .weight = 805,
+        .descriptionPage1 = DexDescription_Eelektross_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Electivire
+        .categoryName = _("THUNDERBOLT"),
+        .height = 18,
+        .weight = 1386,
+        .descriptionPage1 = DexDescription_Electivire_1,
+        .descriptionPage2 = DexDescription_Electivire_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Elgyem
+        .categoryName = _("CEREBRAL"),
+        .height = 5,
+        .weight = 90,
+        .descriptionPage1 = DexDescription_Elgyem_1,
+        .descriptionPage2 = DexDescription_Elgyem_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Emboar
+        .categoryName = _("MEGA FIRE PIG"),
+        .height = 16,
+        .weight = 1500,
+        .descriptionPage1 = DexDescription_Emboar_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Emolga
+        .categoryName = _("SKY SQUIRREL"),
+        .height = 4,
+        .weight = 50,
+        .descriptionPage1 = DexDescription_Emolga_1,
+        .descriptionPage2 = DexDescription_Emolga_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Empoleon
+        .categoryName = _("EMPEROR"),
+        .height = 17,
+        .weight = 845,
+        .descriptionPage1 = DexDescription_Empoleon_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Escavalier
+        .categoryName = _("CAVALRY"),
+        .height = 10,
+        .weight = 330,
+        .descriptionPage1 = DexDescription_Escavalier_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Espurr
+        .categoryName = _("RESTRAINT"),
+        .height = 3,
+        .weight = 35,
+        .descriptionPage1 = DexDescription_Espurr_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Excadrill
+        .categoryName = _("SUBTERRENE"),
+        .height = 7,
+        .weight = 404,
+        .descriptionPage1 = DexDescription_Excadrill_1,
+        .descriptionPage2 = DexDescription_Excadrill_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Fennekin
+        .categoryName = _("FOX"),
+        .height = 4,
+        .weight = 94,
+        .descriptionPage1 = DexDescription_Fennekin_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Ferroseed
+        .categoryName = _("THORN SEED"),
+        .height = 6,
+        .weight = 188,
+        .descriptionPage1 = DexDescription_Ferroseed_1,
+        .descriptionPage2 = DexDescription_Ferroseed_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Ferrothorn
+        .categoryName = _("THORN POD"),
+        .height = 10,
+        .weight = 1100,
+        .descriptionPage1 = DexDescription_Ferrothorn_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Finneon
+        .categoryName = _("WING FISH"),
+        .height = 4,
+        .weight = 70,
+        .descriptionPage1 = DexDescription_Finneon_1,
+        .descriptionPage2 = DexDescription_Finneon_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Flabebe
+        .categoryName = _("SINGLE BLOOM"),
+        .height = 1,
+        .weight = 1,
+        .descriptionPage1 = DexDescription_Flabebe_1,
+        .descriptionPage2 = DexDescription_Flabebe_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Fletchinder
+        .categoryName = _("EMBER"),
+        .height = 7,
+        .weight = 160,
+        .descriptionPage1 = DexDescription_Fletchinder_1,
+        .descriptionPage2 = DexDescription_Fletchinder_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Fletchling
+        .categoryName = _("TINY ROBIN"),
+        .height = 3,
+        .weight = 17,
+        .descriptionPage1 = DexDescription_Fletchling_1,
+        .descriptionPage2 = DexDescription_Fletchling_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Floatzel
+        .categoryName = _("SEA WEASEL"),
+        .height = 11,
+        .weight = 335,
+        .descriptionPage1 = DexDescription_Floatzel_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Floette
+        .categoryName = _("SINGLE BLOOM"),
+        .height = 2,
+        .weight = 9,
+        .descriptionPage1 = DexDescription_Floette_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Florges
+        .categoryName = _("GARDEN"),
+        .height = 11,
+        .weight = 100,
+        .descriptionPage1 = DexDescription_Florges_1,
+        .descriptionPage2 = DexDescription_Florges_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Fomantis
+        .categoryName = _("SICKLE GRASS"),
+        .height = 3,
+        .weight = 15,
+        .descriptionPage1 = DexDescription_Fomantis_1,
+        .descriptionPage2 = DexDescription_Fomantis_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Foongus
+        .categoryName = _("MUSHROOM"),
+        .height = 2,
+        .weight = 10,
+        .descriptionPage1 = DexDescription_Foongus_1,
+        .descriptionPage2 = DexDescription_Foongus_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Fraxure
+        .categoryName = _("AXE JAW"),
+        .height = 10,
+        .weight = 360,
+        .descriptionPage1 = DexDescription_Fraxure_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Frillish
+        .categoryName = _("FLOATING"),
+        .height = 12,
+        .weight = 330,
+        .descriptionPage1 = DexDescription_Frillish_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Froakie
+        .categoryName = _("BUBBLE FROG"),
+        .height = 3,
+        .weight = 70,
+        .descriptionPage1 = DexDescription_Froakie_1,
+        .descriptionPage2 = DexDescription_Froakie_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Frogadier
+        .categoryName = _("BUBBLE FROG"),
+        .height = 6,
+        .weight = 109,
+        .descriptionPage1 = DexDescription_Frogadier_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Froslass
+        .categoryName = _("SNOW LAND"),
+        .height = 13,
+        .weight = 266,
+        .descriptionPage1 = DexDescription_Froslass_1,
+        .descriptionPage2 = DexDescription_Froslass_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Furfrou
+        .categoryName = _("POODLE"),
+        .height = 12,
+        .weight = 280,
+        .descriptionPage1 = DexDescription_Furfrou_1,
+        .descriptionPage2 = DexDescription_Furfrou_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Gabite
+        .categoryName = _("CAVE"),
+        .height = 14,
+        .weight = 560,
+        .descriptionPage1 = DexDescription_Gabite_1,
+        .descriptionPage2 = DexDescription_Gabite_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Gallade
+        .categoryName = _("BLADE"),
+        .height = 16,
+        .weight = 520,
+        .descriptionPage1 = DexDescription_Gallade_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Galvantula
+        .categoryName = _("ELESPIDER"),
+        .height = 8,
+        .weight = 143,
+        .descriptionPage1 = DexDescription_Galvantula_1,
+        .descriptionPage2 = DexDescription_Galvantula_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Garbodor
+        .categoryName = _("TRASH HEAP"),
+        .height = 19,
+        .weight = 1073,
+        .descriptionPage1 = DexDescription_Garbodor_1,
+        .descriptionPage2 = DexDescription_Garbodor_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Garchomp
+        .categoryName = _("MACH"),
+        .height = 19,
+        .weight = 950,
+        .descriptionPage1 = DexDescription_Garchomp_1,
+        .descriptionPage2 = DexDescription_Garchomp_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Gastrodon
+        .categoryName = _("SEA SLUG"),
+        .height = 9,
+        .weight = 299,
+        .descriptionPage1 = DexDescription_Gastrodon_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Genesect
+        .categoryName = _("PALEOZOIC"),
+        .height = 15,
+        .weight = 825,
+        .descriptionPage1 = DexDescription_Genesect_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Gible
+        .categoryName = _("LAND SHARK"),
+        .height = 7,
+        .weight = 205,
+        .descriptionPage1 = DexDescription_Gible_1,
+        .descriptionPage2 = DexDescription_Gible_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Gigalith
+        .categoryName = _("COMPRESSED"),
+        .height = 17,
+        .weight = 2600,
+        .descriptionPage1 = DexDescription_Gigalith_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Giratina
+        .categoryName = _("RENEGADE"),
+        .height = 45,
+        .weight = 7500,
+        .descriptionPage1 = DexDescription_Giratina_1,
+        .descriptionPage2 = DexDescription_Giratina_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Glaceon
+        .categoryName = _("FRESH SNOW"),
+        .height = 8,
+        .weight = 259,
+        .descriptionPage1 = DexDescription_Glaceon_1,
+        .descriptionPage2 = DexDescription_Glaceon_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Glameow
+        .categoryName = _("CATTY"),
+        .height = 5,
+        .weight = 39,
+        .descriptionPage1 = DexDescription_Glameow_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Gliscor
+        .categoryName = _("FANG SCORPION"),
+        .height = 20,
+        .weight = 425,
+        .descriptionPage1 = DexDescription_Gliscor_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Gogoat
+        .categoryName = _("MOUNT"),
+        .height = 17,
+        .weight = 910,
+        .descriptionPage1 = DexDescription_Gogoat_1,
+        .descriptionPage2 = DexDescription_Gogoat_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Golett
+        .categoryName = _("AUTOMATON"),
+        .height = 10,
+        .weight = 920,
+        .descriptionPage1 = DexDescription_Golett_1,
+        .descriptionPage2 = DexDescription_Golett_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Golisopod
+        .categoryName = _("HARD SCALE"),
+        .height = 20,
+        .weight = 1080,
+        .descriptionPage1 = DexDescription_Golisopod_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Golurk
+        .categoryName = _("AUTOMATON"),
+        .height = 28,
+        .weight = 3300,
+        .descriptionPage1 = DexDescription_Golurk_1,
+        .descriptionPage2 = DexDescription_Golurk_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Goodra
+        .categoryName = _("DRAGON"),
+        .height = 20,
+        .weight = 1505,
+        .descriptionPage1 = DexDescription_Goodra_1,
+        .descriptionPage2 = DexDescription_Goodra_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Goomy
+        .categoryName = _("SOFT TISSUE"),
+        .height = 3,
+        .weight = 28,
+        .descriptionPage1 = DexDescription_Goomy_1,
+        .descriptionPage2 = DexDescription_Goomy_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Gothita
+        .categoryName = _("FIXATION"),
+        .height = 4,
+        .weight = 58,
+        .descriptionPage1 = DexDescription_Gothita_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Gothitelle
+        .categoryName = _("ASTRAL BODY"),
+        .height = 15,
+        .weight = 440,
+        .descriptionPage1 = DexDescription_Gothitelle_1,
+        .descriptionPage2 = DexDescription_Gothitelle_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Gothorita
+        .categoryName = _("MANIPULATE"),
+        .height = 7,
+        .weight = 180,
+        .descriptionPage1 = DexDescription_Gothorita_1,
+        .descriptionPage2 = DexDescription_Gothorita_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Gourgeist
+        .categoryName = _("PUMPKIN"),
+        .height = 9,
+        .weight = 125,
+        .descriptionPage1 = DexDescription_Gourgeist_1,
+        .descriptionPage2 = DexDescription_Gourgeist_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Greninja
+        .categoryName = _("NINJA"),
+        .height = 15,
+        .weight = 400,
+        .descriptionPage1 = DexDescription_Greninja_1,
+        .descriptionPage2 = DexDescription_Greninja_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Grotle
+        .categoryName = _("GROVE"),
+        .height = 11,
+        .weight = 970,
+        .descriptionPage1 = DexDescription_Grotle_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Grubbin
+        .categoryName = _("LARVA"),
+        .height = 4,
+        .weight = 44,
+        .descriptionPage1 = DexDescription_Grubbin_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Gumshoos
+        .categoryName = _("STAKEOUT"),
+        .height = 7,
+        .weight = 142,
+        .descriptionPage1 = DexDescription_Gumshoos_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Gurdurr
+        .categoryName = _("MUSCULAR"),
+        .height = 12,
+        .weight = 400,
+        .descriptionPage1 = DexDescription_Gurdurr_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Guzzlord
+        .categoryName = _("JUNKIVORE"),
+        .height = 55,
+        .weight = 8880,
+        .descriptionPage1 = DexDescription_Guzzlord_1,
+        .descriptionPage2 = DexDescription_Guzzlord_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Hakamo-O
+        .categoryName = _("SCALY"),
+        .height = 12,
+        .weight = 470,
+        .descriptionPage1 = DexDescription_HakamoO_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Happiny
+        .categoryName = _("PLAYHOUSE"),
+        .height = 6,
+        .weight = 244,
+        .descriptionPage1 = DexDescription_Happiny_1,
+        .descriptionPage2 = DexDescription_Happiny_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Hawlucha
+        .categoryName = _("WRESTLING"),
+        .height = 8,
+        .weight = 215,
+        .descriptionPage1 = DexDescription_Hawlucha_1,
+        .descriptionPage2 = DexDescription_Hawlucha_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Haxorus
+        .categoryName = _("AXE JAW"),
+        .height = 18,
+        .weight = 1055,
+        .descriptionPage1 = DexDescription_Haxorus_1,
+        .descriptionPage2 = DexDescription_Haxorus_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Heatmor
+        .categoryName = _("ANTEATER"),
+        .height = 14,
+        .weight = 580,
+        .descriptionPage1 = DexDescription_Heatmor_1,
+        .descriptionPage2 = DexDescription_Heatmor_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Heatran
+        .categoryName = _("LAVA DOME"),
+        .height = 17,
+        .weight = 4300,
+        .descriptionPage1 = DexDescription_Heatran_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Heliolisk
+        .categoryName = _("GENERATOR"),
+        .height = 10,
+        .weight = 210,
+        .descriptionPage1 = DexDescription_Heliolisk_1,
+        .descriptionPage2 = DexDescription_Heliolisk_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Helioptile
+        .categoryName = _("GENERATOR"),
+        .height = 5,
+        .weight = 60,
+        .descriptionPage1 = DexDescription_Helioptile_1,
+        .descriptionPage2 = DexDescription_Helioptile_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Herdier
+        .categoryName = _("LOYAL DOG"),
+        .height = 9,
+        .weight = 147,
+        .descriptionPage1 = DexDescription_Herdier_1,
+        .descriptionPage2 = DexDescription_Herdier_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Hippopotas
+        .categoryName = _("HIPPO"),
+        .height = 8,
+        .weight = 495,
+        .descriptionPage1 = DexDescription_Hippopotas_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Hippowdon
+        .categoryName = _("HEAVYWEIGHT"),
+        .height = 20,
+        .weight = 3000,
+        .descriptionPage1 = DexDescription_Hippowdon_1,
+        .descriptionPage2 = DexDescription_Hippowdon_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Honchkrow
+        .categoryName = _("BIG BOSS"),
+        .height = 8,
+        .weight = 20,
+        .descriptionPage1 = DexDescription_Honchkrow_1,
+        .descriptionPage2 = DexDescription_Honchkrow_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Honedge
+        .categoryName = _("SWORD"),
+        .height = 38,
+        .weight = 1990,
+        .descriptionPage1 = DexDescription_Honedge_1,
+        .descriptionPage2 = DexDescription_Honedge_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Hoopa
+        .categoryName = _("MISCHIEF"),
+        .height = 5,
+        .weight = 90,
+        .descriptionPage1 = DexDescription_Hoopa_1,
+        .descriptionPage2 = DexDescription_Hoopa_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Hydreigon
+        .categoryName = _("BRUTAL"),
+        .height = 18,
+        .weight = 1600,
+        .descriptionPage1 = DexDescription_Hydreigon_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Incineroar
+        .categoryName = _("HEEL"),
+        .height = 18,
+        .weight = 830,
+        .descriptionPage1 = DexDescription_Incineroar_1,
+        .descriptionPage2 = DexDescription_Incineroar_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Infernape
+        .categoryName = _("FLAME"),
+        .height = 12,
+        .weight = 550,
+        .descriptionPage1 = DexDescription_Infernape_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Inkay
+        .categoryName = _("REVOLVING"),
+        .height = 4,
+        .weight = 35,
+        .descriptionPage1 = DexDescription_Inkay_1,
+        .descriptionPage2 = DexDescription_Inkay_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Jangmo-O
+        .categoryName = _("SCALY"),
+        .height = 6,
+        .weight = 297,
+        .descriptionPage1 = DexDescription_JangmoO_1,
+        .descriptionPage2 = DexDescription_JangmoO_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Jellicent
+        .categoryName = _("FLOATING"),
+        .height = 22,
+        .weight = 1350,
+        .descriptionPage1 = DexDescription_Jellicent_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Joltik
+        .categoryName = _("ATTACHING"),
+        .height = 1,
+        .weight = 6,
+        .descriptionPage1 = DexDescription_Joltik_1,
+        .descriptionPage2 = DexDescription_Joltik_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Karrablast
+        .categoryName = _("CLAMPING"),
+        .height = 5,
+        .weight = 59,
+        .descriptionPage1 = DexDescription_Karrablast_1,
+        .descriptionPage2 = DexDescription_Karrablast_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Kartana
+        .categoryName = _("DRAWN SWORD"),
+        .height = 3,
+        .weight = 1,
+        .descriptionPage1 = DexDescription_Kartana_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Keldeo
+        .categoryName = _("COLT"),
+        .height = 14,
+        .weight = 485,
+        .descriptionPage1 = DexDescription_Keldeo_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Klang
+        .categoryName = _("GEAR"),
+        .height = 6,
+        .weight = 510,
+        .descriptionPage1 = DexDescription_Klang_1,
+        .descriptionPage2 = DexDescription_Klang_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Klefki
+        .categoryName = _("KEY RING"),
+        .height = 2,
+        .weight = 30,
+        .descriptionPage1 = DexDescription_Klefki_1,
+        .descriptionPage2 = DexDescription_Klefki_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Klink
+        .categoryName = _("GEAR"),
+        .height = 3,
+        .weight = 210,
+        .descriptionPage1 = DexDescription_Klink_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Klinklang
+        .categoryName = _("GEAR"),
+        .height = 6,
+        .weight = 810,
+        .descriptionPage1 = DexDescription_Klinklang_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Komala
+        .categoryName = _("DROWSING"),
+        .height = 4,
+        .weight = 199,
+        .descriptionPage1 = DexDescription_Komala_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Kommo-O
+        .categoryName = _("SCALY"),
+        .height = 16,
+        .weight = 782,
+        .descriptionPage1 = DexDescription_KommoO_1,
+        .descriptionPage2 = DexDescription_KommoO_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Kricketot
+        .categoryName = _("CRICKET"),
+        .height = 3,
+        .weight = 22,
+        .descriptionPage1 = DexDescription_Kricketot_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Kricketune
+        .categoryName = _("CRICKET"),
+        .height = 10,
+        .weight = 255,
+        .descriptionPage1 = DexDescription_Kricketune_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Krokorok
+        .categoryName = _("DESERT CROC"),
+        .height = 10,
+        .weight = 334,
+        .descriptionPage1 = DexDescription_Krokorok_1,
+        .descriptionPage2 = DexDescription_Krokorok_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Krookodile
+        .categoryName = _("INTIMIDATION"),
+        .height = 15,
+        .weight = 963,
+        .descriptionPage1 = DexDescription_Krookodile_1,
+        .descriptionPage2 = DexDescription_Krookodile_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Kyurem
+        .categoryName = _("BOUNDARY"),
+        .height = 30,
+        .weight = 3250,
+        .descriptionPage1 = DexDescription_Kyurem_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Lampent
+        .categoryName = _("LAMP"),
+        .height = 6,
+        .weight = 130,
+        .descriptionPage1 = DexDescription_Lampent_1,
+        .descriptionPage2 = DexDescription_Lampent_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Landorus
+        .categoryName = _("ABUNDANCE"),
+        .height = 15,
+        .weight = 68,
+        .descriptionPage1 = DexDescription_Landorus_1,
+        .descriptionPage2 = DexDescription_Landorus_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Larvesta
+        .categoryName = _("TORCH"),
+        .height = 11,
+        .weight = 288,
+        .descriptionPage1 = DexDescription_Larvesta_1,
+        .descriptionPage2 = DexDescription_Larvesta_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Leafeon
+        .categoryName = _("VERDANT"),
+        .height = 10,
+        .weight = 255,
+        .descriptionPage1 = DexDescription_Leafeon_1,
+        .descriptionPage2 = DexDescription_Leafeon_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Leavanny
+        .categoryName = _("NURTURING"),
+        .height = 12,
+        .weight = 205,
+        .descriptionPage1 = DexDescription_Leavanny_1,
+        .descriptionPage2 = DexDescription_Leavanny_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Lickilicky
+        .categoryName = _("LICKING"),
+        .height = 17,
+        .weight = 1400,
+        .descriptionPage1 = DexDescription_Lickilicky_1,
+        .descriptionPage2 = DexDescription_Lickilicky_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Liepard
+        .categoryName = _("CRUEL"),
+        .height = 11,
+        .weight = 375,
+        .descriptionPage1 = DexDescription_Liepard_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Lilligant
+        .categoryName = _("FLOWERING"),
+        .height = 11,
+        .weight = 163,
+        .descriptionPage1 = DexDescription_Lilligant_1,
+        .descriptionPage2 = DexDescription_Lilligant_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Lillipup
+        .categoryName = _("PUPPY"),
+        .height = 4,
+        .weight = 41,
+        .descriptionPage1 = DexDescription_Lillipup_1,
+        .descriptionPage2 = DexDescription_Lillipup_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Litleo
+        .categoryName = _("LION CUB"),
+        .height = 6,
+        .weight = 135,
+        .descriptionPage1 = DexDescription_Litleo_1,
+        .descriptionPage2 = DexDescription_Litleo_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Litten
+        .categoryName = _("FIRE CAT"),
+        .height = 4,
+        .weight = 43,
+        .descriptionPage1 = DexDescription_Litten_1,
+        .descriptionPage2 = DexDescription_Litten_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Litwick
+        .categoryName = _("CANDLE"),
+        .height = 3,
+        .weight = 31,
+        .descriptionPage1 = DexDescription_Litwick_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Lopunny
+        .categoryName = _("RABBIT"),
+        .height = 12,
+        .weight = 333,
+        .descriptionPage1 = DexDescription_Lopunny_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Lucario
+        .categoryName = _("AURA"),
+        .height = 12,
+        .weight = 540,
+        .descriptionPage1 = DexDescription_Lucario_1,
+        .descriptionPage2 = DexDescription_Lucario_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Lumineon
+        .categoryName = _("NEON"),
+        .height = 12,
+        .weight = 240,
+        .descriptionPage1 = DexDescription_Lumineon_1,
+        .descriptionPage2 = DexDescription_Lumineon_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Lunala
+        .categoryName = _("MOONE"),
+        .height = 40,
+        .weight = 1200,
+        .descriptionPage1 = DexDescription_Lunala_1,
+        .descriptionPage2 = DexDescription_Lunala_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Lurantis
+        .categoryName = _("BLOOM SICKLE"),
+        .height = 9,
+        .weight = 185,
+        .descriptionPage1 = DexDescription_Lurantis_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Luxio
+        .categoryName = _("SPARK"),
+        .height = 9,
+        .weight = 305,
+        .descriptionPage1 = DexDescription_Luxio_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Luxray
+        .categoryName = _("GLEAM EYES"),
+        .height = 14,
+        .weight = 420,
+        .descriptionPage1 = DexDescription_Luxray_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Lycanroc
+        .categoryName = _("WOLF"),
+        .height = 8,
+        .weight = 250,
+        .descriptionPage1 = DexDescription_Lycanroc_1,
+        .descriptionPage2 = DexDescription_Lycanroc_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Magearna
+        .categoryName = _("ARTIFICIAL"),
+        .height = 10,
+        .weight = 805,
+        .descriptionPage1 = DexDescription_Magearna_1,
+        .descriptionPage2 = DexDescription_Magearna_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Magmortar
+        .categoryName = _("BLAST"),
+        .height = 16,
+        .weight = 680,
+        .descriptionPage1 = DexDescription_Magmortar_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Magnezone
+        .categoryName = _("MAGNET AREA"),
+        .height = 12,
+        .weight = 1800,
+        .descriptionPage1 = DexDescription_Magnezone_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Malamar
+        .categoryName = _("OVERTURNING"),
+        .height = 15,
+        .weight = 470,
+        .descriptionPage1 = DexDescription_Malamar_1,
+        .descriptionPage2 = DexDescription_Malamar_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Mamoswine
+        .categoryName = _("TWIN TUSK"),
+        .height = 25,
+        .weight = 2910,
+        .descriptionPage1 = DexDescription_Mamoswine_1,
+        .descriptionPage2 = DexDescription_Mamoswine_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Manaphy
+        .categoryName = _("SEAFARING"),
+        .height = 3,
+        .weight = 14,
+        .descriptionPage1 = DexDescription_Manaphy_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Mandibuzz
+        .categoryName = _("BONE VULTURE"),
+        .height = 12,
+        .weight = 395,
+        .descriptionPage1 = DexDescription_Mandibuzz_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Mantyke
+        .categoryName = _("KITE"),
+        .height = 10,
+        .weight = 650,
+        .descriptionPage1 = DexDescription_Mantyke_1,
+        .descriptionPage2 = DexDescription_Mantyke_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Maractus
+        .categoryName = _("CACTUS"),
+        .height = 10,
+        .weight = 280,
+        .descriptionPage1 = DexDescription_Maractus_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Mareanie
+        .categoryName = _("BRUTAL STAR"),
+        .height = 4,
+        .weight = 80,
+        .descriptionPage1 = DexDescription_Mareanie_1,
+        .descriptionPage2 = DexDescription_Mareanie_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Marshadow
+        .categoryName = _("GLOOMDWELLER"),
+        .height = 7,
+        .weight = 222,
+        .descriptionPage1 = DexDescription_Marshadow_1,
+        .descriptionPage2 = DexDescription_Marshadow_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Melmetal
+        .categoryName = _("HEX NUT"),
+        .height = 25,
+        .weight = 8000,
+        .descriptionPage1 = DexDescription_Melmetal_1,
+        .descriptionPage2 = DexDescription_Melmetal_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Meloetta
+        .categoryName = _("MELODY"),
+        .height = 6,
+        .weight = 65,
+        .descriptionPage1 = DexDescription_Meloetta_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Meltan
+        .categoryName = _("HEX NUT"),
+        .height = 2,
+        .weight = 80,
+        .descriptionPage1 = DexDescription_Meltan_1,
+        .descriptionPage2 = DexDescription_Meltan_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Meowstic
+        .categoryName = _("CONSTRAINT"),
+        .height = 6,
+        .weight = 85,
+        .descriptionPage1 = DexDescription_Meowstic_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Mesprit
+        .categoryName = _("EMOTION"),
+        .height = 3,
+        .weight = 3,
+        .descriptionPage1 = DexDescription_Mesprit_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Mienfoo
+        .categoryName = _("MARTIAL ARTS"),
+        .height = 9,
+        .weight = 200,
+        .descriptionPage1 = DexDescription_Mienfoo_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Mienshao
+        .categoryName = _("MARTIAL ARTS"),
+        .height = 14,
+        .weight = 355,
+        .descriptionPage1 = DexDescription_Mienshao_1,
+        .descriptionPage2 = DexDescription_Mienshao_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Mime_Jr.
+        .categoryName = _("MIME"),
+        .height = 6,
+        .weight = 130,
+        .descriptionPage1 = DexDescription_MimeJr_1,
+        .descriptionPage2 = DexDescription_MimeJr_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Mimikyu
+        .categoryName = _("DISGUISE"),
+        .height = 2,
+        .weight = 7,
+        .descriptionPage1 = DexDescription_Mimikyu_1,
+        .descriptionPage2 = DexDescription_Mimikyu_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Minccino
+        .categoryName = _("CHINCHILLA"),
+        .height = 4,
+        .weight = 58,
+        .descriptionPage1 = DexDescription_Minccino_1,
+        .descriptionPage2 = DexDescription_Minccino_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Minior
+        .categoryName = _("METEOR"),
+        .height = 3,
+        .weight = 400,
+        .descriptionPage1 = DexDescription_Minior_1,
+        .descriptionPage2 = DexDescription_Minior_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Mismagius
+        .categoryName = _("MAGICAL"),
+        .height = 9,
+        .weight = 44,
+        .descriptionPage1 = DexDescription_Mismagius_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Monferno
+        .categoryName = _("PLAYFUL"),
+        .height = 9,
+        .weight = 220,
+        .descriptionPage1 = DexDescription_Monferno_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Morelull
+        .categoryName = _("ILLUMINATING"),
+        .height = 2,
+        .weight = 15,
+        .descriptionPage1 = DexDescription_Morelull_1,
+        .descriptionPage2 = DexDescription_Morelull_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Mothim
+        .categoryName = _("MOTH"),
+        .height = 9,
+        .weight = 233,
+        .descriptionPage1 = DexDescription_Mothim_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Mudbray
+        .categoryName = _("DONKEY"),
+        .height = 10,
+        .weight = 1100,
+        .descriptionPage1 = DexDescription_Mudbray_1,
+        .descriptionPage2 = DexDescription_Mudbray_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Mudsdale
+        .categoryName = _("DRAFT HORSE"),
+        .height = 25,
+        .weight = 9200,
+        .descriptionPage1 = DexDescription_Mudsdale_1,
+        .descriptionPage2 = DexDescription_Mudsdale_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Munchlax
+        .categoryName = _("BIG EATER"),
+        .height = 6,
+        .weight = 1050,
+        .descriptionPage1 = DexDescription_Munchlax_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Munna
+        .categoryName = _("DREAM EATER"),
+        .height = 6,
+        .weight = 233,
+        .descriptionPage1 = DexDescription_Munna_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Musharna
+        .categoryName = _("DROWSING"),
+        .height = 11,
+        .weight = 605,
+        .descriptionPage1 = DexDescription_Musharna_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Naganadel
+        .categoryName = _("POISON PIN"),
+        .height = 36,
+        .weight = 1500,
+        .descriptionPage1 = DexDescription_Naganadel_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Necrozma
+        .categoryName = _("PRISM"),
+        .height = 24,
+        .weight = 2300,
+        .descriptionPage1 = DexDescription_Necrozma_1,
+        .descriptionPage2 = DexDescription_Necrozma_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Nihilego
+        .categoryName = _("PARASITE"),
+        .height = 12,
+        .weight = 555,
+        .descriptionPage1 = DexDescription_Nihilego_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Noibat
+        .categoryName = _("SOUND WAVE"),
+        .height = 5,
+        .weight = 80,
+        .descriptionPage1 = DexDescription_Noibat_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Noivern
+        .categoryName = _("SOUND WAVE"),
+        .height = 15,
+        .weight = 850,
+        .descriptionPage1 = DexDescription_Noivern_1,
+        .descriptionPage2 = DexDescription_Noivern_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Oranguru
+        .categoryName = _("SAGE"),
+        .height = 15,
+        .weight = 760,
+        .descriptionPage1 = DexDescription_Oranguru_1,
+        .descriptionPage2 = DexDescription_Oranguru_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Oricorio
+        .categoryName = _("DANCING"),
+        .height = 6,
+        .weight = 34,
+        .descriptionPage1 = DexDescription_Oricorio_1,
+        .descriptionPage2 = DexDescription_Oricorio_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Oshawott
+        .categoryName = _("SEA OTTER"),
+        .height = 5,
+        .weight = 59,
+        .descriptionPage1 = DexDescription_Oshawott_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Pachirisu
+        .categoryName = _("ELESQUIRREL"),
+        .height = 4,
+        .weight = 39,
+        .descriptionPage1 = DexDescription_Pachirisu_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Palkia
+        .categoryName = _("SPATIAL"),
+        .height = 42,
+        .weight = 3360,
+        .descriptionPage1 = DexDescription_Palkia_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Palossand
+        .categoryName = _("SAND CASTLE"),
+        .height = 13,
+        .weight = 2500,
+        .descriptionPage1 = DexDescription_Palossand_1,
+        .descriptionPage2 = DexDescription_Palossand_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Palpitoad
+        .categoryName = _("VIBRATION"),
+        .height = 8,
+        .weight = 170,
+        .descriptionPage1 = DexDescription_Palpitoad_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Pancham
+        .categoryName = _("PLAYFUL"),
+        .height = 6,
+        .weight = 80,
+        .descriptionPage1 = DexDescription_Pancham_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Pangoro
+        .categoryName = _("DAUNTING"),
+        .height = 21,
+        .weight = 1360,
+        .descriptionPage1 = DexDescription_Pangoro_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Panpour
+        .categoryName = _("SPRAY"),
+        .height = 6,
+        .weight = 135,
+        .descriptionPage1 = DexDescription_Panpour_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Pansage
+        .categoryName = _("GRASS MONKEY"),
+        .height = 6,
+        .weight = 105,
+        .descriptionPage1 = DexDescription_Pansage_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Pansear
+        .categoryName = _("HIGH TEMP"),
+        .height = 6,
+        .weight = 110,
+        .descriptionPage1 = DexDescription_Pansear_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Passimian
+        .categoryName = _("TEAMWORK"),
+        .height = 20,
+        .weight = 828,
+        .descriptionPage1 = DexDescription_Passimian_1,
+        .descriptionPage2 = DexDescription_Passimian_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Patrat
+        .categoryName = _("SCOUT"),
+        .height = 5,
+        .weight = 116,
+        .descriptionPage1 = DexDescription_Patrat_1,
+        .descriptionPage2 = DexDescription_Patrat_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Pawniard
+        .categoryName = _("SHARP BLADE"),
+        .height = 5,
+        .weight = 102,
+        .descriptionPage1 = DexDescription_Pawniard_1,
+        .descriptionPage2 = DexDescription_Pawniard_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Petilil
+        .categoryName = _("BULB"),
+        .height = 5,
+        .weight = 66,
+        .descriptionPage1 = DexDescription_Petilil_1,
+        .descriptionPage2 = DexDescription_Petilil_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Phantump
+        .categoryName = _("STUMP"),
+        .height = 4,
+        .weight = 70,
+        .descriptionPage1 = DexDescription_Phantump_1,
+        .descriptionPage2 = DexDescription_Phantump_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Pheromosa
+        .categoryName = _("LISSOME"),
+        .height = 18,
+        .weight = 250,
+        .descriptionPage1 = DexDescription_Pheromosa_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Phione
+        .categoryName = _("SEA DRIFTER"),
+        .height = 4,
+        .weight = 31,
+        .descriptionPage1 = DexDescription_Phione_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Pidove
+        .categoryName = _("TINY PIGEON"),
+        .height = 3,
+        .weight = 21,
+        .descriptionPage1 = DexDescription_Pidove_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Pignite
+        .categoryName = _("FIRE PIG"),
+        .height = 10,
+        .weight = 555,
+        .descriptionPage1 = DexDescription_Pignite_1,
+        .descriptionPage2 = DexDescription_Pignite_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Pikipek
+        .categoryName = _("WOODPECKER"),
+        .height = 3,
+        .weight = 12,
+        .descriptionPage1 = DexDescription_Pikipek_1,
+        .descriptionPage2 = DexDescription_Pikipek_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Piplup
+        .categoryName = _("PENGUIN"),
+        .height = 4,
+        .weight = 52,
+        .descriptionPage1 = DexDescription_Piplup_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Poipole
+        .categoryName = _("POISON PIN"),
+        .height = 6,
+        .weight = 18,
+        .descriptionPage1 = DexDescription_Poipole_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Popplio
+        .categoryName = _("SEA LION"),
+        .height = 4,
+        .weight = 75,
+        .descriptionPage1 = DexDescription_Popplio_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Porygon-Z
+        .categoryName = _("VIRTUAL"),
+        .height = 6,
+        .weight = 325,
+        .descriptionPage1 = DexDescription_PorygonZ_1,
+        .descriptionPage2 = DexDescription_PorygonZ_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Primarina
+        .categoryName = _("SOLOIST"),
+        .height = 18,
+        .weight = 440,
+        .descriptionPage1 = DexDescription_Primarina_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Prinplup
+        .categoryName = _("PENGUIN"),
+        .height = 8,
+        .weight = 230,
+        .descriptionPage1 = DexDescription_Prinplup_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Probopass
+        .categoryName = _("COMPASS"),
+        .height = 14,
+        .weight = 3400,
+        .descriptionPage1 = DexDescription_Probopass_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Pumpkaboo
+        .categoryName = _("PUMPKIN"),
+        .height = 4,
+        .weight = 50,
+        .descriptionPage1 = DexDescription_Pumpkaboo_1,
+        .descriptionPage2 = DexDescription_Pumpkaboo_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Purrloin
+        .categoryName = _("DEVIOUS"),
+        .height = 4,
+        .weight = 101,
+        .descriptionPage1 = DexDescription_Purrloin_1,
+        .descriptionPage2 = DexDescription_Purrloin_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Purugly
+        .categoryName = _("TIGER CAT"),
+        .height = 10,
+        .weight = 438,
+        .descriptionPage1 = DexDescription_Purugly_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Pyroar
+        .categoryName = _("ROYAL"),
+        .height = 15,
+        .weight = 815,
+        .descriptionPage1 = DexDescription_Pyroar_1,
+        .descriptionPage2 = DexDescription_Pyroar_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Pyukumuku
+        .categoryName = _("SEA CUCUMBER"),
+        .height = 3,
+        .weight = 12,
+        .descriptionPage1 = DexDescription_Pyukumuku_1,
+        .descriptionPage2 = DexDescription_Pyukumuku_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Quilladin
+        .categoryName = _("SPINY ARMOR"),
+        .height = 7,
+        .weight = 290,
+        .descriptionPage1 = DexDescription_Quilladin_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Rampardos
+        .categoryName = _("HEAD BUTT"),
+        .height = 16,
+        .weight = 1025,
+        .descriptionPage1 = DexDescription_Rampardos_1,
+        .descriptionPage2 = DexDescription_Rampardos_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Regigigas
+        .categoryName = _("COLOSSAL"),
+        .height = 37,
+        .weight = 4200,
+        .descriptionPage1 = DexDescription_Regigigas_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Reshiram
+        .categoryName = _("VAST WHITE"),
+        .height = 32,
+        .weight = 3300,
+        .descriptionPage1 = DexDescription_Reshiram_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Reuniclus
+        .categoryName = _("MULTIPLYING"),
+        .height = 10,
+        .weight = 201,
+        .descriptionPage1 = DexDescription_Reuniclus_1,
+        .descriptionPage2 = DexDescription_Reuniclus_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Rhyperior
+        .categoryName = _("DRILL"),
+        .height = 24,
+        .weight = 2828,
+        .descriptionPage1 = DexDescription_Rhyperior_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Ribombee
+        .categoryName = _("BEE FLY"),
+        .height = 2,
+        .weight = 5,
+        .descriptionPage1 = DexDescription_Ribombee_1,
+        .descriptionPage2 = DexDescription_Ribombee_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Riolu
+        .categoryName = _("EMANATION"),
+        .height = 7,
+        .weight = 202,
+        .descriptionPage1 = DexDescription_Riolu_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Rockruff
+        .categoryName = _("PUPPY"),
+        .height = 5,
+        .weight = 92,
+        .descriptionPage1 = DexDescription_Rockruff_1,
+        .descriptionPage2 = DexDescription_Rockruff_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Roggenrola
+        .categoryName = _("MANTLE"),
+        .height = 4,
+        .weight = 180,
+        .descriptionPage1 = DexDescription_Roggenrola_1,
+        .descriptionPage2 = DexDescription_Roggenrola_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Roserade
+        .categoryName = _("BOUQUET"),
+        .height = 9,
+        .weight = 145,
+        .descriptionPage1 = DexDescription_Roserade_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Rotom
+        .categoryName = _("PLASMA"),
+        .height = 3,
+        .weight = 3,
+        .descriptionPage1 = DexDescription_Rotom_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Rowlet
+        .categoryName = _("GRASS QUILL"),
+        .height = 3,
+        .weight = 15,
+        .descriptionPage1 = DexDescription_Rowlet_1,
+        .descriptionPage2 = DexDescription_Rowlet_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Rufflet
+        .categoryName = _("EAGLET"),
+        .height = 5,
+        .weight = 105,
+        .descriptionPage1 = DexDescription_Rufflet_1,
+        .descriptionPage2 = DexDescription_Rufflet_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Salandit
+        .categoryName = _("TOXIC LIZARD"),
+        .height = 6,
+        .weight = 48,
+        .descriptionPage1 = DexDescription_Salandit_1,
+        .descriptionPage2 = DexDescription_Salandit_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Salazzle
+        .categoryName = _("TOXIC LIZARD"),
+        .height = 12,
+        .weight = 222,
+        .descriptionPage1 = DexDescription_Salazzle_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Samurott
+        .categoryName = _("FORMIDABLE"),
+        .height = 15,
+        .weight = 946,
+        .descriptionPage1 = DexDescription_Samurott_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Sandile
+        .categoryName = _("DESERT CROC"),
+        .height = 7,
+        .weight = 152,
+        .descriptionPage1 = DexDescription_Sandile_1,
+        .descriptionPage2 = DexDescription_Sandile_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Sandygast
+        .categoryName = _("SAND HEAP"),
+        .height = 5,
+        .weight = 700,
+        .descriptionPage1 = DexDescription_Sandygast_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Sawk
+        .categoryName = _("KARATE"),
+        .height = 14,
+        .weight = 510,
+        .descriptionPage1 = DexDescription_Sawk_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Sawsbuck
+        .categoryName = _("SEASON"),
+        .height = 19,
+        .weight = 925,
+        .descriptionPage1 = DexDescription_Sawsbuck_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Scatterbug
+        .categoryName = _("SCATTERDUST"),
+        .height = 3,
+        .weight = 25,
+        .descriptionPage1 = DexDescription_Scatterbug_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Scolipede
+        .categoryName = _("MEGAPEDE"),
+        .height = 25,
+        .weight = 2005,
+        .descriptionPage1 = DexDescription_Scolipede_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Scrafty
+        .categoryName = _("HOODLUM"),
+        .height = 11,
+        .weight = 300,
+        .descriptionPage1 = DexDescription_Scrafty_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Scraggy
+        .categoryName = _("SHEDDING"),
+        .height = 6,
+        .weight = 118,
+        .descriptionPage1 = DexDescription_Scraggy_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Seismitoad
+        .categoryName = _("VIBRATION"),
+        .height = 15,
+        .weight = 620,
+        .descriptionPage1 = DexDescription_Seismitoad_1,
+        .descriptionPage2 = DexDescription_Seismitoad_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Serperior
+        .categoryName = _("REGAL"),
+        .height = 33,
+        .weight = 630,
+        .descriptionPage1 = DexDescription_Serperior_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Servine
+        .categoryName = _("GRASS SNAKE"),
+        .height = 8,
+        .weight = 160,
+        .descriptionPage1 = DexDescription_Servine_1,
+        .descriptionPage2 = DexDescription_Servine_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Sewaddle
+        .categoryName = _("SEWING"),
+        .height = 3,
+        .weight = 25,
+        .descriptionPage1 = DexDescription_Sewaddle_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Shaymin
+        .categoryName = _("GRATITUDE"),
+        .height = 2,
+        .weight = 21,
+        .descriptionPage1 = DexDescription_Shaymin_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Shellos
+        .categoryName = _("SEA SLUG"),
+        .height = 3,
+        .weight = 63,
+        .descriptionPage1 = DexDescription_Shellos_1,
+        .descriptionPage2 = DexDescription_Shellos_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Shelmet
+        .categoryName = _("SNAIL"),
+        .height = 4,
+        .weight = 77,
+        .descriptionPage1 = DexDescription_Shelmet_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Shieldon
+        .categoryName = _("SHIELD"),
+        .height = 5,
+        .weight = 570,
+        .descriptionPage1 = DexDescription_Shieldon_1,
+        .descriptionPage2 = DexDescription_Shieldon_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Shiinotic
+        .categoryName = _("ILLUMINATING"),
+        .height = 10,
+        .weight = 115,
+        .descriptionPage1 = DexDescription_Shiinotic_1,
+        .descriptionPage2 = DexDescription_Shiinotic_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Shinx
+        .categoryName = _("FLASH"),
+        .height = 5,
+        .weight = 95,
+        .descriptionPage1 = DexDescription_Shinx_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Sigilyph
+        .categoryName = _("AVIANOID"),
+        .height = 14,
+        .weight = 140,
+        .descriptionPage1 = DexDescription_Sigilyph_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Silvally
+        .categoryName = _("SYNTHETIC"),
+        .height = 23,
+        .weight = 1005,
+        .descriptionPage1 = DexDescription_Silvally_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Simipour
+        .categoryName = _("GEYSER"),
+        .height = 10,
+        .weight = 290,
+        .descriptionPage1 = DexDescription_Simipour_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Simisage
+        .categoryName = _("THORN MONKEY"),
+        .height = 11,
+        .weight = 305,
+        .descriptionPage1 = DexDescription_Simisage_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Simisear
+        .categoryName = _("EMBER"),
+        .height = 10,
+        .weight = 280,
+        .descriptionPage1 = DexDescription_Simisear_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Skiddo
+        .categoryName = _("MOUNT"),
+        .height = 9,
+        .weight = 310,
+        .descriptionPage1 = DexDescription_Skiddo_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Skorupi
+        .categoryName = _("SCORPION"),
+        .height = 8,
+        .weight = 120,
+        .descriptionPage1 = DexDescription_Skorupi_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Skrelp
+        .categoryName = _("MOCK KELP"),
+        .height = 5,
+        .weight = 73,
+        .descriptionPage1 = DexDescription_Skrelp_1,
+        .descriptionPage2 = DexDescription_Skrelp_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Skuntank
+        .categoryName = _("SKUNK"),
+        .height = 10,
+        .weight = 380,
+        .descriptionPage1 = DexDescription_Skuntank_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Sliggoo
+        .categoryName = _("SOFT TISSUE"),
+        .height = 8,
+        .weight = 175,
+        .descriptionPage1 = DexDescription_Sliggoo_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Slurpuff
+        .categoryName = _("MERINGUE"),
+        .height = 8,
+        .weight = 50,
+        .descriptionPage1 = DexDescription_Slurpuff_1,
+        .descriptionPage2 = DexDescription_Slurpuff_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Snivy
+        .categoryName = _("GRASS SNAKE"),
+        .height = 6,
+        .weight = 81,
+        .descriptionPage1 = DexDescription_Snivy_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Snover
+        .categoryName = _("FROST TREE"),
+        .height = 10,
+        .weight = 505,
+        .descriptionPage1 = DexDescription_Snover_1,
+        .descriptionPage2 = DexDescription_Snover_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Solgaleo
+        .categoryName = _("SUNNE"),
+        .height = 34,
+        .weight = 2300,
+        .descriptionPage1 = DexDescription_Solgaleo_1,
+        .descriptionPage2 = DexDescription_Solgaleo_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Solosis
+        .categoryName = _("CELL"),
+        .height = 3,
+        .weight = 10,
+        .descriptionPage1 = DexDescription_Solosis_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Spewpa
+        .categoryName = _("SCATTERDUST"),
+        .height = 3,
+        .weight = 84,
+        .descriptionPage1 = DexDescription_Spewpa_1,
+        .descriptionPage2 = DexDescription_Spewpa_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Spiritomb
+        .categoryName = _("FORBIDDEN"),
+        .height = 10,
+        .weight = 1080,
+        .descriptionPage1 = DexDescription_Spiritomb_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Spritzee
+        .categoryName = _("PERFUME"),
+        .height = 2,
+        .weight = 5,
+        .descriptionPage1 = DexDescription_Spritzee_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Stakataka
+        .categoryName = _("RAMPART"),
+        .height = 55,
+        .weight = 8200,
+        .descriptionPage1 = DexDescription_Stakataka_1,
+        .descriptionPage2 = DexDescription_Stakataka_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Staraptor
+        .categoryName = _("PREDATOR"),
+        .height = 12,
+        .weight = 249,
+        .descriptionPage1 = DexDescription_Staraptor_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Staravia
+        .categoryName = _("STARLING"),
+        .height = 6,
+        .weight = 155,
+        .descriptionPage1 = DexDescription_Staravia_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Starly
+        .categoryName = _("STARLING"),
+        .height = 3,
+        .weight = 20,
+        .descriptionPage1 = DexDescription_Starly_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Steenee
+        .categoryName = _("FRUIT"),
+        .height = 7,
+        .weight = 82,
+        .descriptionPage1 = DexDescription_Steenee_1,
+        .descriptionPage2 = DexDescription_Steenee_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Stoutland
+        .categoryName = _("BIG-HEARTED"),
+        .height = 12,
+        .weight = 610,
+        .descriptionPage1 = DexDescription_Stoutland_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Stufful
+        .categoryName = _("FLAILING"),
+        .height = 5,
+        .weight = 68,
+        .descriptionPage1 = DexDescription_Stufful_1,
+        .descriptionPage2 = DexDescription_Stufful_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Stunfisk
+        .categoryName = _("TRAP"),
+        .height = 7,
+        .weight = 110,
+        .descriptionPage1 = DexDescription_Stunfisk_1,
+        .descriptionPage2 = DexDescription_Stunfisk_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Stunky
+        .categoryName = _("SKUNK"),
+        .height = 4,
+        .weight = 192,
+        .descriptionPage1 = DexDescription_Stunky_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Swadloon
+        .categoryName = _("LEAF-WRAPPED"),
+        .height = 5,
+        .weight = 73,
+        .descriptionPage1 = DexDescription_Swadloon_1,
+        .descriptionPage2 = DexDescription_Swadloon_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Swanna
+        .categoryName = _("WHITE BIRD"),
+        .height = 13,
+        .weight = 242,
+        .descriptionPage1 = DexDescription_Swanna_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Swirlix
+        .categoryName = _("COTTON CANDY"),
+        .height = 4,
+        .weight = 35,
+        .descriptionPage1 = DexDescription_Swirlix_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Swoobat
+        .categoryName = _("COURTING"),
+        .height = 9,
+        .weight = 105,
+        .descriptionPage1 = DexDescription_Swoobat_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Sylveon
+        .categoryName = _("INTERTWINING"),
+        .height = 10,
+        .weight = 235,
+        .descriptionPage1 = DexDescription_Sylveon_1,
+        .descriptionPage2 = DexDescription_Sylveon_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Talonflame
+        .categoryName = _("SCORCHING"),
+        .height = 12,
+        .weight = 245,
+        .descriptionPage1 = DexDescription_Talonflame_1,
+        .descriptionPage2 = DexDescription_Talonflame_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Tangrowth
+        .categoryName = _("VINE"),
+        .height = 20,
+        .weight = 1286,
+        .descriptionPage1 = DexDescription_Tangrowth_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Tapu_Bulu
+        .categoryName = _("LAND SPIRIT"),
+        .height = 19,
+        .weight = 455,
+        .descriptionPage1 = DexDescription_Tapu_Bulu_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Tapu_Fini
+        .categoryName = _("LAND SPIRIT"),
+        .height = 13,
+        .weight = 212,
+        .descriptionPage1 = DexDescription_Tapu_Fini_1,
+        .descriptionPage2 = DexDescription_Tapu_Fini_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Tapu_Koko
+        .categoryName = _("LAND SPIRIT"),
+        .height = 18,
+        .weight = 205,
+        .descriptionPage1 = DexDescription_Tapu_Koko_1,
+        .descriptionPage2 = DexDescription_Tapu_Koko_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Tapu_Lele
+        .categoryName = _("LAND SPIRIT"),
+        .height = 12,
+        .weight = 186,
+        .descriptionPage1 = DexDescription_Tapu_Lele_1,
+        .descriptionPage2 = DexDescription_Tapu_Lele_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Tepig
+        .categoryName = _("FIRE PIG"),
+        .height = 5,
+        .weight = 99,
+        .descriptionPage1 = DexDescription_Tepig_1,
+        .descriptionPage2 = DexDescription_Tepig_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Terrakion
+        .categoryName = _("CAVERN"),
+        .height = 19,
+        .weight = 2600,
+        .descriptionPage1 = DexDescription_Terrakion_1,
+        .descriptionPage2 = DexDescription_Terrakion_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Throh
+        .categoryName = _("JUDO"),
+        .height = 13,
+        .weight = 555,
+        .descriptionPage1 = DexDescription_Throh_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Thundurus
+        .categoryName = _("BOLT STRIKE"),
+        .height = 15,
+        .weight = 610,
+        .descriptionPage1 = DexDescription_Thundurus_1,
+        .descriptionPage2 = DexDescription_Thundurus_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Timburr
+        .categoryName = _("MUSCULAR"),
+        .height = 6,
+        .weight = 125,
+        .descriptionPage1 = DexDescription_Timburr_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Tirtouga
+        .categoryName = _("PROTOTURTLE"),
+        .height = 7,
+        .weight = 165,
+        .descriptionPage1 = DexDescription_Tirtouga_1,
+        .descriptionPage2 = DexDescription_Tirtouga_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Togedemaru
+        .categoryName = _("ROLY-POLY"),
+        .height = 3,
+        .weight = 33,
+        .descriptionPage1 = DexDescription_Togedemaru_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Togekiss
+        .categoryName = _("JUBILEE"),
+        .height = 15,
+        .weight = 380,
+        .descriptionPage1 = DexDescription_Togekiss_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Tornadus
+        .categoryName = _("CYCLONE"),
+        .height = 15,
+        .weight = 630,
+        .descriptionPage1 = DexDescription_Tornadus_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Torracat
+        .categoryName = _("FIRE CAT"),
+        .height = 7,
+        .weight = 250,
+        .descriptionPage1 = DexDescription_Torracat_1,
+        .descriptionPage2 = DexDescription_Torracat_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Torterra
+        .categoryName = _("CONTINENT"),
+        .height = 22,
+        .weight = 3100,
+        .descriptionPage1 = DexDescription_Torterra_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Toucannon
+        .categoryName = _("CANNON"),
+        .height = 11,
+        .weight = 260,
+        .descriptionPage1 = DexDescription_Toucannon_1,
+        .descriptionPage2 = DexDescription_Toucannon_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Toxapex
+        .categoryName = _("BRUTAL STAR"),
+        .height = 7,
+        .weight = 145,
+        .descriptionPage1 = DexDescription_Toxapex_1,
+        .descriptionPage2 = DexDescription_Toxapex_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Toxicroak
+        .categoryName = _("TOXIC MOUTH"),
+        .height = 13,
+        .weight = 444,
+        .descriptionPage1 = DexDescription_Toxicroak_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Tranquill
+        .categoryName = _("WILD PIGEON"),
+        .height = 6,
+        .weight = 150,
+        .descriptionPage1 = DexDescription_Tranquill_1,
+        .descriptionPage2 = DexDescription_Tranquill_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Trevenant
+        .categoryName = _("ELDER TREE"),
+        .height = 15,
+        .weight = 710,
+        .descriptionPage1 = DexDescription_Trevenant_1,
+        .descriptionPage2 = DexDescription_Trevenant_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Trubbish
+        .categoryName = _("TRASH BAG"),
+        .height = 6,
+        .weight = 310,
+        .descriptionPage1 = DexDescription_Trubbish_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Trumbeak
+        .categoryName = _("BUGLE BEAK"),
+        .height = 6,
+        .weight = 148,
+        .descriptionPage1 = DexDescription_Trumbeak_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Tsareena
+        .categoryName = _("FRUIT"),
+        .height = 12,
+        .weight = 214,
+        .descriptionPage1 = DexDescription_Tsareena_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Turtonator
+        .categoryName = _("BLAST TURTLE"),
+        .height = 20,
+        .weight = 2120,
+        .descriptionPage1 = DexDescription_Turtonator_1,
+        .descriptionPage2 = DexDescription_Turtonator_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Turtwig
+        .categoryName = _("TINY LEAF"),
+        .height = 4,
+        .weight = 102,
+        .descriptionPage1 = DexDescription_Turtwig_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Tympole
+        .categoryName = _("TADPOLE"),
+        .height = 5,
+        .weight = 45,
+        .descriptionPage1 = DexDescription_Tympole_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Tynamo
+        .categoryName = _("ELEFISH"),
+        .height = 2,
+        .weight = 3,
+        .descriptionPage1 = DexDescription_Tynamo_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Type:_Null
+        .categoryName = _("SYNTHETIC"),
+        .height = 19,
+        .weight = 1205,
+        .descriptionPage1 = DexDescription_TypeNull_1,
+        .descriptionPage2 = DexDescription_TypeNull_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Tyrantrum
+        .categoryName = _("DESPOT"),
+        .height = 25,
+        .weight = 2700,
+        .descriptionPage1 = DexDescription_Tyrantrum_1,
+        .descriptionPage2 = DexDescription_Tyrantrum_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Tyrunt
+        .categoryName = _("ROYAL HEIR"),
+        .height = 8,
+        .weight = 260,
+        .descriptionPage1 = DexDescription_Tyrunt_1,
+        .descriptionPage2 = DexDescription_Tyrunt_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Unfezant
+        .categoryName = _("PROUD"),
+        .height = 12,
+        .weight = 290,
+        .descriptionPage1 = DexDescription_Unfezant_1,
+        .descriptionPage2 = DexDescription_Unfezant_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Uxie
+        .categoryName = _("KNOWLEDGE"),
+        .height = 3,
+        .weight = 3,
+        .descriptionPage1 = DexDescription_Uxie_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Vanillish
+        .categoryName = _("ICY SNOW"),
+        .height = 11,
+        .weight = 410,
+        .descriptionPage1 = DexDescription_Vanillish_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Vanillite
+        .categoryName = _("FRESH SNOW"),
+        .height = 4,
+        .weight = 57,
+        .descriptionPage1 = DexDescription_Vanillite_1,
+        .descriptionPage2 = DexDescription_Vanillite_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Vanilluxe
+        .categoryName = _("SNOWSTORM"),
+        .height = 13,
+        .weight = 575,
+        .descriptionPage1 = DexDescription_Vanilluxe_1,
+        .descriptionPage2 = DexDescription_Vanilluxe_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Venipede
+        .categoryName = _("CENTIPEDE"),
+        .height = 4,
+        .weight = 53,
+        .descriptionPage1 = DexDescription_Venipede_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Vespiquen
+        .categoryName = _("BEEHIVE"),
+        .height = 12,
+        .weight = 385,
+        .descriptionPage1 = DexDescription_Vespiquen_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Victini
+        .categoryName = _("VICTORY"),
+        .height = 4,
+        .weight = 40,
+        .descriptionPage1 = DexDescription_Victini_1,
+        .descriptionPage2 = DexDescription_Victini_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Vikavolt
+        .categoryName = _("STAG BEETLE"),
+        .height = 15,
+        .weight = 450,
+        .descriptionPage1 = DexDescription_Vikavolt_1,
+        .descriptionPage2 = DexDescription_Vikavolt_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Virizion
+        .categoryName = _("GRASSLAND"),
+        .height = 20,
+        .weight = 2000,
+        .descriptionPage1 = DexDescription_Virizion_1,
+        .descriptionPage2 = DexDescription_Virizion_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Vivillon
+        .categoryName = _("SCALE"),
+        .height = 12,
+        .weight = 170,
+        .descriptionPage1 = DexDescription_Vivillon_1,
+        .descriptionPage2 = DexDescription_Vivillon_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Volcanion
+        .categoryName = _("STEAM"),
+        .height = 17,
+        .weight = 1950,
+        .descriptionPage1 = DexDescription_Volcanion_1,
+        .descriptionPage2 = DexDescription_Volcanion_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Volcarona
+        .categoryName = _("SUN"),
+        .height = 16,
+        .weight = 460,
+        .descriptionPage1 = DexDescription_Volcarona_1,
+        .descriptionPage2 = DexDescription_Volcarona_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Vullaby
+        .categoryName = _("DIAPERED"),
+        .height = 5,
+        .weight = 90,
+        .descriptionPage1 = DexDescription_Vullaby_1,
+        .descriptionPage2 = DexDescription_Vullaby_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Watchog
+        .categoryName = _("LOOKOUT"),
+        .height = 11,
+        .weight = 270,
+        .descriptionPage1 = DexDescription_Watchog_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Weavile
+        .categoryName = _("SHARP CLAW"),
+        .height = 11,
+        .weight = 340,
+        .descriptionPage1 = DexDescription_Weavile_1,
+        .descriptionPage2 = DexDescription_Weavile_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Whimsicott
+        .categoryName = _("WINDVEILED"),
+        .height = 7,
+        .weight = 66,
+        .descriptionPage1 = DexDescription_Whimsicott_1,
+        .descriptionPage2 = DexDescription_Whimsicott_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Whirlipede
+        .categoryName = _("CURLIPEDE"),
+        .height = 12,
+        .weight = 585,
+        .descriptionPage1 = DexDescription_Whirlipede_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Wimpod
+        .categoryName = _("TURN TAIL"),
+        .height = 5,
+        .weight = 120,
+        .descriptionPage1 = DexDescription_Wimpod_1,
+        .descriptionPage2 = DexDescription_Wimpod_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Wishiwashi
+        .categoryName = _("SMALL FRY"),
+        .height = 2,
+        .weight = 3,
+        .descriptionPage1 = DexDescription_Wishiwashi_1,
+        .descriptionPage2 = DexDescription_Wishiwashi_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Woobat
+        .categoryName = _("BAT"),
+        .height = 4,
+        .weight = 21,
+        .descriptionPage1 = DexDescription_Woobat_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Wormadam
+        .categoryName = _("BAGWORM"),
+        .height = 5,
+        .weight = 65,
+        .descriptionPage1 = DexDescription_Wormadam_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Xerneas
+        .categoryName = _("LIFE"),
+        .height = 30,
+        .weight = 2150,
+        .descriptionPage1 = DexDescription_Xerneas_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Xurkitree
+        .categoryName = _("GLOWING"),
+        .height = 38,
+        .weight = 1000,
+        .descriptionPage1 = DexDescription_Xurkitree_1,
+        .descriptionPage2 = DexDescription_Xurkitree_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Yamask
+        .categoryName = _("SPIRIT"),
+        .height = 5,
+        .weight = 15,
+        .descriptionPage1 = DexDescription_Yamask_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Yanmega
+        .categoryName = _("OGRE DARNER"),
+        .height = 19,
+        .weight = 515,
+        .descriptionPage1 = DexDescription_Yanmega_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Yungoos
+        .categoryName = _("LOITERING"),
+        .height = 4,
+        .weight = 60,
+        .descriptionPage1 = DexDescription_Yungoos_1,
+        .descriptionPage2 = DexDescription_Yungoos_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Yveltal
+        .categoryName = _("DESTRUCTION"),
+        .height = 58,
+        .weight = 2030,
+        .descriptionPage1 = DexDescription_Yveltal_1,
+        .descriptionPage2 = DexDescription_Yveltal_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Zebstrika
+        .categoryName = _("THUNDERBOLT"),
+        .height = 16,
+        .weight = 795,
+        .descriptionPage1 = DexDescription_Zebstrika_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Zekrom
+        .categoryName = _("DEEP BLACK"),
+        .height = 29,
+        .weight = 3450,
+        .descriptionPage1 = DexDescription_Zekrom_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Zeraora
+        .categoryName = _("THUNDERCLAP"),
+        .height = 15,
+        .weight = 445,
+        .descriptionPage1 = DexDescription_Zeraora_1,
+        .descriptionPage2 = DexDescription_Zeraora_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Zoroark
+        .categoryName = _("ILLUSION FOX"),
+        .height = 16,
+        .weight = 811,
+        .descriptionPage1 = DexDescription_Zoroark_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Zorua
+        .categoryName = _("TRICKY FOX"),
+        .height = 7,
+        .weight = 125,
+        .descriptionPage1 = DexDescription_Zorua_1,
+        .descriptionPage2 = DexDescription_Zorua_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Zweilous
+        .categoryName = _("HOSTILE"),
+        .height = 14,
+        .weight = 500,
+        .descriptionPage1 = DexDescription_Zweilous_1,
+        .descriptionPage2 = 0,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+    {  //Zygarde
+        .categoryName = _("ORDER"),
+        .height = 50,
+        .weight = 3050,
+        .descriptionPage1 = DexDescription_Zygarde_1,
+        .descriptionPage2 = DexDescription_Zygarde_2,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+
 };

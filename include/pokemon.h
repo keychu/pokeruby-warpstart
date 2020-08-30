@@ -410,7 +410,7 @@ struct BaseStats
     /*0x06*/ u8 type1;
     /*0x07*/ u8 type2;
     /*0x08*/ u8 catchRate;
-    /*0x09*/ u8 expYield;
+    /*0x09*/ u16 expYield; //noooot sure on the consequnces of changing this to 16-bit
     /*0x0A*/ u16 evYield_HP:2;
     /*0x0A*/ u16 evYield_Attack:2;
     /*0x0A*/ u16 evYield_Defense:2;
@@ -522,6 +522,8 @@ enum {
 #define EVO_LEVEL_RAIN       0x001A // Pokémon reaches the specified level while it's raining
 #define EVO_MOVE_TYPE        0x001B // Pokémon levels up, knows move with specified type
 #define EVO_RARE_CANDY       0x001C // Pokémon levels up via a Rare Candy
+#define EVO_LEVEL_DAY        0x001D
+#define EVO_LEVEL_NIGHT      0x001E
 
 struct Evolution
 {
@@ -532,7 +534,7 @@ struct Evolution
 
 struct EvolutionData
 {
-    struct Evolution evolutions[5];
+    struct Evolution evolutions[8]; //Increased to 8 for new Eevee evolutions
 };
 
 extern u8 gPlayerPartyCount;
@@ -543,7 +545,7 @@ extern const u8 *const gItemEffectTable[];
 extern const struct BaseStats gBaseStats[];
 extern const u32 gExperienceTables[][101];
 extern const u16 *gLevelUpLearnsets[];
-extern struct Evolution gEvolutionTable[][5];
+extern struct Evolution gEvolutionTable[][8]; //Increased to 8 for new Eevee evolutions
 extern struct PokemonStorage gPokemonStorage;
 
 void ZeroBoxMonData(struct BoxPokemon *boxMon);
