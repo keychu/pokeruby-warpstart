@@ -14,6 +14,7 @@
 #include "siirtc.h"
 #include "sound.h"
 #include "scanline_effect.h"
+#include "mgba.h"
 
 extern struct SoundInfo gSoundInfo;
 extern u32 IntrMain[];
@@ -99,6 +100,7 @@ void AgbMain()
     InitMainCallbacks();
     InitMapMusic();
     SeedRngWithRtc();
+    mgba_open(); //TEMP
 
     gSoftResetDisabled = FALSE;
 

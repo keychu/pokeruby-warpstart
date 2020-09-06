@@ -25,6 +25,7 @@
 #include "trig.h"
 #include "scanline_effect.h"
 #include "ewram.h"
+#include "mgba.h" //TEMP
 
 
 struct PokedexListItem
@@ -4282,7 +4283,7 @@ static void sub_8090750(u8 taskId)
     }
 }
 
-static void sub_8090A3C(u8 taskId)
+static void sub_8090A3C(u8 taskId) //display Pokedex entry after catching Pokemon
 {
     if (gMain.newKeys & B_BUTTON)
     {
@@ -4293,7 +4294,8 @@ static void sub_8090A3C(u8 taskId)
     }
     else if (gMain.newKeys & A_BUTTON)
     {
-        if (gTasks[taskId].data[4] == 0)
+        mgba_printf(MGBA_LOG_DEBUG, "%d", gPokedexEntries[gTasks[taskId].data[1]].descriptionPage2);
+        if (gTasks[taskId].data[4] == 0 && gPokedexEntries[gTasks[taskId].data[1]].descriptionPage2 != 0) //don't display the second page if it doesn't exist
         {
             u16 r4 = gTasks[taskId].data[1];
 
@@ -4355,9 +4357,10 @@ static void sub_8090C28(struct Sprite *sprite)
         sprite->pos1.y -= 1;
 }
 
-static void sub_8090C68(void)
+static void sub_8090C68(void) //display Pokedex entry from selecting mon in Pokedex
 {
-    if (gUnknown_0202FFBC->owned)
+    mgba_printf(MGBA_LOG_DEBUG, "%d", gPokedexEntries[gUnknown_0202FFBC->dexNum].descriptionPage2);
+    if (gUnknown_0202FFBC->owned && gPokedexEntries[gUnknown_0202FFBC->dexNum].descriptionPage2 != 0) //don't let the player click on the page to flip it if page #2 doesn't exist
     {
         if (gPokedexView->descriptionPageNum == 0)
         {

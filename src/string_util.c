@@ -2,6 +2,7 @@
 #include "string_util.h"
 #include "strings.h"
 #include "text.h"
+//#include "malloc.h"
 
 u8 gUnknownStringVar[16];
 
@@ -559,3 +560,34 @@ u8 *StringFillWithTerminator(u8 *dest, u16 n)
 {
     return StringFill(dest, EOS, n);
 }
+
+/*char *ConvertToAscii(const u8 *str)
+{
+    s32 i;
+    //char textBuffer[128];
+    char * textBuffer = malloc(128);
+
+    for (i = 0; *str != EOS; i++, str++)
+    {
+        char modifiedCode = '?';
+		if(*str >= CHAR_a && *str <= CHAR_z)
+        {
+            modifiedCode = *str-(CHAR_A-'a'); // lower-case characters
+        }
+        else if(*str >= CHAR_A && *str <= CHAR_Z)
+        {
+            modifiedCode = *str-(CHAR_A-'A'); // upper-case characters
+        }
+        else if (*str >= CHAR_0 && *str <= 0xAA)
+        {
+            modifiedCode = *str-(CHAR_0-'0'); // numbers
+        }
+        else if (*str == CHAR_SPACE)
+        {
+            modifiedCode = ' '; // space
+        }
+        textBuffer[i] = modifiedCode;
+    }
+    textBuffer[i] = 0;
+    return textBuffer;
+}*/

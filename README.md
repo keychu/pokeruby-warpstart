@@ -40,5 +40,14 @@ This project was made by modifiying the Pokeruby disassembly project, which you 
 
 Implementation of instant text - as well as a general blueprint for how to add lots of new Pokemon into Ruby - from [LOuroboros' pokeruby493 project](https://github.com/LOuroboros/pokeruby493).
 
+Source for gen 4 and 5 sprites: https://www.pokecommunity.com/showthread.php?t=267728
+
+Source for gen 4 and 5 icons: https://www.pokecommunity.com/showthread.php?t=336945
+
+Source for gen 6 icons and sprites: https://www.pokecommunity.com/showthread.php?t=314422
+
+Source for gen 7 icons and sprites: https://www.pokecommunity.com/showthread.php?t=368703 
+
+
 **KNOWN ISSUES:**
 - Obtaining Strength by smashing a rock in Rusturf Cave before completing the Peeko mission will play the cutscene with Wanda and her boyfriend, but they will be invisible. Everything else occurs as normal.

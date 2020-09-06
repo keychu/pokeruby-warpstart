@@ -22,6 +22,7 @@
 #include "text.h"
 #include "util.h"
 #include "ewram.h"
+#include "mgba.h" //TEMP
 
 struct MovePpInfo
 {
@@ -1328,6 +1329,9 @@ void sub_802D924(u8 taskId)
     u32 pkmnIndex = (u8)gTasks[taskId].data[0];
     u8 bank = gTasks[taskId].data[2];
     s16 gainedExp = gTasks[taskId].data[1];
+    //TEMP
+    char temp[] = "sub_802D924 called";
+    mgba_printf(MGBA_LOG_DEBUG, "%s", temp); //TEMP
 
     if (IsDoubleBattle() == TRUE || pkmnIndex != gBattlerPartyIndexes[bank])
     {
@@ -1380,17 +1384,25 @@ void sub_802DA9C(u8 taskId)
     u32 exp = GetMonData(pkmn, MON_DATA_EXP);
     u32 currLvlExp = gExperienceTables[gBaseStats[species].growthRate][level];
     u32 expToNextLvl;
+    //TEMP
+    char temp[] = "sub_802DA9C called. expToNextLvl below";
+    mgba_printf(MGBA_LOG_DEBUG, "%s", temp); //TEMP
 
     exp -= currLvlExp;
     expToNextLvl = gExperienceTables[gBaseStats[species].growthRate][level + 1] - currLvlExp;
+    mgba_printf(MGBA_LOG_DEBUG, "%d", expToNextLvl); //TEMP
     sub_8043D84(bank, gHealthboxIDs[bank], expToNextLvl, exp, -r9);
     PlaySE(SE_EXP);
     gTasks[taskId].func = sub_802DB6C;
 }
 
-#ifdef NONMATCHING
-void sub_802DB6C(u8 taskId)
+//#ifdef NONMATCHING //TEMP - this is the function
+//uhhhhhhhhhhh this one works but the assembly doesn't ???????
+/*void sub_802DB6C(u8 taskId)
 {
+    //TEMP
+    char temp[] = "sub_802DB6C called. sp4 / r10 / sp0 below";
+
     if (gTasks[taskId].data[10] < 13)
     {
         gTasks[taskId].data[10]++;
@@ -1418,6 +1430,12 @@ void sub_802DB6C(u8 taskId)
             sp4 = GetMonData(pkmn, MON_DATA_EXP);
             r0 = GetMonData(pkmn, MON_DATA_SPECIES);
             sp0 = gExperienceTables[gBaseStats[r0].growthRate][r4 + 1];
+
+            mgba_printf(MGBA_LOG_DEBUG, "%s", temp); //TEMP
+            mgba_printf(MGBA_LOG_DEBUG, "%d", sp4); //TEMP
+            mgba_printf(MGBA_LOG_DEBUG, "%d", r10); //TEMP
+            mgba_printf(MGBA_LOG_DEBUG, "%d", sp0); //TEMP
+
             if (sp4 + r10 >= sp0)
             {
                 u8 r5;
@@ -1445,8 +1463,68 @@ void sub_802DB6C(u8 taskId)
             }
         }
     }
+}*/
+
+// MATCHING FUNCTION FROM LATER COMMIT IN POKERUBY
+void sub_802DB6C(u8 taskId)
+{
+    if (gTasks[taskId].data[10] < 13)
+    {
+        gTasks[taskId].data[10]++;
+    }
+    else
+    {
+        u8 monId = gTasks[taskId].data[0];
+        s16 gainedExp = gTasks[taskId].data[1];
+        u8 battlerId = gTasks[taskId].data[2];
+        s16 newExpPoints;
+
+        //newExpPoints = sub_8045C78(battlerId, gHealthboxSpriteIds[battlerId], 1, 0);
+        //sub_8043DFC(gHealthboxSpriteIds[battlerId]);
+
+        newExpPoints = sub_8045C78(battlerId, gHealthboxIDs[battlerId], 1, 0);
+        sub_8043DFC(gHealthboxIDs[battlerId]);
+        if (newExpPoints == -1)
+        {
+            u8 level;
+            s32 currExp;
+            u16 species;
+            s32 expOnNextLvl;
+
+            m4aSongNumStop(SE_EXP);
+            level = GetMonData(&gPlayerParty[monId], MON_DATA_LEVEL);
+            currExp = GetMonData(&gPlayerParty[monId], MON_DATA_EXP);
+            species = GetMonData(&gPlayerParty[monId], MON_DATA_SPECIES);
+            expOnNextLvl = gExperienceTables[gBaseStats[species].growthRate][level + 1];
+
+            if (currExp + gainedExp >= expOnNextLvl)
+            {
+                u8 savedActiveBattler;
+
+                SetMonData(&gPlayerParty[monId], MON_DATA_EXP, &expOnNextLvl);
+                CalculateMonStats(&gPlayerParty[monId]);
+                gainedExp -= expOnNextLvl - currExp;
+                savedActiveBattler = gActiveBattler;
+                gActiveBattler = battlerId;
+                //BtlController_EmitTwoReturnValues(1, 11, gainedExp);
+                Emitcmd33(1, 11, gainedExp);                
+                gActiveBattler = savedActiveBattler;
+                gTasks[taskId].func = sub_802DCB0;
+            }
+            else
+            {
+                currExp += gainedExp;
+                SetMonData(&gPlayerParty[monId], MON_DATA_EXP, &currExp);
+                //gBattlerControllerFuncs[battlerId] = sub_802D90C;
+                gBattleBankFunc[battlerId] = sub_802D90C;
+                DestroyTask(taskId);
+            }
+        }
+    }
 }
-#else
+
+
+/*#else
 NAKED
 void sub_802DB6C(u8 taskId)
 {
@@ -1600,11 +1678,20 @@ _0802DCA8: .4byte gBattleBankFunc\n\
 _0802DCAC: .4byte sub_802D90C\n");
 }
 #endif
-
+*/
 void sub_802DCB0(u8 taskId)
 {
     u8 bank = gTasks[taskId].data[2];
     u8 pkmnIndex = gTasks[taskId].data[0];
+
+    //temptemptemptmep not from this function -------------
+    struct Pokemon *pkmn = &gPlayerParty[pkmnIndex];
+    u8 level = GetMonData(pkmn, MON_DATA_LEVEL);
+    //temptemptemptmep not from this function -------------
+
+    char temp[] = "sub_802DCB0 called - level below";
+    mgba_printf(MGBA_LOG_DEBUG, "%s", temp); //TEMP
+    mgba_printf(MGBA_LOG_DEBUG, "%d", level); //TEMP - confirmed 0 at this point
 
     if (IsDoubleBattle() == TRUE && pkmnIndex == gBattlerPartyIndexes[bank ^ 2])
         bank ^= 2;

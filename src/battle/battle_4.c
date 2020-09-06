@@ -26,6 +26,7 @@
 #include "naming_screen.h"
 #include "ewram.h"
 #include "util.h"
+#include "mgba.h" //TEMP
 
 // TODO: put this into battle_controllers.h
 
@@ -5377,6 +5378,14 @@ static void atk23_getexp(void)
     s32 viaExpShare = 0;
     u16* exp = &gBattleStruct->exp;
 
+    //TEMP
+    //already level 0 here...
+    //mgba_printf(MGBA_LOG_DEBUG, "%c", '-')
+    char temp[] = "atk23_getexp called";
+    u8 temp2 = gBattleStruct->getexpStateTracker;
+    mgba_printf(MGBA_LOG_DEBUG, "%s", temp); //TEMP
+    mgba_printf(MGBA_LOG_DEBUG, "%d", temp2); //TEMP
+
     gBank1 = GetBattleBank(gBattlescriptCurrInstr[1]);
     sentIn = gSentPokesToOpponent[(gBank1 & 2) >> 1];
 
@@ -5544,7 +5553,7 @@ static void atk23_getexp(void)
                 gBattleResources_statsBeforeLvlUp->spd = GetMonData(&gPlayerParty[gBattleStruct->expGetterID], MON_DATA_SPEED);
                 gBattleResources_statsBeforeLvlUp->spAtk = GetMonData(&gPlayerParty[gBattleStruct->expGetterID], MON_DATA_SPATK);
                 gBattleResources_statsBeforeLvlUp->spDef = GetMonData(&gPlayerParty[gBattleStruct->expGetterID], MON_DATA_SPDEF);
-                
+
                 gActiveBattler = gBattleStruct->expGetterBank;
 
                 EmitExpBarUpdate(0, gBattleStruct->expGetterID, gBattleMoveDamage);
@@ -5552,8 +5561,18 @@ static void atk23_getexp(void)
             }
             gBattleStruct->getexpStateTracker++;
         }
+
+        //TEMP
+        //already level 0 here...
+        //mgba_printf(MGBA_LOG_DEBUG, "%c", '-')
+        //mgba_printf(MGBA_LOG_DEBUG, "%d", GetMonData(&gPlayerParty[gBattleStruct->expGetterID], MON_DATA_LEVEL));
         break;
     case 4: // lvl up if necessary
+        //TEMP
+        //already level 0 here...
+        //mgba_printf(MGBA_LOG_DEBUG, "%c", '-')
+        //mgba_printf(MGBA_LOG_DEBUG, "%d", GetMonData(&gPlayerParty[gBattleStruct->expGetterID], MON_DATA_LEVEL));
+
         if (gBattleExecBuffer == 0)
         {
             gActiveBattler = gBattleStruct->expGetterBank;

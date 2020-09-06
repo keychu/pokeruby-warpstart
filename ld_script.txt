@@ -374,6 +374,8 @@ SECTIONS {
         src/debug/unknown_debug_menu.o(.text);
         src/name_string_util.o(.text);
         src/menu_cursor.o(.text);
+        src/mgba.o(.text);
+        src/printf.o(.text);
     } =0
 
     script_data :
@@ -760,6 +762,7 @@ SECTIONS {
         data/debug_mystery_event_scripts.o(.rodata);
         src/libs/m4a_tables.o(.rodata);
         data/sound_data.o(.rodata);
+	    src/printf.o(.rodata);
     } =0
 
     song_data :
