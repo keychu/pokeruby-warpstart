@@ -14,13 +14,13 @@ MAKER_CODE  := 01
 ifeq ($(GAME_VERSION), RUBY)
   BUILD_NAME := ruby
   #TITLE      := POKEMON RUBY
-  TITLE      := POKERUBYWARP
+  TITLE      := NEWRUBYWARP
   GAME_CODE  := AXV
 else
 ifeq ($(GAME_VERSION), SAPPHIRE)
   BUILD_NAME := sapphire
   #TITLE      := POKEMON SAPP
-  TITLE      := POKESAPHWARP
+  TITLE      := NEWSAPHWARP
   GAME_CODE  := AXP
 else
   $(error unknown version $(GAME_VERSION))
