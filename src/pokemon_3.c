@@ -568,6 +568,8 @@ u16 SpeciesToCryId(u16 species)
     if (species <= SPECIES_OLD_UNOWN_Z - 1)
         return SPECIES_UNOWN - 1;
 
+    //mgba_printf(MGBA_LOG_DEBUG, "%d", species - ((SPECIES_OLD_UNOWN_Z + 1) - 1));
+    mgba_printf(MGBA_LOG_DEBUG, "%d", gSpeciesIdToCryId[species - ((SPECIES_OLD_UNOWN_Z + 1) - 1)]);
     return gSpeciesIdToCryId[species - ((SPECIES_OLD_UNOWN_Z + 1) - 1)];
 }
 

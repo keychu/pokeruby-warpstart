@@ -47,7 +47,7 @@ static const u8 gStarterChoose_LabelCoords[][2] =
     {16, 10},
     {8, 4},
 };
-static const u16 sStarterMons[] = {SPECIES_ARCEUS, SPECIES_BOLDORE, SPECIES_TURTWIG};
+static const u16 sStarterMons[] = {SPECIES_BLACEPHALON, SPECIES_STAKATAKA, SPECIES_MELTAN};
 static const struct OamData gOamData_83F76CC =
 {
     .y = 160,
