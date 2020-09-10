@@ -31,7 +31,7 @@
 #include "ewram.h"
 #include "field_weather.h"
 #include "constants/weather.h"
-#include "mgba.h" //TEMP
+#include "mgba.h"
 
 extern u8 gPlayerPartyCount;
 extern u8 gEnemyPartyCount;
