@@ -100,7 +100,10 @@ void AgbMain()
     InitMainCallbacks();
     InitMapMusic();
     SeedRngWithRtc();
-    mgba_open(); //TEMP
+
+#if MGBA_DEBUG
+    mgba_open();
+#endif
 
     gSoftResetDisabled = FALSE;
 

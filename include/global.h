@@ -18,6 +18,9 @@
 #define INCBIN_S32 {0}
 #endif
 
+//mGBA debugging
+#define MGBA_DEBUG 0
+
 // Prevent cross-jump optimization.
 #define BLOCK_CROSS_JUMP asm("");
 

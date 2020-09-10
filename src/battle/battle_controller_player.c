@@ -22,7 +22,7 @@
 #include "text.h"
 #include "util.h"
 #include "ewram.h"
-#include "mgba.h" //TEMP
+#include "mgba.h"
 
 struct MovePpInfo
 {
@@ -1329,9 +1329,6 @@ void sub_802D924(u8 taskId)
     u32 pkmnIndex = (u8)gTasks[taskId].data[0];
     u8 bank = gTasks[taskId].data[2];
     s16 gainedExp = gTasks[taskId].data[1];
-    //TEMP
-    char temp[] = "sub_802D924 called";
-    mgba_printf(MGBA_LOG_DEBUG, "%s", temp); //TEMP
 
     if (IsDoubleBattle() == TRUE || pkmnIndex != gBattlerPartyIndexes[bank])
     {
@@ -1384,13 +1381,9 @@ void sub_802DA9C(u8 taskId)
     u32 exp = GetMonData(pkmn, MON_DATA_EXP);
     u32 currLvlExp = gExperienceTables[gBaseStats[species].growthRate][level];
     u32 expToNextLvl;
-    //TEMP
-    char temp[] = "sub_802DA9C called. expToNextLvl below";
-    mgba_printf(MGBA_LOG_DEBUG, "%s", temp); //TEMP
 
     exp -= currLvlExp;
     expToNextLvl = gExperienceTables[gBaseStats[species].growthRate][level + 1] - currLvlExp;
-    mgba_printf(MGBA_LOG_DEBUG, "%d", expToNextLvl); //TEMP
     sub_8043D84(bank, gHealthboxIDs[bank], expToNextLvl, exp, -r9);
     PlaySE(SE_EXP);
     gTasks[taskId].func = sub_802DB6C;
@@ -1400,9 +1393,6 @@ void sub_802DA9C(u8 taskId)
 //uhhhhhhhhhhh this one works but the assembly doesn't ???????
 /*void sub_802DB6C(u8 taskId)
 {
-    //TEMP
-    char temp[] = "sub_802DB6C called. sp4 / r10 / sp0 below";
-
     if (gTasks[taskId].data[10] < 13)
     {
         gTasks[taskId].data[10]++;
@@ -1430,11 +1420,6 @@ void sub_802DA9C(u8 taskId)
             sp4 = GetMonData(pkmn, MON_DATA_EXP);
             r0 = GetMonData(pkmn, MON_DATA_SPECIES);
             sp0 = gExperienceTables[gBaseStats[r0].growthRate][r4 + 1];
-
-            mgba_printf(MGBA_LOG_DEBUG, "%s", temp); //TEMP
-            mgba_printf(MGBA_LOG_DEBUG, "%d", sp4); //TEMP
-            mgba_printf(MGBA_LOG_DEBUG, "%d", r10); //TEMP
-            mgba_printf(MGBA_LOG_DEBUG, "%d", sp0); //TEMP
 
             if (sp4 + r10 >= sp0)
             {
@@ -1683,15 +1668,6 @@ void sub_802DCB0(u8 taskId)
 {
     u8 bank = gTasks[taskId].data[2];
     u8 pkmnIndex = gTasks[taskId].data[0];
-
-    //temptemptemptmep not from this function -------------
-    struct Pokemon *pkmn = &gPlayerParty[pkmnIndex];
-    u8 level = GetMonData(pkmn, MON_DATA_LEVEL);
-    //temptemptemptmep not from this function -------------
-
-    char temp[] = "sub_802DCB0 called - level below";
-    mgba_printf(MGBA_LOG_DEBUG, "%s", temp); //TEMP
-    mgba_printf(MGBA_LOG_DEBUG, "%d", level); //TEMP - confirmed 0 at this point
 
     if (IsDoubleBattle() == TRUE && pkmnIndex == gBattlerPartyIndexes[bank ^ 2])
         bank ^= 2;

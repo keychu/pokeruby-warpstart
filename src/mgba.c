@@ -30,6 +30,11 @@
 #define REG_DEBUG_FLAGS (vu16*) 0x4FFF700
 #define REG_DEBUG_STRING (char*) 0x4FFF600
 
+/*
+	Example:
+	mgba_printf(MGBA_LOG_DEBUG, "%d", GetMonData(&gPlayerParty[gBattleStruct->expGetterID], MON_DATA_LEVEL));
+*/
+
 void mgba_printf(int level, const char* ptr, ...) {
 #if !MODERN
 	va_list args;
