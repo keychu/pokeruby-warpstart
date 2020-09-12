@@ -412,8 +412,8 @@ u16 GetEvolutionTargetSpecies(struct Pokemon *mon, u8 type, u16 evolutionItem)
                 }
                 break;
             case EVO_LEVEL_RAIN:
-                j = GetCurrentWeather();
-                if (j == WEATHER_RAIN_PERMANENT) //changed: I think this is how this should be for Ruby
+                j = gWeatherPtr->currWeather;
+                if (gEvolutionTable[species][i].param <= level && (j == WEATHER_RAIN_LIGHT || j == WEATHER_RAIN_MED || j == WEATHER_RAIN_HEAVY))
                     targetSpecies = gEvolutionTable[species][i].targetSpecies;
                 break;
             case EVO_MOVE_TYPE:
