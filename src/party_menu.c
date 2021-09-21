@@ -4750,6 +4750,121 @@ void Task_WarpStartRareCandy(u8 taskId){
     }
 }
 
+//ADDED 
+//  (added here because the other new functions called by event.inc are also here)
+//
+//Modified version of TayaDebugMenu_PokenavD()
+//To use: add
+//      callNative DebugNewPokemon
+//      waitstate
+//  somewhere in the warp sequence.
+//The wait doesn't work at the moment for this function for some reason,
+//  but the saving to boxes does.
+/*void DebugNewPokemon(){
+    u16 i;
+    u16 j;
+
+    u16 z;
+    z = 415;
+
+    Menu_DisplayDialogueFrame();
+
+    for (i = 0; i < 14; i++)
+    {
+        //StringCopy(gSharedMem, gUnknown_Debug_083C4F94);
+        //gSharedMem[i + 1] = EOS;
+        //Menu_PrintText(gSharedMem, 2, 15);
+        for (j = 0; j < 30; j++, z++)
+        {
+            struct BoxPokemon *boxPokemon;
+            u32 otId = Random() + 1;
+            u16 level = (Random() % 100) + 1;
+            u16 species = z;
+
+            if (species >= NUM_SPECIES){
+                species = SPECIES_BULBASAUR;
+            }
+
+            boxPokemon = gPokemonStorage.boxes[i] + j;
+            CreateBoxMon(boxPokemon, species, level, 32, FALSE, 0, TRUE, otId);
+
+            otId = Random() & 0xff;
+            SetBoxMonData(boxPokemon, MON_DATA_COOL, &otId);
+
+            otId = Random() & 0xff;
+            SetBoxMonData(boxPokemon, MON_DATA_BEAUTY, &otId);
+
+            otId = Random() & 0xff;
+            SetBoxMonData(boxPokemon, MON_DATA_CUTE, &otId);
+
+            otId = Random() & 0xff;
+            SetBoxMonData(boxPokemon, MON_DATA_SMART, &otId);
+
+            otId = Random() & 0xff;
+            SetBoxMonData(boxPokemon, MON_DATA_TOUGH, &otId);
+
+            otId = Random() & 0xff;
+            SetBoxMonData(boxPokemon, MON_DATA_SHEEN, &otId);
+
+            otId = (Random() & 3) + 1;
+            SetBoxMonData(boxPokemon, MON_DATA_COOL_RIBBON, &otId);
+
+            otId = (Random() & 3) + 1;
+            SetBoxMonData(boxPokemon, MON_DATA_BEAUTY_RIBBON, &otId);
+
+            otId = (Random() & 3) + 1;
+            SetBoxMonData(boxPokemon, MON_DATA_CUTE_RIBBON, &otId);
+
+            otId = (Random() & 3) + 1;
+            SetBoxMonData(boxPokemon, MON_DATA_TOUGH_RIBBON, &otId);
+
+            otId = (Random() & 3) + 1;
+            SetBoxMonData(boxPokemon, MON_DATA_SMART_RIBBON, &otId);
+
+            otId = Random() & 1;
+            SetBoxMonData(boxPokemon, MON_DATA_CHAMPION_RIBBON, &otId);
+
+            otId = Random() & 1;
+            SetBoxMonData(boxPokemon, MON_DATA_WINNING_RIBBON, &otId);
+
+            otId = Random() & 1;
+            SetBoxMonData(boxPokemon, MON_DATA_VICTORY_RIBBON, &otId);
+
+            otId = Random() & 1;
+            SetBoxMonData(boxPokemon, MON_DATA_ARTIST_RIBBON, &otId);
+
+            otId = Random() & 1;
+            SetBoxMonData(boxPokemon, MON_DATA_EFFORT_RIBBON, &otId);
+
+            otId = Random() & 1;
+            SetBoxMonData(boxPokemon, MON_DATA_GIFT_RIBBON_1, &otId);
+
+            otId = Random() & 1;
+            SetBoxMonData(boxPokemon, MON_DATA_GIFT_RIBBON_2, &otId);
+
+            otId = Random() & 1;
+            SetBoxMonData(boxPokemon, MON_DATA_GIFT_RIBBON_3, &otId);
+
+            otId = Random() & 1;
+            SetBoxMonData(boxPokemon, MON_DATA_GIFT_RIBBON_4, &otId);
+
+            otId = Random() & 1;
+            SetBoxMonData(boxPokemon, MON_DATA_GIFT_RIBBON_5, &otId);
+
+            otId = Random() & 1;
+            SetBoxMonData(boxPokemon, MON_DATA_GIFT_RIBBON_6, &otId);
+
+            otId = Random() & 1;
+            SetBoxMonData(boxPokemon, MON_DATA_GIFT_RIBBON_7, &otId);
+        }
+    }
+
+    CloseMenu();
+    //EnableBothScriptContexts();
+
+    //return TRUE;
+}*/
+
 void DoRareCandyItemEffect(u8 taskId, u16 item, TaskFunc c)
 {
     u8 i;
