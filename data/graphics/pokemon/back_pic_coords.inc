@@ -722,7 +722,7 @@ gMonBackPicCoords:: @ 81E9114
 	.byte 104, 11, 0, 0
 	.byte 135, 4, 0, 0
 	.byte 104, 11, 0, 0
-	.byte 120, 3, 0, 0
+	.byte 120, 5, 0, 0
 	.byte 133, 3, 0, 0
 	.byte 136, 0, 0, 0
 	.byte 136, 4, 0, 0
@@ -745,7 +745,7 @@ gMonBackPicCoords:: @ 81E9114
 	.byte 104, 10, 0, 0
 	.byte 136, 4, 0, 0
 	.byte 120, 7, 0, 0
-	.byte 120, 7, 0, 0
+	.byte 120, 8, 0, 0
 	.byte 136, 3, 0, 0
 	.byte 86, 15, 0, 0
 	.byte 119, 4, 0, 0

@@ -4751,7 +4751,7 @@ void Task_WarpStartRareCandy(u8 taskId){
 }
 
 //ADDED 
-//  (added here because the other new functions called by event.inc are also here)
+//  (added here because the other new functions called by warpstart.inc are also here)
 //
 //Modified version of TayaDebugMenu_PokenavD()
 //To use: add
