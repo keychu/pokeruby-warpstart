@@ -2,6 +2,10 @@
 #include "debug.h"
 #include "task.h"
 
+#if MGBA_DEBUG
+    #include "mgba.h"
+#endif
+
 #define ACTIVE_SENTINEL 0x10
 #define HEAD_SENTINEL 0xFE
 #define TAIL_SENTINEL 0xFF
@@ -20,10 +24,11 @@ const u8 gError_NoTasksLeft[] = _(
 
 void ResetTasks()
 {
+    u8 taskId;
+    //mgba_printf(MGBA_LOG_DEBUG, "%s", "ResetTasks called");
+
     //ADDED. STOP ALL THESE FUNCTIONS FROM CLEARING THE TASKS DURING AUTO RARE CANDY
     if(!gWarp_PokemonSummaryScreenActive){
-        u8 taskId;
-
         for (taskId = 0; taskId < ACTIVE_SENTINEL; taskId++)
         {
             gTasks[taskId].isActive = FALSE;
@@ -36,6 +41,18 @@ void ResetTasks()
 
         gTasks[0].prev = HEAD_SENTINEL;
         gTasks[ACTIVE_SENTINEL - 1].next = TAIL_SENTINEL;
+    }
+    //Added - for some reason, dummy tasks are being left on the queue after learning a move during
+    //  auto rare candy. If ResetTasks is called during auto rare candy, we'll clean these up instead.
+    else{
+        for (taskId = 0; taskId < ACTIVE_SENTINEL; taskId++)
+        {
+            if((int)gTasks[taskId].func == (int)TaskDummy){
+                //mgba_printf(MGBA_LOG_DEBUG, "%s", "Deleting dummy task in custom reset");
+                //mgba_printf(MGBA_LOG_DEBUG, "%s %s", "-- is active?", gTasks[taskId].isActive ? "true" : "false");
+                DestroyTask(taskId);
+            }
+        }
     }
 }
 
@@ -59,6 +76,7 @@ u8 CreateTask(TaskFunc func, u8 priority)
 #if DEBUG
     Crash(gError_NoTasksLeft);
 #endif
+    //mgba_printf(MGBA_LOG_DEBUG, "%s", "No task slots remain!");
 
     return 0;
 }

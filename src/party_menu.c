@@ -44,6 +44,10 @@
 #include "event_object_movement.h"
 #include "field_control_avatar.h"
 
+#if MGBA_DEBUG
+    #include "mgba.h"
+#endif
+
 struct Coords8
 {
     u8 x;
@@ -4648,10 +4652,6 @@ void WarpStartRareCandy(){
     while(CheckBagHasItem(ITEM_RARE_CANDY, rareCandyCount + 1)){
         rareCandyCount++;
     }
-    
-    /* StringExpandPlaceholders(rareCandyString, WarpRareCandytext);
-    Menu_DisplayDialogueFrame();
-    MenuPrintMessageDefaultCoords(rareCandyString);*/
 
     taskId = CreateTask(Task_WarpStartRareCandy, 8);
     gTasks[taskId].data[0] = rareCandyCount;
@@ -4677,16 +4677,11 @@ void Task_WarpStartRareCandy(u8 taskId){
     //ClearPlayerFieldInput();
     gPlayerAvatar.preventStep = TRUE;
 
+    //mgba_printf(MGBA_LOG_DEBUG, "%s %d", "Task Count: ", GetTaskCount());
+    //mgba_printf(MGBA_LOG_DEBUG, "%s", "---------");
+
     //If we haven't locked this part out (data[1]) AND there are Rare Candies to use...
     if(gTasks[taskId].data[1] == 1 && gTasks[taskId].data[0] > 0){
-        //ScriptFreezeEventObjects(); //TEST
-        //struct EventObject *playerEventObj = &gEventObjects[gPlayerAvatar.eventObjectId];
-        //FreezeEventObject(playerEventObj);
-        //FreezeEventObjects();
-
-        //DEBUG - Flash the screen for each level up call
-        //BeginNormalPaletteFade(0xFFFFFFFF, 0, 16, 0, RGB(0, 0, 0)); //DEBUG
-
         gTasks[taskId].data[1] = 0; //run it once, then wait
         gTasks[taskId].data[0] -= 1; //reduce count for how many rare candies are left
 
@@ -4721,6 +4716,26 @@ void Task_WarpStartRareCandy(u8 taskId){
             StringExpandPlaceholders(gStringVar4, gOtherText_ElevatedTo);
             sub_806E834(gStringVar4, 1);
             gWarp_LevelUpActive = TRUE;
+
+            /*if(MGBA_DEBUG){
+                mgba_printf(MGBA_LOG_DEBUG, "%s %d", "Task ID 1: ", gTasks[1].func);
+                mgba_printf(MGBA_LOG_DEBUG, "%s %d", "Task ID 2: ", gTasks[2].func);
+                mgba_printf(MGBA_LOG_DEBUG, "%s %d", "Task ID 3: ", gTasks[3].func);
+                mgba_printf(MGBA_LOG_DEBUG, "%s %d", "Task ID 4: ", gTasks[4].func);
+                mgba_printf(MGBA_LOG_DEBUG, "%s %d", "Task ID 5: ", gTasks[5].func);
+                mgba_printf(MGBA_LOG_DEBUG, "%s %d", "Task ID 6: ", gTasks[6].func);
+                mgba_printf(MGBA_LOG_DEBUG, "%s %d", "Task ID 7: ", gTasks[7].func);
+                mgba_printf(MGBA_LOG_DEBUG, "%s %d", "Task ID 8: ", gTasks[8].func);
+                mgba_printf(MGBA_LOG_DEBUG, "%s %d", "Task ID 9: ", gTasks[9].func);
+                mgba_printf(MGBA_LOG_DEBUG, "%s %d", "Task ID 10: ", gTasks[10].func);
+                mgba_printf(MGBA_LOG_DEBUG, "%s %d", "Task ID 11: ", gTasks[11].func);
+                mgba_printf(MGBA_LOG_DEBUG, "%s %d", "Task ID 12: ", gTasks[12].func);
+                mgba_printf(MGBA_LOG_DEBUG, "%s %d", "Task ID 13: ", gTasks[13].func);
+                mgba_printf(MGBA_LOG_DEBUG, "%s %d", "Task ID 14: ", gTasks[14].func);
+                mgba_printf(MGBA_LOG_DEBUG, "%s %d", "Task ID 15: ", gTasks[15].func);
+                mgba_printf(MGBA_LOG_DEBUG, "%s %d", "-> TASK DUMMY ID: ", (int)TaskDummy);
+            }*/
+
             gTasks[taskId].data[10] = CreateTask(Task_RareCandy1, 5);
             ////gTasks[taskId].func = Task_RareCandy1;
         }

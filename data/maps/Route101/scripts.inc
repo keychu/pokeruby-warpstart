@@ -226,10 +226,14 @@ Route101_EventScript_14EA7F:: @ 814EA7F
 	waitmovement 0
 	special ScrSpecial_ChooseStarter
 	waitstate
-	
+
+	@ Should call this last bit of movement before WarpMenu
+	applymovement 2, Route101_Movement_14EAD7
+	waitmovement 0
+
 	@ Warp the player (and set up stuff depending on where)
 	call WarpMenu
-    
+
 	waitstate
 	release
 	end
