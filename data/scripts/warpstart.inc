@@ -81,8 +81,6 @@ IntroWarpCommon::
 IntroWarpNone::
     @ Just do what the Route 101 script would normally do.
 
-    applymovement 2, Route101_Movement_14EAD7
-    waitmovement 0
     msgbox Route101_Text_16D191, 4
     special ScrSpecial_HealPlayerParty
     setflag FLAG_HIDE_BIRCH_BATTLE_POOCHYENA

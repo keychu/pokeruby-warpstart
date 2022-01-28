@@ -20,10 +20,10 @@ const u8 gError_NoTasksLeft[] = _(
 
 void ResetTasks()
 {
+    u8 taskId;
+
     //ADDED. STOP ALL THESE FUNCTIONS FROM CLEARING THE TASKS DURING AUTO RARE CANDY
     if(!gWarp_PokemonSummaryScreenActive){
-        u8 taskId;
-
         for (taskId = 0; taskId < ACTIVE_SENTINEL; taskId++)
         {
             gTasks[taskId].isActive = FALSE;
@@ -36,6 +36,16 @@ void ResetTasks()
 
         gTasks[0].prev = HEAD_SENTINEL;
         gTasks[ACTIVE_SENTINEL - 1].next = TAIL_SENTINEL;
+    }
+    //Added - for some reason, dummy tasks are being left on the queue after learning a move during
+    //  auto rare candy. If ResetTasks is called during auto rare candy, we'll clean these up instead.
+    else{
+        for (taskId = 0; taskId < ACTIVE_SENTINEL; taskId++)
+        {
+            if((int)gTasks[taskId].func == (int)TaskDummy){
+                DestroyTask(taskId);
+            }
+        }
     }
 }
 
